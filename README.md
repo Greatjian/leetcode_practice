@@ -10,5 +10,5 @@ It's also listed chronologically.
 
 ## array
 
-- [two sum](/array/two sum)
+- [two sum]( leetcode_practice/array/two sum )
 - 
