@@ -44,7 +44,7 @@ time complexity: O(n)
 
 first judge, then add elements
 
-# solution:
+## Solution:
 
 ```
 class Solution(object):

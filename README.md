@@ -12,6 +12,6 @@ My harvests for each practice are summarized [here](/summary.md).
 
 ## Array
 
-- [001: two sum](/array/two_sum.md)
-- [011: container with most water](/array/container_with_most_water.md)
+- [001: two sum](/array/two_sum.md) 20170710
+- [011: container with most water](/array/container_with_most_water.md) 20170710
 - 
