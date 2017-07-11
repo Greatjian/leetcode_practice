@@ -1,6 +1,6 @@
 # leetcode_practice
 
-This is where I save and share my [leetcode](https://leetcode.com/) practice works. 
+This is where I save and share my [LeetCode](https://leetcode.com/) practice works. 
 First step of being a coder.
 
 The practice is listed based on different topics. 
