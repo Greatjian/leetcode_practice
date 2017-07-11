@@ -8,6 +8,9 @@ The order of appearances is from easy to medium
 (I'll try to get rid of hard problems in the end). 
 It's also listed chronologically.
 
+Python is used for each answer. Final solution is taken from [九章算法](http://www.jiuzhang.com/solution/), 
+the code of which is laconic and inspiring. Highly recommended:)
+
 My harvests for each practice are summarized [here](/summary.md).
 
 ## Array
