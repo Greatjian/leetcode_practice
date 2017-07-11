@@ -1,4 +1,4 @@
-# leetcode_practice
+# LeetCode Practice
 
 This is where I save and share my [LeetCode](https://leetcode.com/) practice works. 
 First step of being a coder.
@@ -8,7 +8,10 @@ The order of appearances is from easy to medium
 (I'll try to get rid of hard problems in the end). 
 It's also listed chronologically.
 
-## array
+My harvests for each practice are summarized [here](/summary.md).
 
-- [two sum](/array/two_sum.md)
+## Array
+
+- [001: two sum](/array/two_sum.md)
+- [011: container with most water](/array/container_with_most_water.md)
 - 

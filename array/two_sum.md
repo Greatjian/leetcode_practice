@@ -1,4 +1,4 @@
-# two sum
+# 001. Two Sum
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
@@ -10,6 +10,11 @@ Example:
 > Because nums[0] + nums[1] = 2 + 7 = 9,
 > 
 > return [0, 1].
+
+## Method
+
+using dictionary for each element.
+
 
 first try:
 
