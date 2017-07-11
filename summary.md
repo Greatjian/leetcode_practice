@@ -10,4 +10,6 @@ using dictionary for less time complexity.
 三数和转化为两数和，双指针夹逼求解，代码实现时需要注意删除重复部分。
 - [016: 3sum closest](/array/3sum_closest.md)
 返回值的初始值设定与替代判断实现。
+- [018: 4sum](/array/4sum.md)
+dictionary 与 tuple 的使用
 -

@@ -13,6 +13,7 @@ You may assume that each input would have exactly one solution.
 first thought: similar to 3sum, sort and traverse using two pointers. 
 make the sum and compute the closest value.
 
+卡在没有设定初始值，导致未找到合适条件判据。
 ```
 class Solution(object):
     def threeSumClosest(self, nums, target):
@@ -33,7 +34,7 @@ class Solution(object):
             i+=1
             return value
  ```
- 卡在没有设定初始值，导致未找到合适条件判据。
+新一次尝试用利用差值distance最小替换，pending for error... 
  
  ```
  class Solution(object):
@@ -46,31 +47,67 @@ class Solution(object):
          nums.sort()
          i=0
          distance=2^32-1
+         res=0
          while i<len(nums)-2:
              j=i+1
              k=len(nums)-1
-             total=nums[i]+nums[j]+nums[k]
-             res=nums[0]+nums[1]+nums[-1]
-             value=min(abs(total-target), abs(distance-target))
              while j<k:
+                total=nums[i]+nums[j]+nums[k]
                  if total==target:
                      return total
+                 if abs(total-target)<distance:
+                     res=total
+                     distance=abs(total-target)
                  elif total<target:
                      j+=1
-                     if abs(total-target)<value:
-                         res=total
                  else:
                      k-=1
-                     if abs(total-target)<value:
-                         res=total
              i+=1
              return res
+  
+fail for case ([1,1,1,1],100) should return 3 instead of 0
  ```
-  pending for error...
+ good try:
+ 
+ ```
+ class Solution(object):
+     def threeSumClosest(self, nums, target):
+         """
+         :type nums: List[int]
+         :type target: int
+         :rtype: int
+         """
+         nums.sort()
+         i=0
+         distance=2^32-1
+         res='none'
+         while i<len(nums)-2:
+             j=i+1
+             k=len(nums)-1
+             while j<k:
+                 total=nums[i]+nums[j]+nums[k]
+                 if total==target:
+                     return total
+                 if abs(total-target)<distance or res=='none':
+                     res=total
+                     distance=abs(total-target)
+                 if total<target:
+                     j+=1
+                 else:
+                     k-=1
+             i+=1
+         return res
+
+ ```
+  
   
   ## Solution:
   要返回最接近的和，需不断用更新过的和与之比较并作替代判断。
   代码中ans的初始值设定与替代判断值得学习。
+  
+  返回值为sum，但sum由变量相加得到，需用ans不断替代。
+  
+  重复情形不影响，故i直接遍历即可。
   ```
   class Solution:
       """
