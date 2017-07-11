@@ -9,5 +9,6 @@ The order of appearances is from easy to medium
 It's also listed chronologically.
 
 ##array
-- [two sum](\array\two sum.md)
+
+- [two sum](.\array\two sum.md)
 - 
