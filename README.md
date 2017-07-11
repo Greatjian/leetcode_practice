@@ -10,5 +10,5 @@ It's also listed chronologically.
 
 ## array
 
-- [two sum] ({{ site.url }}/array/two_sum.md)
+- [two sum](/array/two_sum.md)
 - 
