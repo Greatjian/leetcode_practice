@@ -8,7 +8,7 @@ The order of appearances is from easy to medium
 (I'll try to get rid of hard problem in the end). 
 It's also listed chronologically.
 
-##array
+## array
 
-- [two sum](.\array\two sum.md)
+- [two sum](./array/two sum.md)
 - 
