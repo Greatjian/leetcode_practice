@@ -11,5 +11,7 @@ using dictionary for less time complexity.
 - [016: 3sum closest](/array/3sum_closest.md)
 返回值的初始值设定与替代判断实现。
 - [018: 4sum](/array/4sum.md)
-dictionary 与 tuple 的使用
+dictionary 与 tuple 的使用。
+- [026: Remove Duplicates from Sorted Array](/array/Remove_Duplicates_from_Sorted_Array.md)
+指针的标记作用。
 -

@@ -20,4 +20,5 @@ My harvests for each practice are summarized [here](/summary.md).
 - [015: 3sum](/array/3sum.md) 20170710
 - [016: 3sum closest](/array/3sum_closest.md) 20170710
 - [018: 4sum](/array/4sum.md) 20170711
+- [026: Remove Duplicates from Sorted Array](/array/Remove_Duplicates_from_Sorted_Array.md) 20170712
 - 
