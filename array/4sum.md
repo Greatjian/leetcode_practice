@@ -28,6 +28,7 @@ class Solution(object):
         :type target: int
         :rtype: List[List[int]]
         """
+        nums.sort()
         res=[]
         for  i in range(len(nums)-3):
             for j in range(i+1, len(nums)-2):

@@ -29,6 +29,20 @@ def removeDuplicates(nums):
                 a += 1
     return len(nums)
 ```
+后发现直接遍历与前一项对比即可。
+```
+class Solution(object):
+    def removeDuplicates(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        a = 0
+        for i in range(1, len(nums)):
+            if nums[i] == nums[i - 1]:
+                a += 1
+        return len(nums)-a
+```
 
 ## Solution
 可采用指针标记非重复元素，最后返回所在位置。
