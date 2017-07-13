@@ -29,7 +29,8 @@ def removeDuplicates(nums):
                 a += 1
     return len(nums)
 ```
-后发现直接遍历与前一项对比即可。
+后发现直接遍历与前一项对比即可返回数值，
+但数组非重复元素需要移至最前。
 ```
 class Solution(object):
     def removeDuplicates(self, nums):
@@ -45,7 +46,7 @@ class Solution(object):
 ```
 
 ## Solution
-可采用指针标记非重复元素，最后返回所在位置。
+采用双指针，一个标记初始位置递增，另一个标记非重复元素，两指针元素通过不断互换位置实现。
 
 ```
 class Solution:
