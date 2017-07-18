@@ -16,4 +16,8 @@ dictionary 与 tuple 的使用。
 双指针的标记：两前。
 - [027: Remove Element](/array/Remove_Element.md)
 双指针的标记：前后标记或两后。
+- [031: Next Permutation](/array/Next_Permutation.md)
+举例找规律形成代码思路，具体实施：数组倒序、break语句、特殊情况单独考虑。
+- [033: Search in Rotated Sorted Array](/array/Search_in_Rotated_Sorted_Array.md)
+二分法搜索的使用，注意特殊情况。
 - 
