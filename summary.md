@@ -20,4 +20,8 @@ dictionary 与 tuple 的使用。
 举例找规律形成代码思路，具体实施：数组倒序、break语句、特殊情况单独考虑。
 - [033: Search in Rotated Sorted Array](/array/Search_in_Rotated_Sorted_Array.md)
 二分法搜索的使用，注意特殊情况。
+- [034: Search for a Range](array/Search_for_a_Range.md)
+二分法搜索的使用，注意特殊情况...
+- [035: Search Insert Position](array/Search_Insert_Position.md)
+二分法搜索的使用，注意特殊情况...
 - 

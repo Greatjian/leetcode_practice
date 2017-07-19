@@ -24,4 +24,6 @@ My harvests for each practice are summarized [here](/summary.md).
 - [027: Remove Element](/array/Remove_Element.md) 20170712
 - [031: Next Permutation](/array/Next_Permutation.md) 20170717
 - [033: Search in Rotated Sorted Array](/array/Search_in_Rotated_Sorted_Array.md) 20170717
-- 
+- [034: Search for a Range](array/Search_for_a_Range.md) 20170718
+- [035: Search Insert Position](array/Search_Insert_Position.md) 20170718
+-
