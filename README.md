@@ -26,4 +26,5 @@ My harvests for each practice are summarized [here](/summary.md).
 - [033: Search in Rotated Sorted Array](/array/Search_in_Rotated_Sorted_Array.md) 20170717
 - [034: Search for a Range](array/Search_for_a_Range.md) 20170718
 - [035: Search Insert Position](array/Search_Insert_Position.md) 20170718
--
+- [039: Combination Sum](/array/Combination_Sum.md) 20170719
+- [040: Combination Sum II](/array/Combination_Sum_II.md) 20170719

@@ -24,4 +24,8 @@ dictionary 与 tuple 的使用。
 二分法搜索的使用，注意特殊情况...
 - [035: Search Insert Position](array/Search_Insert_Position.md)
 二分法搜索的使用，注意特殊情况...
+- [039: Combination Sum](/array/Combination_Sum.md) 
+采用回溯法遍历，dfs(深度优先搜索)，正推与倒推方式。
+- [040: Combination Sum II](/array/Combination_Sum_II.md)
+采用回溯法遍历，dfs(深度优先搜索)，正推与倒推方式，删除重复元素。
 - 
