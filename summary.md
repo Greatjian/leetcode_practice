@@ -38,4 +38,10 @@ dictionary 与 tuple 的使用。
 倒序遍历：for i in range(len(nums)-1,-1,-1)。
 - [056: Merge Intervals](/array/Merge_Intervals.md) 
 使用双指针，一个遍历，一个与之比较并添加到结果集合中。
--
+- [059: Spiral Matrix II](/array/Spiral_Matrix_II.md)
+二维数组的一步建立：list = [[0 for i in range(n)] for j in range(n)]，高级解法的使用（i,j,di,dj,%）。
+- [062: Unique Paths](/array/Unique_Paths.md)
+数学题，每条路是其上方与左侧可能性之和。
+- [063: Unique Paths II](array/Unique_Paths_II.md)
+数学题同上，每条路是其上方与左侧可能性之和，但需要减去障碍位置（需考虑多种特殊情况）。
+- 

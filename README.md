@@ -33,4 +33,7 @@ My harvests for each practice are summarized [here](/summary.md).
 - [054: Spiral Matrix](/array/Spiral_Matrix.md) 20170720
 - [055: Jump Game](/array/Jump_Game.md) 20170720
 - [056: Merge Intervals](/array/Merge_Intervals.md) 20170720
+- [059: Spiral Matrix II](/array/Spiral_Matrix_II.md) 20170720
+- [062: Unique Paths](/array/Unique_Paths.md) 20170720
+- [063: Unique Paths II](array/Unique_Paths_II.md) 20170720
 - 
