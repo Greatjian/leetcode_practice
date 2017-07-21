@@ -85,3 +85,25 @@ Note: m and n will be at most 100.
                     else:
                         dp[i][j] = dp[i - 1][j] + dp[i][j - 1]
             return dp[m - 1][n - 1]
+            
+最佳方法是建立新的一维数组，按行遍历：
+
+    class Solution(object):
+        def uniquePathsWithObstacles(self, obstacleGrid):
+            """
+            :type obstacleGrid: List[List[int]]
+            :rtype: int
+            """
+            
+            m = len(obstacleGrid)
+            n = len(obstacleGrid[0])
+            dp = [0]*n
+            dp[0] = 1
+            for i in range(m):
+                row = obstacleGrid[i]
+                for j in range(n):
+                    if row[j] == 1: #obstacle
+                        dp[j] = 0
+                    elif j>0:
+                        dp[j] += dp[j-1]
+            return dp[-1]
