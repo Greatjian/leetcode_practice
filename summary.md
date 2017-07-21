@@ -34,4 +34,8 @@ dictionary 与 tuple 的使用。
 动态规划问题，寻找动中之静。
 - [054: Spiral Matrix](/array/Spiral_Matrix.md)
 注意遍历顺序：每次都为右下左上（if...elif)与该方向到头后为右下左上（if...if并设置direction值）。还要注意退出while循环的边界设定。
-- 
+- [055: Jump Game](/array/Jump_Game.md) 
+倒序遍历：for i in range(len(nums)-1,-1,-1)。
+- [056: Merge Intervals](/array/Merge_Intervals.md) 
+使用双指针，一个遍历，一个与之比较并添加到结果集合中。
+-

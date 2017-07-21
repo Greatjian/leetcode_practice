@@ -31,4 +31,6 @@ My harvests for each practice are summarized [here](/summary.md).
 - [048: Rotate Image](/array/Rotate_Image.md) 20170720
 - [053: Maximum Subarray](/array/Maximum_Subarray.md) 20170720
 - [054: Spiral Matrix](/array/Spiral_Matrix.md) 20170720
+- [055: Jump Game](/array/Jump_Game.md) 20170720
+- [056: Merge Intervals](/array/Merge_Intervals.md) 20170720
 - 
