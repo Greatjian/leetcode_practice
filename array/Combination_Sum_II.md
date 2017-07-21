@@ -47,9 +47,11 @@ A solution set is:
             
             
 ## Solution
-删除重复元素可在dfs中完成：
+删除重复元素可在dfs中完成，
+注意删除横向元素而非纵向:
+>([1,1,2,3...]中删除重复的[1,2,3...]，不删除[1,1,2...])
 
-删除采用while循环
+删除采用while循环：
 
 ```
 class Solution(object):
@@ -79,8 +81,9 @@ class Solution(object):
                 
         
 ```
-for-range则不行
+for-range则不行(for loop中i顺序增加，后面i+=1改变赋值没有效果)
 
+```
     def solsum(self, candidates, target, ans, res, start):
         if target==0:
             res.append(ans)
@@ -91,3 +94,17 @@ for-range则不行
                 self.solsum(candidates, target-candidates[i], ans+[candidates[i]], res, i+1)
                 while i+1<len(candidates) and candidates[i]==candidates[i+1]:
                     i+=1
+```
+可更改判断条件实现
+
+```
+    def solsum(self, candidates, target, ans, res, start):
+        if target==0:
+            res.append(ans)
+        else:
+            for i in range(start,len(candidates)):
+                if target<candidates[i]:
+                    return
+                if i!=start and i+1<len(candidates) and candidates[i]==candidates[i-1]:
+                    continue
+                self.solsum(candidates, target-candidates[i], ans+[candidates[i]], res, i+1)

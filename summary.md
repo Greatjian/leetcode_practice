@@ -28,4 +28,10 @@ dictionary 与 tuple 的使用。
 采用回溯法遍历，dfs(深度优先搜索)，正推与倒推方式。
 - [040: Combination Sum II](/array/Combination_Sum_II.md)
 采用回溯法遍历，dfs(深度优先搜索)，正推与倒推方式，删除重复元素。
+- [048: Rotate Image](/array/Rotate_Image.md)
+一步实现需要深度复制新数组，若不复制数组需要两次数组内部元素替换，注意替换时选定一半元素即可。
+- [053: Maximum Subarray](/array/Maximum_Subarray.md)
+动态规划问题，寻找动中之静。
+- [054: Spiral Matrix](/array/Spiral_Matrix.md)
+注意遍历顺序：每次都为右下左上（if...elif)与该方向到头后为右下左上（if...if并设置direction值）。还要注意退出while循环的边界设定。
 - 

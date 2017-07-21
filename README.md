@@ -28,3 +28,7 @@ My harvests for each practice are summarized [here](/summary.md).
 - [035: Search Insert Position](array/Search_Insert_Position.md) 20170718
 - [039: Combination Sum](/array/Combination_Sum.md) 20170719
 - [040: Combination Sum II](/array/Combination_Sum_II.md) 20170719
+- [048: Rotate Image](/array/Rotate_Image.md) 20170720
+- [053: Maximum Subarray](/array/Maximum_Subarray.md) 20170720
+- [054: Spiral Matrix](/array/Spiral_Matrix.md) 20170720
+- 
