@@ -150,3 +150,27 @@ You should return [1,2,3,6,9,8,7,4,5].
                     break
                 
             return ans
+            
+优秀答案共欣赏：
+
+循环判断用总元素数=矩阵长乘宽，拐点判断用%边长余数。
+
+    class Solution(object):
+        def spiralOrder(self, matrix):
+            """
+            :type matrix: List[List[int]]
+            :rtype: List[int]
+            """
+            res = []
+            if not matrix:
+                return res
+            i, j, di, dj = 0, 0, 0, 1
+            m, n = len(matrix), len(matrix[0])
+            for v in range(m*n):
+                res.append(matrix[i][j])
+                matrix[i][j] = ""
+                if matrix[(i+di)%m][(j+dj)%n] == "":
+                    di, dj = dj, -di
+                i += di
+                j += dj
+            return res
