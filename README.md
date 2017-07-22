@@ -37,7 +37,10 @@ My harvests for each practice are summarized [here](/summary.md).
 |056|[Merge Intervals](/array/Merge_Intervals.md)|2017.07.20|
 |059|[Spiral Matrix II](/array/Spiral_Matrix_II.md)|2017.07.20|
 |062|[Unique Paths](/array/Unique_Paths.md)|2017.07.20|
-|063|[Unique Paths II](array/Unique_Paths_II.md)|2017.07.20|
-| | | |
-| | | |
-| | | |
+|063|[Unique Paths II](/array/Unique_Paths_II.md)|2017.07.20|
+|064|[Minimum Path Sum](/array/Minimum_Path_Sum.md)|2017.07.21|
+|066|[Plus One](/array/Plus_One.md)|2017.07.21|
+|073|[Set Matrix Zeroes](/array/Set_Matrix_Zeroes.md)|2017.07.21|
+|074|[Search a 2D Matrix](/array/Search_a_2D_Matrix.md)|2017.07.21|
+|075|[Sort Colors](/array/Sort_Colors.md)|2017.07.21|
+|078|[Subsets](/array/Subsets.md)|2017.07.21|

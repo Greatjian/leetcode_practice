@@ -44,4 +44,18 @@ dictionary 与 tuple 的使用。
 数学题，每条路是其上方与左侧可能性之和。
 - [063: Unique Paths II](array/Unique_Paths_II.md)
 数学题同上，每条路是其上方与左侧可能性之和，但需要减去障碍位置（需考虑多种特殊情况）。
+- [064: Minimum Path Sum](/array/Minimum_Path_Sum.md)
+复制一维新数组操作，每一元素新数值为该处元素值加上上方和左侧数值的最小值。
+- [066: Plus One](/array/Plus_One.md)
+遍历通过使用for loop或者递归，分别判断每一位是否为9以及9是否在最高位。
+- [073: Set Matrix Zeroes](/array/Set_Matrix_Zeroes.md)
+对第一行和第一列是否有0进行判断，然后对其余（m-1）行与（n-1）列是否有0判断
+并表示在对应第一行与第一列位置，再讲第一行第一列中含0项进行整行整列标记，最后标记
+第一行与第一列本身.
+- [074: Search a 2D Matrix](/array/Search_a_2D_Matrix.md)
+双指针二分法，一列数中第x个对应m*n矩阵中的位置可以表示为matrix[x//n][x%n]
+- [075: Sort Colors](/array/Sort_Colors.md)
+使用三指针，前后标记0，2位置，中间依次遍历，分别判断并与前后交换位置。
+- [078: Subsets](/array/Subsets.md)
+递归(recursion)与迭代(iteration)方法的使用。
 - 
