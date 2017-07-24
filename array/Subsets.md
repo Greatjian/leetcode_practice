@@ -43,3 +43,12 @@ recursion method:
             res.append(path)
             for i in xrange(index, len(nums)):
                 self.dfs(nums, i + 1, path + [nums[i]], res)
+                
+
+[]---1---12---123
+      
+[]---1---13
+      
+[]---2---23
+  
+[]---3

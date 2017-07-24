@@ -44,3 +44,4 @@ My harvests for each practice are summarized [here](/summary.md).
 |074|[Search a 2D Matrix](/array/Search_a_2D_Matrix.md)|2017.07.21|
 |075|[Sort Colors](/array/Sort_Colors.md)|2017.07.21|
 |078|[Subsets](/array/Subsets.md)|2017.07.21|
+|079|[Word Search](/array/Word_Search.md)|2017.07.23|

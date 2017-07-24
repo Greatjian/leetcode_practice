@@ -58,4 +58,5 @@ dictionary 与 tuple 的使用。
 使用三指针，前后标记0，2位置，中间依次遍历，分别判断并与前后交换位置。
 - [078: Subsets](/array/Subsets.md)
 递归(recursion)与迭代(iteration)方法的使用。
-- 
+- [079: Word Search](/array/Word_Search.md)
+递归的使用，操作时最好不改变矩阵数值，可对每个元素增加对应判断值T/F。
