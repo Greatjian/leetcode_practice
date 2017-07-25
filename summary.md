@@ -19,7 +19,7 @@ dictionary 与 tuple 的使用。
 - [031: Next Permutation](/array/Next_Permutation.md)
 举例找规律形成代码思路，具体实施：数组倒序、break语句、特殊情况单独考虑。
 - [033: Search in Rotated Sorted Array](/array/Search_in_Rotated_Sorted_Array.md)
-二分法搜索的使用，注意特殊情况。
+二分法搜索的使用，注意特殊情况(nums=1 or 2)。
 - [034: Search for a Range](array/Search_for_a_Range.md)
 二分法搜索的使用，注意特殊情况...
 - [035: Search Insert Position](array/Search_Insert_Position.md)
@@ -60,3 +60,9 @@ dictionary 与 tuple 的使用。
 递归(recursion)与迭代(iteration)方法的使用。
 - [079: Word Search](/array/Word_Search.md)
 递归的使用，操作时最好不改变矩阵数值，可对每个元素增加对应判断值T/F。
+- [080: Remove Duplicates from Sorted Array II](/array/Remove_Duplicates_from_Sorted_Array2.md)
+不改变数组长度，增设一指针将第三个以上的相同元素赋值为下一不同元素值
+- [081: Search in Rotated Sorted Array II](/array/Search_in_Rotated_Sorted_Array_II.md)
+同033：二分法搜索的使用，注意特殊情况(nums=1 or 2)。
+- [088: Merge Sorted Array](/array/Merge_Sorted_Array.md)
+倒序比较两数组值大小并赋值，这样可以避免数组前端元素被覆盖。

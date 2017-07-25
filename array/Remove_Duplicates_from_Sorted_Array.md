@@ -46,51 +46,37 @@ class Solution(object):
 ```
 
 ## Solution
-采用双指针，一个标记初始位置递增，另一个标记非重复元素，两指针元素通过不断互换位置实现。
+采用双指针，一个标记初始位置递增，另一个标记非重复元素，两指针元素通过后者赋值给前者实现。
 
 ```
-class Solution:
-    """
-    @param A: a list of integers
-    @return an integer
-    """
-    def removeDuplicates(self, A):
-        # write your code here
-        if A == []:
+class Solution(object):
+    def removeDuplicates(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        if not nums:
             return 0
-        count = 0
-        for i in range(0, len(A)):
-            if A[i] == A[i-1]:
-                continue
-            else:
-                A[count] = A[i]
+        count = 1
+        for i in range(1, len(nums)):
+            if nums[i]!= nums[i-1]:
+                nums[count] = nums[i]
                 count += 1
         return count
 ```
 ```
-class Solution:
-    """
-    # @param A: a list of integers
-    # @return an integer
-    """
-    def removeDuplicates(self, A):
-        # write your code here
-        B = []
-        before = None
-        countb = 0
-        for number in A:
-            if(before != number):
-                B.append(number)
-                before = number
-                countb = 1
-            elif countb < 2:
-                B.append(number)
-                countb += 1
-        p = 0
-        for number in B:
-            A[p] = number
-            p += 1
-        return p
+class Solution(object):
+    def removeDuplicates(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        i = 0
+        for n in nums:
+            if i<1 or n> nums[i - 1]:
+                nums[i]=n
+                i+=1
+        return i
 ```
 
 

@@ -45,3 +45,6 @@ My harvests for each practice are summarized [here](/summary.md).
 |075|[Sort Colors](/array/Sort_Colors.md)|2017.07.21|
 |078|[Subsets](/array/Subsets.md)|2017.07.21|
 |079|[Word Search](/array/Word_Search.md)|2017.07.23|
+|080|[Remove Duplicates from Sorted Array II](/array/Remove_Duplicates_from_Sorted_Array2.md)|2017.07.24|
+|081|[Search in Rotated Sorted Array II](/array/Search_in_Rotated_Sorted_Array_II.md)|2017.07.24|
+|088|[Merge Sorted Array](/array/Merge_Sorted_Array.md)|2017.07.24|
