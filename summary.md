@@ -66,3 +66,5 @@ dictionary 与 tuple 的使用。
 同033：二分法搜索的使用，注意特殊情况(nums=1 or 2)。
 - [088: Merge Sorted Array](/array/Merge_Sorted_Array.md)
 倒序比较两数组值大小并赋值，这样可以避免数组前端元素被覆盖。
+[090: Subsets II](/array/Subsets_II.md)
+若新添加元素与之前不同，则新元素分别于结果中所有元素结合添加；否则与上一添加结果后元素结合添加。
