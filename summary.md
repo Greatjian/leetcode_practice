@@ -66,5 +66,15 @@ dictionary 与 tuple 的使用。
 同033：二分法搜索的使用，注意特殊情况(nums=1 or 2)。
 - [088: Merge Sorted Array](/array/Merge_Sorted_Array.md)
 倒序比较两数组值大小并赋值，这样可以避免数组前端元素被覆盖。
-[090: Subsets II](/array/Subsets_II.md)
+- [090: Subsets II](/array/Subsets_II.md)
 若新添加元素与之前不同，则新元素分别于结果中所有元素结合添加；否则与上一添加结果后元素结合添加。
+- [118: Pascal's Triangle](/array/Pascal's_Triangle.md)
+找规律，从第三行开始遍历。
+- [119: Pascal's Triangle II](/array/Pascal's_Triangle_II.md)
+直接初始化数组，为防止数值被覆盖，可倒序遍历。
+- [120: Triangle](/array/Triangle.md)
+倒层倒序遍历更为简洁。
+- [121: Best Time to Buy and Sell Stock](/array/Best_Time_to_Buy_and_Sell_Stock.md)
+一次遍历求出后元素减前元素的最大值。
+- [122: Best Time to Buy and Sell Stock II](/array/Best_Time_to_Buy_and_Sell_Stock_II.md)
+一次遍历，总收益分解为若干大减小值的和。

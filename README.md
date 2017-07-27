@@ -49,3 +49,8 @@ My harvests for each practice are summarized [here](/summary.md).
 |081|[Search in Rotated Sorted Array II](/array/Search_in_Rotated_Sorted_Array_II.md)|2017.07.24|
 |088|[Merge Sorted Array](/array/Merge_Sorted_Array.md)|2017.07.24|
 |090|[Subsets II](/array/Subsets_II.md)|2017.07.25|
+|118|[Pascal's Triangle](/array/Pascal's_Triangle.md)|2017.07.26|
+|119|[Pascal's Triangle II](/array/Pascal's_Triangle_II.md)|2017.07.26|
+|120|[Triangle](/array/Triangle.md)|2017.07.26|
+|121|[Best Time to Buy and Sell Stock](/array/Best_Time_to_Buy_and_Sell_Stock.md)|2017.07.26|
+|122|[Best Time to Buy and Sell Stock II](/array/Best_Time_to_Buy_and_Sell_Stock_II.md)|2017.07.26|
