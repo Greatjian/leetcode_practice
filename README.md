@@ -54,3 +54,8 @@ My harvests for each practice are summarized [here](/summary.md).
 |120|[Triangle](/array/Triangle.md)|2017.07.26|
 |121|[Best Time to Buy and Sell Stock](/array/Best_Time_to_Buy_and_Sell_Stock.md)|2017.07.26|
 |122|[Best Time to Buy and Sell Stock II](/array/Best_Time_to_Buy_and_Sell_Stock_II.md)|2017.07.26|
+|152|[Maximum Product Subarray](/array/Maximum_Product_Subarray.md)|2017.07.26|
+|153|[Find Minimum in Rotated Sorted Array](/array/Find_Minimum_in_Rotated_Sorted_Array.md)|2017.07.26|
+|162|[Find Peak Element](/array/Find_Peak_Element.md)|2017.07.27|
+|167|[Two Sum II - Input array is sorted](/array/Two_Sum_II_Input_array_is_sorted.md)|2017.07.27|
+|169|[Majority Element](/array/Majority_Element.md)|2017.07.27|

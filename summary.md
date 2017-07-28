@@ -78,3 +78,13 @@ dictionary 与 tuple 的使用。
 一次遍历求出后元素减前元素的最大值。
 - [122: Best Time to Buy and Sell Stock II](/array/Best_Time_to_Buy_and_Sell_Stock_II.md)
 一次遍历，总收益分解为若干大减小值的和。
+- [152: Maximum Product Subarray](/array/Maximum_Product_Subarray.md)
+最大值最小值分别为前任最大最小与新数相乘以及新数本身比较的最大最小。比较时要注意maxp中段会改变数值，故需要提前赋值给新变量。
+- [153: Find Minimum in Rotated Sorted Array](/array/Find_Minimum_in_Rotated_Sorted_Array.md)
+二分法，注意条件与1，2number时的对应。
+- [162: Find Peak Element](/array/Find_Peak_Element.md)
+二分法，根据元素数目分别讨论。
+- [167: Two Sum II - Input array is sorted](/array/Two_Sum_II_Input_array_is_sorted.md)
+字典或双指针遍历。
+- [169: Majority Element](/array/Majority_Element.md)
+返回中间值。
