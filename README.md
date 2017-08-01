@@ -17,7 +17,7 @@ My harvests for each practice are summarized [here](/summary.md).
 - [Array](#Array)
 - [Backtracking](#Backtracking)
 
-## <span id="Array">Array</span>
+## Array
 
 |Number|Name|Date|
 |:---:|:---:|:---:|
@@ -66,7 +66,7 @@ My harvests for each practice are summarized [here](/summary.md).
 |189|[Rotate Array](/array/Rotate_Array.md)|2017.7.30|
 |209|[Minimum Size Subarray Sum](/array/Minimum_Size_Subarray_Sum.md)|2017.7.31|
 
-## <span id="Backtracking">Backtracking</span>
+## Backtracking
 
 |Number|Name|Date|
 |:---:|:---:|:---:|
