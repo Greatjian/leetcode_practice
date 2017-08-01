@@ -1,6 +1,10 @@
 # Summery
 
-## Array
+## catalog:
+- [Array](#Array)
+- [Backtracking](#Backtracking)
+
+## <span id="Array">Array</span>
 
 - [001: two sum](/array/two_sum.md) 
 using dictionary for less time complexity.
@@ -92,3 +96,20 @@ dictionary 与 tuple 的使用。
 翻转数组的三种方式。
 - [209: Minimum Size Subarray Sum](/array/Minimum_Size_Subarray_Sum.md)
 双指针操作：右侧指针右移，和超过s后左指针左移，和小于s后右指针右移，以此类推直到遍历完全部数组。
+
+## <span id="Backtracking">Backtracking</span>
+
+- [039: Combination Sum](/array/Combination_Sum.md) 
+采用回溯法遍历，dfs(深度优先搜索)，正推与倒推方式。
+- [040: Combination Sum II](/array/Combination_Sum_II.md)
+采用回溯法遍历，dfs(深度优先搜索)，正推与倒推方式，删除重复元素。
+- [046: Permutations](/backtracking/Permutations.md)
+nums减少，path增加，nums为空时添加入res
+- [047: Permutations II](/backtracking/Permutations_II.md)
+类似前题，出现重复元素需加入条件判断删除重复结果。
+- [078: Subsets](/array/Subsets.md)
+递归(recursion)与迭代(iteration)方法的使用。
+- [079: Word Search](/array/Word_Search.md)
+递归的使用，操作时最好不改变矩阵数值，可对每个元素增加对应判断值T/F。
+- [090: Subsets II](/array/Subsets_II.md)
+若新添加元素与之前不同，则新元素分别于结果中所有元素结合添加；否则与上一添加结果后元素结合添加。
