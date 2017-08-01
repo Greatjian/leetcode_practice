@@ -88,3 +88,7 @@ dictionary 与 tuple 的使用。
 字典或双指针遍历。
 - [169: Majority Element](/array/Majority_Element.md)
 返回中间值。
+- [189: Rotate Array](/array/Rotate_Array.md)
+翻转数组的三种方式。
+- [209: Minimum Size Subarray Sum](/array/Minimum_Size_Subarray_Sum.md)
+双指针操作：右侧指针右移，和超过s后左指针左移，和小于s后右指针右移，以此类推直到遍历完全部数组。

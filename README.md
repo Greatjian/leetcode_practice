@@ -59,3 +59,5 @@ My harvests for each practice are summarized [here](/summary.md).
 |162|[Find Peak Element](/array/Find_Peak_Element.md)|2017.07.27|
 |167|[Two Sum II - Input array is sorted](/array/Two_Sum_II_Input_array_is_sorted.md)|2017.07.27|
 |169|[Majority Element](/array/Majority_Element.md)|2017.07.27|
+|189|[Rotate Array](/array/Rotate_Array.md)|2017.7.30|
+|209|[Minimum Size Subarray Sum](/array/Minimum_Size_Subarray_Sum.md)|2017.8.1|
