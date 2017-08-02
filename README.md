@@ -67,6 +67,9 @@ My harvests for each practice are summarized [here](/summary.md).
 |189|[Rotate Array](/array/Rotate_Array.md)|2017.7.30|
 |209|[Minimum Size Subarray Sum](/array/Minimum_Size_Subarray_Sum.md)|2017.7.31|
 |216|[Combination Sum III](/array/Combination_Sum_III.md)|2017.8.1|
+|217|[Contains Duplicate](/array/Contains_Duplicate.md)|2017.8.1|
+|219|[Contains Duplicate II](/array/Contains_Duplicate_II.md)|2017.8.1|
+|228|[Summary Ranges](/array/Summary_Ranges.md)|2017.8.1|
 
 ## Backtracking
 

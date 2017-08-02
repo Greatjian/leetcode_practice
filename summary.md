@@ -98,6 +98,12 @@ dictionary 与 tuple 的使用。
 双指针操作：右侧指针右移，和超过s后左指针左移，和小于s后右指针右移，以此类推直到遍历完全部数组。
 - [216: Combination Sum III](/array/Combination_Sum_III.md)
 模仿前两题。每次回溯s减去元素值，k减一，两者同时为0将path加入结果。
+- [217: Contains Duplicate](/array/Contains_Duplicate.md)
+排序前后直接比较，set比较长度，dict判断key是否存在。
+- [219: Contains Duplicate II](/array/Contains_Duplicate_II.md)
+用dict判断key是否存在，用value排序后比较index差值。
+- [228: Summary Ranges](/array/Summary_Ranges.md)
+双指针，end移至后端点，通过判断前后端点是否一致分别加入res。
 
 ## Backtracking
 

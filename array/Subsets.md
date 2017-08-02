@@ -52,3 +52,20 @@ recursion method:
 []---2---23
   
 []---3
+
+## Solution:
+
+    class Solution(object):
+        def subsets(self, nums):
+            """
+            :type nums: List[int]
+            :rtype: List[List[int]]
+            """ 
+            res=[]
+            return self.dfs(nums,[],res)
+            
+        def dfs(self,nums,path,res):
+            res.append(path)
+            for i in range(len(nums)):
+                self.dfs(nums[i+1:],path+[nums[i]],res)
+            return res

@@ -77,3 +77,22 @@ If nums = [1,2,2], a solution is:
                 for k in range(j,start):
                     res.append([nums[i]]+res[k])
             return res
+最佳recursion method:
+    
+    class Solution(object):
+        def subsetsWithDup(self, nums):
+            """
+            :type nums: List[int]
+            :rtype: List[List[int]]
+            """
+            nums.sort()
+            res = []
+            return self.getSubset(nums,[],res)
+        
+        def getSubset(self,nums,path,res):
+            res.append(path)
+            for i in range(len(nums)):
+                if i-1>=0 and nums[i]==nums[i-1]:
+                    continue
+                self.getSubset(nums[i+1:],path+[nums[i]],res)
+            return res
