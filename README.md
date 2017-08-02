@@ -70,6 +70,8 @@ My harvests for each practice are summarized [here](/summary.md).
 |217|[Contains Duplicate](/array/Contains_Duplicate.md)|2017.8.1|
 |219|[Contains Duplicate II](/array/Contains_Duplicate_II.md)|2017.8.1|
 |228|[Summary Ranges](/array/Summary_Ranges.md)|2017.8.1|
+|229|[Majority Element II](/array/Majority_Element.md)|2017.8.2|
+|238|[Product of Array Except Self](/array/Product_of_Array_Except_Self.md)|2017.8.2|
 
 ## Backtracking
 

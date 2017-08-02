@@ -103,7 +103,11 @@ dictionary 与 tuple 的使用。
 - [219: Contains Duplicate II](/array/Contains_Duplicate_II.md)
 用dict判断key是否存在，用value排序后比较index差值。
 - [228: Summary Ranges](/array/Summary_Ranges.md)
-双指针，end移至后端点，通过判断前后端点是否一致分别加入res。
+双指针；end移至后端点；通过判断前后端点是否一致分别加入res。
+- [229: Majority Element II](/array/Majority_Element.md)
+使用dict，用value作为count；最多返回两个值，分别记录数值与出现次数。
+- [238: Product of Array Except Self](/array/Product_of_Array_Except_Self.md)
+设置新数组，正反各遍历数组一遍。
 
 ## Backtracking
 
