@@ -34,7 +34,7 @@ For example,
             return res
 两点疑问：
 - 为何res.append时需要对current进行复制？（直接append current会return为空集）
-- 前后回溯时每一层nums与current的取值（current变化而nums未变化）?
+- 前后回溯时每一层nums与current的取值？（current变化而nums未变化）
 
 ![](/pic/q.jpeg)
 

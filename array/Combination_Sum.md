@@ -63,3 +63,24 @@ class Solution(object):
             for i in range(len(candidates)):
                 self.solsum(candidates[i:], target, ans+[candidates[i]], res)
 ```
+## Solution:
+
+    class Solution(object):
+        def combinationSum(self, candidates, target):
+            """
+            :type candidates: List[int]
+            :type target: int
+            :rtype: List[List[int]]
+            """
+            candidates.sort()
+            res=[]
+            self.solsum (candidates, target, [], res)
+            return res
+            
+        def solsum(self, candidates, target, ans, res):
+            if target==0:
+                return res.append(ans)
+            for i in range(len(candidates)):
+                if candidates[i]<=target:
+                    self.solsum(candidates[i:], target-candidates[i], ans+[candidates[i]], res)
+            

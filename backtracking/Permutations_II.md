@@ -27,10 +27,8 @@ For example,
             
         def getPermute(self, nums,path,res):
             for i in range(len(nums)):
-                if i+1<len(nums) and nums[i]==nums[i+1]:
+                if i>=1 and nums[i]==nums[i-1]:
                     continue
-                # if i>=1 and nums[i]==nums[i-1]:
-                #     continue
                 self.getPermute(nums[:i]+nums[i+1:],path+[nums[i]],res)
             if not nums:
                 res.append(path)
