@@ -14,8 +14,9 @@ the code of which is laconic and inspiring. Highly recommended:)
 My harvests for each practice are summarized [here](/summary.md).
 
 ## catalog:
-- [Array](#Array)
-- [Backtracking](#Backtracking)
+
+- [Array](#array)
+- [Backtracking](#backtracking)
 
 ## Array
 

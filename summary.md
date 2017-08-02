@@ -1,10 +1,10 @@
 # Summery
 
 ## catalog:
-- [Array](#Array)
-- [Backtracking](#Backtracking)
+- [Array](#array)
+- [Backtracking](#backtracking)
 
-## <span id="Array">Array</span>
+## Array
 
 - [001: two sum](/array/two_sum.md) 
 using dictionary for less time complexity.
@@ -97,7 +97,7 @@ dictionary 与 tuple 的使用。
 - [209: Minimum Size Subarray Sum](/array/Minimum_Size_Subarray_Sum.md)
 双指针操作：右侧指针右移，和超过s后左指针左移，和小于s后右指针右移，以此类推直到遍历完全部数组。
 
-## <span id="Backtracking">Backtracking</span>
+## Backtracking
 
 - [039: Combination Sum](/array/Combination_Sum.md) 
 采用回溯法遍历，dfs(深度优先搜索)，正推与倒推方式。
