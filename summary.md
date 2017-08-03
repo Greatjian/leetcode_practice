@@ -108,6 +108,10 @@ dictionary 与 tuple 的使用。
 使用dict，用value作为count；最多返回两个值，分别记录数值与出现次数。
 - [238: Product of Array Except Self](/array/Product_of_Array_Except_Self.md)
 设置新数组，正反各遍历数组一遍。
+- [268: Missing Number](/array/Missing_Number.md)
+求和公式。
+- [283: Move Zeroes](/array/Move_Zeroes.md)
+零与非零交换位置；非零覆盖零位，赋值剩余位置为零。
 
 ## Backtracking
 
