@@ -112,6 +112,10 @@ dictionary 与 tuple 的使用。
 求和公式。
 - [283: Move Zeroes](/array/Move_Zeroes.md)
 零与非零交换位置；非零覆盖零位，赋值剩余位置为零。
+- [287: Find the Duplicate Number](/array/Find_the_Duplicate_Number.md)
+二分法；映射找环法。
+- [289: Game of Life](/array/Game_of_Life.md)
+0，1外通过增加2，3表示后轮状态，移位可实现原状态到新状态的转变。
 
 ## Backtracking
 

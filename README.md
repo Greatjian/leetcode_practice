@@ -74,6 +74,8 @@ My harvests for each practice are summarized [here](/summary.md).
 |238|[Product of Array Except Self](/array/Product_of_Array_Except_Self.md)|2017.8.2|
 |268|[Missing Number](/array/Missing_Number.md)|2017.8.2|
 |283|[Move Zeroes](/array/Move_Zeroes.md)|2017.8.2|
+|287|[Find the Duplicate Number](/array/Find_the_Duplicate_Number.md)|2017.8.2|
+|289|[Game of Life](/array/Game_of_Life.md)|2017.8.3|
 
 ## Backtracking
 
