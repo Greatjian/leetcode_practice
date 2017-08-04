@@ -8,8 +8,8 @@ The order of appearances is from easy to medium
 (I'll try to get rid of hard problems in the end). 
 It's also listed chronologically.
 
-Python is used for each answer. Final solution is taken from [九章算法](http://www.jiuzhang.com/solution/), 
-the code of which is laconic and inspiring. Highly recommended:)
+Python is used for each answer. Final solution is taken from [九章算法](http://www.jiuzhang.com/solution/) and [书影博客](http://bookshadow.com/leetcode/),
+the codes from which are laconic and inspiring. Highly recommended:)
 
 My harvests for each practice are summarized [here](/summary.md).
 
@@ -76,6 +76,9 @@ My harvests for each practice are summarized [here](/summary.md).
 |283|[Move Zeroes](/array/Move_Zeroes.md)|2017.8.2|
 |287|[Find the Duplicate Number](/array/Find_the_Duplicate_Number.md)|2017.8.2|
 |289|[Game of Life](/array/Game_of_Life.md)|2017.8.3|
+|380|[Insert Delete GetRandom O(1)](/array/Insert_Delete_GetRandom_O(1).md)|2017.8.3|
+|414|[Third Maximum Number](/array/Third_Maximum_Number.md)|2017.8.3|
+|442|[Find All Duplicates in an Array](/array/Find_All_Duplicates_in_an_Array.md)|2017.8.3|
 
 ## Backtracking
 

@@ -116,6 +116,12 @@ dictionary 与 tuple 的使用。
 二分法；映射找环法。
 - [289: Game of Life](/array/Game_of_Life.md)
 0，1外通过增加2，3表示后轮状态，移位可实现原状态到新状态的转变。
+- [380: Insert Delete GetRandom O(1)](/array/Insert_Delete_GetRandom_O(1).md)
+在map中将key的value值记为index，列表中使用pop剔除元素达到O(1)。
+- [414: Third Maximum Number](/array/Third_Maximum_Number.md)
+一次遍历通过三个指针不断代替求得；用set去除重复元素，然后剔除两个最大值。
+- [442: Find All Duplicates in an Array](/array/Find_All_Duplicates_in_an_Array.md)
+将元素值视作下标取负，使用绝对值判断；位置交换法。
 
 ## Backtracking
 
