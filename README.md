@@ -79,6 +79,16 @@ My harvests for each practice are summarized [here](/summary.md).
 |380|[Insert Delete GetRandom O(1)](/array/Insert_Delete_GetRandom_O(1).md)|2017.8.3|
 |414|[Third Maximum Number](/array/Third_Maximum_Number.md)|2017.8.3|
 |442|[Find All Duplicates in an Array](/array/Find_All_Duplicates_in_an_Array.md)|2017.8.3|
+|448|[Find All Numbers Disappeared in an Array](/array/Find_All_Numbers_Disappeared_in_an_Array.md)|2017.8.4|
+|485|[Max Consecutive Ones](/array/Max_Consecutive_Ones.md)|2017.8.4|
+|495|[Teemo Attacking](/array/Teemo_Attacking.md)|2017.8.4|
+|532|[K-diff Pairs in an Array](/array/K-diff_Pairs_in_an_Array.md)|2017.8.4|
+|560|[Subarray Sum Equals K](/array/Subarray_Sum_Equals_K.md)|2017.8.4|
+|561|[Array Partition I](/array/Array_Partition_I.md)|2017.8.4|
+|565|[Array Nesting](/array/Array_Nesting.md)|2017.8.4|
+|566|[Reshape the Matrix](/array/Reshape_the_Matrix.md)|2017.8.4|
+|581|[Shortest Unsorted Continuous Subarray](/array/Shortest_Unsorted_Continuous_Subarray.md)|2017.8.4|
+|605|[Can Place Flowers](/array/Can_Place_Flowers.md)|2017.8.4|
 
 ## Backtracking
 

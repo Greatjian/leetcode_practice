@@ -26,6 +26,23 @@ Example:
             for num in list(set(nums)):
                 nums.remove(num)
             return nums
+            
+重复元素除set外也可使用dict的key判断，但须额外占用空间，不合题意：
+
+    class Solution(object):
+        def findDuplicates(self, nums):
+            """
+            :type nums: List[int]
+            :rtype: List[int]
+            """
+            ans = []
+            dic={}
+            for num in nums:
+                if num not in dic:
+                    dic[num]=1
+                else:
+                    ans.append(num)
+            return ans
 
 ## Solution:
 
@@ -45,7 +62,7 @@ Example:
                     nums[abs(n) - 1] *= -1
             return ans
             
-位置交换法：调整数组至nums[i]=i+1
+位置交换法：调整数组至nums[i]=i+1？
 
     class Solution(object):
         def findDuplicates(self, nums):

@@ -122,6 +122,26 @@ dictionary 与 tuple 的使用。
 一次遍历通过三个指针不断代替求得；用set去除重复元素，然后剔除两个最大值。
 - [442: Find All Duplicates in an Array](/array/Find_All_Duplicates_in_an_Array.md)
 将元素值视作下标取负，使用绝对值判断；位置交换法。
+- [448: Find All Numbers Disappeared in an Array](/array/Find_All_Numbers_Disappeared_in_an_Array.md)
+同上题，负数标记法。
+- [485: Max Consecutive Ones](/array/Max_Consecutive_Ones.md)
+简单动态规划，计数器。
+- [495: Teemo Attacking](/array/Teemo_Attacking.md)
+分类讨论：下一次攻击时前次攻击是否停止。
+- [532: K-diff Pairs in an Array](/array/K-diff_Pairs_in_an_Array.md)
+使用set和dict处理重复元素。
+- [560: Subarray Sum Equals K](/array/Subarray_Sum_Equals_K.md)
+使用dict计数，sum(j)-sum(i)=k。
+- [561: Array Partition I](/array/Array_Partition_I.md)
+排序求偶数位元素和。
+- [565: Array Nesting](/array/Array_Nesting.md)
+判断遍历：赋值-1或创建新数组。
+- [566: Reshape the Matrix](/array/Reshape_the_Matrix.md)
+一次遍历，不需额外占用空间（、与%的妙用。
+- [581: Shortest Unsorted Continuous Subarray](/array/Shortest_Unsorted_Continuous_Subarray.md)
+通过新建立排序数组与原数组比较，记满足nums[i] != snums[i]的最小i值为s，最大i值为e。
+- [605: Can Place Flowers](/array/Can_Place_Flowers.md)
+贪心算法（局部最优可导致整体最优）。
 
 ## Backtracking
 
