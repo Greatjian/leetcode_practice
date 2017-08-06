@@ -142,6 +142,8 @@ dictionary 与 tuple 的使用。
 通过新建立排序数组与原数组比较，记满足nums[i] != snums[i]的最小i值为s，最大i值为e。
 - [605: Can Place Flowers](/array/Can_Place_Flowers.md)
 贪心算法（局部最优可导致整体最优）。
+- [611: Valid Triangle Number](/array/Valid_Triangle_Number.md)
+双指针移动的两小边,O(n^2)。
 
 ## Backtracking
 

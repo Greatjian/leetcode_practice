@@ -89,6 +89,7 @@ My harvests for each practice are summarized [here](/summary.md).
 |566|[Reshape the Matrix](/array/Reshape_the_Matrix.md)|2017.8.4|
 |581|[Shortest Unsorted Continuous Subarray](/array/Shortest_Unsorted_Continuous_Subarray.md)|2017.8.4|
 |605|[Can Place Flowers](/array/Can_Place_Flowers.md)|2017.8.4|
+|611|[Valid Triangle Number](/array/Valid_Triangle_Number.md)|2017.8.5|
 
 ## Backtracking
 
