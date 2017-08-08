@@ -144,6 +144,10 @@ dictionary 与 tuple 的使用。
 贪心算法（局部最优可导致整体最优）。
 - [611: Valid Triangle Number](/array/Valid_Triangle_Number.md)
 双指针移动的两小边,O(n^2)。
+- [621: Task Scheduler](/array/Task_Scheduler.md)
+贪心法，直接从最多任务元素开始排列。
+- [628: Maximum Product of Three Numbers](/array/Maximum_Product_of_Three_Numbers.md)
+最大三数和为数组最大三数乘积或最大数乘两最小数值。float('inf')，float('-inf')/None。
 
 ## Backtracking
 

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/Valid_Triangle_Number.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/Maximum_Average_Subarray_I.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/Maximum_Product_of_Three_Numbers.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/Task_Scheduler.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
@@ -24,12 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="304">
-                <caret line="91" column="44" lean-forward="false" selection-start-line="91" selection-start-column="44" selection-end-line="91" selection-end-column="44" />
+              <first_editor relative-caret-position="264">
+                <caret line="94" column="81" lean-forward="false" selection-start-line="94" selection-start-column="81" selection-end-line="94" selection-end-column="81" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -37,12 +39,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summary.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="summary.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="283">
-                <caret line="145" column="17" lean-forward="false" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
+              <first_editor relative-caret-position="189">
+                <caret line="149" column="38" lean-forward="true" selection-start-line="149" selection-start-column="38" selection-end-line="149" selection-end-column="38" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -50,12 +52,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Valid_Triangle_Number.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/Valid_Triangle_Number.md">
+      <file leaf-file-name="Maximum_Average_Subarray_I.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/Maximum_Average_Subarray_I.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="148">
-                <caret line="60" column="28" lean-forward="true" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -78,9 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/array/Remove_Duplicates_from_Sorted_Array_II.md" />
-        <option value="$PROJECT_DIR$/array/Remove_Duplicates_from_Sorted_Array2.md" />
-        <option value="$PROJECT_DIR$/array/Remove_Duplicates_from_Sorted_Array.md" />
         <option value="$PROJECT_DIR$/array/Search_in_Rotated_Sorted_Array.md" />
         <option value="$PROJECT_DIR$/array/Search_in_Rotated_Sorted_Array_II.md" />
         <option value="$PROJECT_DIR$/array/Merge_Sorted_Array.md" />
@@ -127,8 +126,11 @@
         <option value="$PROJECT_DIR$/array/Shortest_Unsorted_Continuous_Subarray.md" />
         <option value="$PROJECT_DIR$/array/Can_Place_Flowers.md" />
         <option value="$PROJECT_DIR$/array/Valid_Triangle_Number.md" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/array/Task_Scheduler.md" />
+        <option value="$PROJECT_DIR$/array/Maximum_Product_of_Three_Numbers.md" />
+        <option value="$PROJECT_DIR$/array/Maximum_Average_Subarray_I.md" />
         <option value="$PROJECT_DIR$/summary.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -160,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,6 +204,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -336,12 +338,13 @@
       <workItem from="1501629521866" duration="3489000" />
       <workItem from="1501656337816" duration="1419000" />
       <workItem from="1501705638785" duration="2601000" />
-      <workItem from="1501721882031" duration="19595000" />
+      <workItem from="1501721882031" duration="20527000" />
+      <workItem from="1502229320299" duration="1551000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93813000" />
+    <option name="totallyTimeSpent" value="96296000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,27 +391,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array/Remove_Duplicates_from_Sorted_Array_II.md" />
-    <entry file="file://$PROJECT_DIR$/array/Remove_Duplicates_from_Sorted_Array2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="293">
-            <caret line="35" column="24" lean-forward="false" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/Search_in_Rotated_Sorted_Array.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="258">
-            <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array/Merge_Sorted_Array.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -684,7 +666,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="21" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -695,7 +676,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="465">
             <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -706,7 +686,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="420">
             <caret line="38" column="2" lean-forward="true" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="17" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -717,7 +696,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="825">
             <caret line="55" column="36" lean-forward="false" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -728,7 +706,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="218">
             <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -738,14 +715,12 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="82">
             <caret line="88" column="4" lean-forward="false" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -756,7 +731,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="264">
             <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -767,7 +741,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="546">
             <caret line="79" column="25" lean-forward="true" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -778,7 +751,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="292">
             <caret line="72" column="15" lean-forward="true" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -789,7 +761,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="187">
             <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -800,7 +771,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="720">
             <caret line="48" column="68" lean-forward="false" selection-start-line="48" selection-start-column="68" selection-end-line="48" selection-end-column="68" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -811,7 +781,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="9">
             <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -822,7 +791,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="247">
             <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -833,7 +801,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="189">
             <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -844,7 +811,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="92">
             <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -855,7 +821,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="201">
             <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -866,7 +831,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="249">
             <caret line="37" column="47" lean-forward="false" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -877,7 +841,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -886,19 +849,30 @@
     <entry file="file://$PROJECT_DIR$/array/Valid_Triangle_Number.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="148">
-            <caret line="60" column="28" lean-forward="true" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+          <first_editor relative-caret-position="900">
+            <caret line="60" column="28" lean-forward="false" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/array/Task_Scheduler.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="91" column="44" lean-forward="false" selection-start-line="91" selection-start-column="44" selection-end-line="91" selection-end-column="44" />
+          <first_editor relative-caret-position="252">
+            <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/Maximum_Product_of_Three_Numbers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="32" column="53" lean-forward="false" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
             <folding />
           </first_editor>
           <second_editor />
@@ -908,8 +882,30 @@
     <entry file="file://$PROJECT_DIR$/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="283">
-            <caret line="145" column="17" lean-forward="false" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
+          <first_editor relative-caret-position="189">
+            <caret line="149" column="38" lean-forward="true" selection-start-line="149" selection-start-column="38" selection-end-line="149" selection-end-column="38" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/Maximum_Average_Subarray_I.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="264">
+            <caret line="94" column="81" lean-forward="false" selection-start-line="94" selection-start-column="81" selection-end-line="94" selection-end-column="81" />
             <folding />
           </first_editor>
           <second_editor />

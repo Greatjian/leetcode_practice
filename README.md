@@ -90,6 +90,9 @@ My harvests for each practice are summarized [here](/summary.md).
 |581|[Shortest Unsorted Continuous Subarray](/array/Shortest_Unsorted_Continuous_Subarray.md)|2017.8.4|
 |605|[Can Place Flowers](/array/Can_Place_Flowers.md)|2017.8.4|
 |611|[Valid Triangle Number](/array/Valid_Triangle_Number.md)|2017.8.5|
+|621|[Task Scheduler](/array/Task_Scheduler.md)|2017.8.8|
+|628|[Maximum Product of Three Numbers](/array/Maximum_Product_of_Three_Numbers.md)|2017.8.8|
+|643|[Maximum Average Subarray I](/array/Maximum_Average_Subarray_I.md)|2017.8.8|
 
 ## Backtracking
 
