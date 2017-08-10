@@ -151,6 +151,8 @@ dictionary 与 tuple 的使用。
 
 ## Backtracking
 
+- [017: Letter Combinations of a Phone Number](/backtracking/Letter_Combinations_of_a_Phone_Number.md)
+dfs，注意遍历时return位置以及元素变化时的添加位置（for loop or dfs）。
 - [039: Combination Sum](/array/Combination_Sum.md) 
 采用回溯法遍历，dfs(深度优先搜索)，正推与倒推方式。
 - [040: Combination Sum II](/array/Combination_Sum_II.md)
