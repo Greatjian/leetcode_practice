@@ -153,6 +153,8 @@ dictionary 与 tuple 的使用。
 
 - [017: Letter Combinations of a Phone Number](/backtracking/Letter_Combinations_of_a_Phone_Number.md)
 dfs，注意遍历时return位置以及元素变化时的添加位置（for loop or dfs）。
+- [022: Generate Parentheses](/backtracking/Generate_Parentheses.md)
+添加左右变量判断。
 - [039: Combination Sum](/array/Combination_Sum.md) 
 采用回溯法遍历，dfs(深度优先搜索)，正推与倒推方式。
 - [040: Combination Sum II](/array/Combination_Sum_II.md)
@@ -161,9 +163,15 @@ dfs，注意遍历时return位置以及元素变化时的添加位置（for loop
 nums减少，path增加，nums为空时添加入res
 - [047: Permutations II](/backtracking/Permutations_II.md)
 类似前题，出现重复元素需加入条件判断删除重复结果。
+- [060: Permutation Sequence](/backtracking/Permutation_Sequence.md)
+使用n-1阶乘迭代。
+- [077: Combinations](/backtracking/Combinations.md)
+dfs增加判断去除不必要的递归；主函数自我递归。
 - [078: Subsets](/array/Subsets.md)
 递归(recursion)与迭代(iteration)方法的使用。
 - [079: Word Search](/array/Word_Search.md)
 递归的使用，操作时最好不改变矩阵数值，可对每个元素增加对应判断值T/F。
+- [089: Gray Code](/backtracking/Gray_Code.md)
+位操作；找规律。
 - [090: Subsets II](/array/Subsets_II.md)
 若新添加元素与之前不同，则新元素分别于结果中所有元素结合添加；否则与上一添加结果后元素结合添加。

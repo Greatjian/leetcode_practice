@@ -99,10 +99,14 @@ My harvests for each practice are summarized [here](/summary.md).
 |Number|Name|Date|
 |:---:|:---:|:---:|
 |017|[Letter Combinations of a Phone Number](/backtracking/Letter_Combinations_of_a_Phone_Number.md)|2017.8.9|
+|022|[Generate Parentheses](/backtracking/Generate_Parentheses.md)|2017.8.9|
 |039|[Combination Sum](/array/Combination_Sum.md)|2017.07.19|
 |040|[Combination Sum II](/array/Combination_Sum_II.md)|2017.07.19|
 |046|[Permutations](/backtracking/Permutations.md)|2017.8.1|
 |047|[Permutations II](/backtracking/Permutations_II.md)|2017.8.1|
+|060|[Permutation Sequence](/backtracking/Permutation_Sequence.md)|2017.8.10|
+|077|[Combinations](/backtracking/Combinations.md)|2017.8.10|
 |078|[Subsets](/array/Subsets.md)|2017.07.21|
 |079|[Word Search](/array/Word_Search.md)|2017.07.23|
+|089|[Gray Code](/backtracking/Gray_Code.md)|2017.8.10|
 |090|[Subsets II](/array/Subsets_II.md)|2017.07.25|
