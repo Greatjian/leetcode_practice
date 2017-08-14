@@ -34,7 +34,7 @@ Return all possible palindrome partitioning of s.
                 if s[0:i+1]==s[i::-1]:
                     self.dfs(s[i+1:],path+[s[0:i+1]],res)
                     
-将判断回文数部分已函数形式替换，169ms：
+将判断回文数部分用函数形式替换，169ms：
 
     class Solution(object):
         def partition(self, s):
