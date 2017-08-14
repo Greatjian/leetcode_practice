@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backtracking/Restore_IP_Addresses.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backtracking/Palindrome_Partitioning.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backtracking/Restore_IP_Addresses.md" afterPath="$PROJECT_DIR$/backtracking/Restore_IP_Addresses.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,12 +36,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summary.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="summary.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="355">
-                <caret line="178" column="51" lean-forward="false" selection-start-line="178" selection-start-column="51" selection-end-line="178" selection-end-column="51" />
+              <first_editor relative-caret-position="331">
+                <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -54,8 +53,21 @@
         <entry file="file://$PROJECT_DIR$/backtracking/Restore_IP_Addresses.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <first_editor relative-caret-position="300">
+                <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Palindrome_Partitioning.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backtracking/Palindrome_Partitioning.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -78,7 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/array/Best_Time_to_Buy_and_Sell_Stock_II.md" />
         <option value="$PROJECT_DIR$/array/Best_Time_to_Buy_and_Sell_Stock.md" />
         <option value="$PROJECT_DIR$/array/Maximum_Product_Subarray.md" />
         <option value="$PROJECT_DIR$/array/Find_Minimum_in_Rotated_Sorted_Array.md" />
@@ -126,9 +137,10 @@
         <option value="$PROJECT_DIR$/backtracking/Permutation_Sequence.md" />
         <option value="$PROJECT_DIR$/backtracking/Combinations.md" />
         <option value="$PROJECT_DIR$/backtracking/Gray_Code.md" />
-        <option value="$PROJECT_DIR$/backtracking/Restore_IP_Addresses.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
+        <option value="$PROJECT_DIR$/backtracking/Restore_IP_Addresses.md" />
+        <option value="$PROJECT_DIR$/backtracking/Palindrome_Partitioning.md" />
       </list>
     </option>
   </component>
@@ -339,12 +351,12 @@
       <workItem from="1501721882031" duration="20527000" />
       <workItem from="1502229320299" duration="1751000" />
       <workItem from="1502347302031" duration="6746000" />
-      <workItem from="1502694506831" duration="254000" />
+      <workItem from="1502694506831" duration="947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103496000" />
+    <option name="totallyTimeSpent" value="104189000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -391,16 +403,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array/Triangle.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array/Best_Time_to_Buy_and_Sell_Stock.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -888,22 +890,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backtracking/Restore_IP_Addresses.md">
+    <entry file="file://$PROJECT_DIR$/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <first_editor relative-caret-position="331">
+            <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/summary.md">
+    <entry file="file://$PROJECT_DIR$/backtracking/Restore_IP_Addresses.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="355">
-            <caret line="178" column="51" lean-forward="false" selection-start-line="178" selection-start-column="51" selection-end-line="178" selection-end-column="51" />
+          <first_editor relative-caret-position="300">
+            <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backtracking/Palindrome_Partitioning.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />

@@ -23,6 +23,7 @@ valid IP address: 四段数字，每段1-3位，大小在0-255间，若非0则�
         def dfs(self,s,path,res,n):
             if n==0 and not s:
                 res.append(path)
+                return
             if path:
                 path+='.'
             if n*3>=len(s) and n>0:
