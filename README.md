@@ -110,3 +110,4 @@ My harvests for each practice are summarized [here](/summary.md).
 |079|[Word Search](/array/Word_Search.md)|2017.07.23|
 |089|[Gray Code](/backtracking/Gray_Code.md)|2017.8.10|
 |090|[Subsets II](/array/Subsets_II.md)|2017.07.25|
+|093|[Restore IP Addresses](/backtracking/Restore_IP_Addresses.md)|2017.8.13|

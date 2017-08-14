@@ -175,3 +175,5 @@ dfs增加判断去除不必要的递归；主函数自我递归。
 位操作；找规律。
 - [090: Subsets II](/array/Subsets_II.md)
 若新添加元素与之前不同，则新元素分别于结果中所有元素结合添加；否则与上一添加结果后元素结合添加。
+- [093: Restore IP Addresses](/backtracking/Restore_IP_Addresses.md)
+四段数字，每段1-3位，大小在0-255间，若非0则首位不能有0。
