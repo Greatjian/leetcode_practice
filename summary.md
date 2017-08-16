@@ -179,3 +179,7 @@ dfs增加判断去除不必要的递归；主函数自我递归。
 四段数字，每段1-3位，大小在0-255间，若非0则首位不能有0。
 - [131: Palindrome Partitioning](/backtracking/Palindrome_Partitioning.md)
 判断回文数：s[0:i+1]==s[i::-1]。
+- [216: Combination Sum III](/array/Combination_Sum_III.md)
+模仿前两题。每次回溯s减去元素值，k减一，两者同时为0将path加入结果。
+- [357: Count Numbers with Unique Digits](/backtracking/Count_Numbers_with_Unique_Digits.md)
+dfs；math。

@@ -112,3 +112,5 @@ My harvests for each practice are summarized [here](/summary.md).
 |090|[Subsets II](/array/Subsets_II.md)|2017.07.25|
 |093|[Restore IP Addresses](/backtracking/Restore_IP_Addresses.md)|2017.8.13|
 |131|[Palindrome Partitioning](/backtracking/Palindrome_Partitioning.md)|2017.8.13|
+|216|[Combination Sum III](/array/Combination_Sum_III.md)|2017.8.1|
+|357|[Count Numbers with Unique Digits](/backtracking/Count_Numbers_with_Unique_Digits.md)|2017.8.14|
