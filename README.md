@@ -17,7 +17,7 @@ My harvests for each practice are summarized [here](/summary.md).
 
 - [Array](#array)
 - [Backtracking](#backtracking)
-- [Dynamic Programming](#dynamic programming)
+- [Dynamic Programming](dynamic-programming)
 
 ## Array
 
