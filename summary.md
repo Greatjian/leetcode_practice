@@ -3,6 +3,7 @@
 ## catalog:
 - [Array](#array)
 - [Backtracking](#backtracking)
+- [Dynamic Programming](#dynamic programming)
 
 ## Array
 
@@ -187,3 +188,15 @@ dfs；math。
 位操作。
 - [526: Beautiful Arrangement](/backtracking/Beautiful_Arrangement.md)
 dfs；dict。
+
+## Dynamic Programming
+- [053: Maximum Subarray](/array/Maximum_Subarray.md)
+动态规划问题，寻找动中之静。
+- [062: Unique Paths](/array/Unique_Paths.md)
+数学题，每条路是其上方与左侧可能性之和。
+- [063: Unique Paths II](array/Unique_Paths_II.md)
+数学题同上，每条路是其上方与左侧可能性之和，但需要减去障碍位置（需考虑多种特殊情况）。
+- [064: Minimum Path Sum](/array/Minimum_Path_Sum.md)
+复制一维新数组操作，每一元素新数值为该处元素值加上上方和左侧数值的最小值。
+- [070: Climbing Stairs](/DynamicProgramming/Climbing_Stairs.md)
+递推法。
