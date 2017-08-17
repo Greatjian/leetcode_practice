@@ -185,3 +185,5 @@ dfs增加判断去除不必要的递归；主函数自我递归。
 dfs；math。
 - [401: Binary Watch](/backtracking/Binary_Watch.md)
 位操作。
+- [526: Beautiful Arrangement](/backtracking/Beautiful_Arrangement.md)
+dfs；dict。
