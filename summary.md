@@ -3,7 +3,7 @@
 ## catalog:
 - [Array](#array)
 - [Backtracking](#backtracking)
-- [Dynamic Programming](dynamic-programming)
+- [Dynamic Programming](#dynamic-programming)
 
 ## Array
 
