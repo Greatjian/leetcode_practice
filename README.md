@@ -13,7 +13,7 @@ the codes from which are laconic and inspiring. Highly recommended:)
 
 My harvests for each practice are summarized [here](/summary.md).
 
-## catalog:
+## Catalog:
 
 - [Array](#array)
 - [Backtracking](#backtracking)
@@ -127,3 +127,4 @@ My harvests for each practice are summarized [here](/summary.md).
 |063|[Unique Paths II](/array/Unique_Paths_II.md)|2017.07.20|
 |064|[Minimum Path Sum](/array/Minimum_Path_Sum.md)|2017.07.21|
 |070|[Climbing Stairs](/DynamicProgramming/Climbing_Stairs.md)|2017.8.17|
+|091|[Decode Ways](/DynamicProgramming/Decode_Ways.md)|2017.8.19|
