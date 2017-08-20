@@ -200,5 +200,7 @@ dfs；dict。
 复制一维新数组操作，每一元素新数值为该处元素值加上上方和左侧数值的最小值。
 - [070: Climbing Stairs](/DynamicProgramming/Climbing_Stairs.md)
 递推法。
-[091: Decode Ways](/DynamicProgramming/Decode_Ways.md)
+- [091: Decode Ways](/DynamicProgramming/Decode_Ways.md)
 递推，判断0位。
+- [139: Word Break](/DynamicProgramming/Word_Break.md)
+dp list传递。
