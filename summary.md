@@ -204,3 +204,5 @@ dfs；dict。
 递推，判断0位。
 - [139: Word Break](/DynamicProgramming/Word_Break.md)
 dp list传递。
+- [198: House Robber](DynamicProgramming/House_Robber.md)
+dp, 寻找递推公式。
