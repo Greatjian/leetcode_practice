@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/House_Robber.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/House_Robber_II.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/Maximal_Square.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
@@ -28,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="346">
-                <caret line="130" column="24" lean-forward="true" selection-start-line="130" selection-start-column="24" selection-end-line="130" selection-end-column="24" />
+              <first_editor relative-caret-position="350">
+                <caret line="133" column="42" lean-forward="false" selection-start-line="133" selection-start-column="42" selection-end-line="133" selection-end-column="42" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -41,8 +42,8 @@
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="391">
-                <caret line="207" column="11" lean-forward="false" selection-start-line="207" selection-start-column="11" selection-end-line="207" selection-end-column="11" />
+              <first_editor relative-caret-position="366">
+                <caret line="211" column="43" lean-forward="false" selection-start-line="211" selection-start-column="43" selection-end-line="211" selection-end-column="43" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -50,12 +51,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="House_Robber.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DynamicProgramming/House_Robber.md">
+      <file leaf-file-name="Maximal_Square.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DynamicProgramming/Maximal_Square.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="10" />
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -78,8 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/array/Minimum_Size_Subarray_Sum.md" />
-        <option value="$PROJECT_DIR$/backtracking/Permutations.md" />
         <option value="$PROJECT_DIR$/array/Combination_Sum_III.md" />
         <option value="$PROJECT_DIR$/array/Combination_Sum_II.md" />
         <option value="$PROJECT_DIR$/backtracking/Permutations_II.md" />
@@ -127,6 +126,8 @@
         <option value="$PROJECT_DIR$/DynamicProgramming/Decode_Ways.md" />
         <option value="$PROJECT_DIR$/DynamicProgramming/Word_Break.md" />
         <option value="$PROJECT_DIR$/DynamicProgramming/House_Robber.md" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/House_Robber_II.md" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/Maximal_Square.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
       </list>
@@ -161,6 +162,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="leetcode practice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -189,21 +205,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="leetcode practice">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,12 +346,14 @@
       <workItem from="1502990189601" duration="1114000" />
       <workItem from="1503162595688" duration="784000" />
       <workItem from="1503252435662" duration="1726000" />
-      <workItem from="1503380124394" duration="572000" />
+      <workItem from="1503380124394" duration="606000" />
+      <workItem from="1503468537979" duration="927000" />
+      <workItem from="1503514124994" duration="341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111682000" />
+    <option name="totallyTimeSpent" value="112984000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,26 +400,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array/Rotate_Array.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/Minimum_Size_Subarray_Sum.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="133">
-            <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backtracking/Permutations_II.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -882,22 +865,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/House_Robber.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="193">
+            <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="346">
-            <caret line="130" column="24" lean-forward="true" selection-start-line="130" selection-start-column="24" selection-end-line="130" selection-end-column="24" />
+          <first_editor relative-caret-position="350">
+            <caret line="133" column="42" lean-forward="false" selection-start-line="133" selection-start-column="42" selection-end-line="133" selection-end-column="42" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/House_Robber.md">
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/House_Robber_II.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="10" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Maximal_Square.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />
@@ -907,8 +911,8 @@
     <entry file="file://$PROJECT_DIR$/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="207" column="11" lean-forward="false" selection-start-line="207" selection-start-column="11" selection-end-line="207" selection-end-column="11" />
+          <first_editor relative-caret-position="366">
+            <caret line="211" column="43" lean-forward="false" selection-start-line="211" selection-start-column="43" selection-end-line="211" selection-end-column="43" />
             <folding />
           </first_editor>
           <second_editor />

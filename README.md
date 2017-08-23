@@ -130,3 +130,5 @@ My harvests for each practice are summarized [here](/summary.md).
 |091|[Decode Ways](/DynamicProgramming/Decode_Ways.md)|2017.8.19|
 |139|[Word Break](/DynamicProgramming/Word_Break.md)|2017.8.20|
 |198|[House Robber](DynamicProgramming/House_Robber.md)|2017.8.21|
+|213|[House Robber II](/DynamicProgramming/House_Robber_II.md)|2017.8.22|
+|221|[Maximal Square](/DynamicProgramming/Maximal_Square.md)|2017.8.23|

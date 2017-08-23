@@ -206,3 +206,7 @@ dfs；dict。
 dp list传递。
 - [198: House Robber](DynamicProgramming/House_Robber.md)
 dp, 寻找递推公式。
+- [213: House Robber II](/DynamicProgramming/House_Robber_II.md)
+将环形DP问题转化为两趟线性DP问题。
+- [221: Maximal Square](/DynamicProgramming/Maximal_Square.md)
+dp，状态转移方程；create list using comprehension: dp=[[0]*n for i in range(m)]
