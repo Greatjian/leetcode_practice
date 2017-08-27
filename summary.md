@@ -210,3 +210,7 @@ dp, 寻找递推公式。
 将环形DP问题转化为两趟线性DP问题。
 - [221: Maximal Square](/DynamicProgramming/Maximal_Square.md)
 dp，状态转移方程；create list using comprehension: dp=[[0]*n for i in range(m)]
+- [264: Ugly Number II](/DynamicProgramming/Ugly_Number_II.md)
+找规律，ugly number后面出现的数为列表前出现数字的2，3，5倍。
+- [279: Perfect Squares](/DynamicProgramming/Perfect_Squares.md)
+不断减去平方差减小替代循环，直至0。

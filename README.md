@@ -132,3 +132,5 @@ My harvests for each practice are summarized [here](/summary.md).
 |198|[House Robber](DynamicProgramming/House_Robber.md)|2017.8.21|
 |213|[House Robber II](/DynamicProgramming/House_Robber_II.md)|2017.8.22|
 |221|[Maximal Square](/DynamicProgramming/Maximal_Square.md)|2017.8.23|
+|264|[Ugly Number II](/DynamicProgramming/Ugly_Number_II.md)|2017.8.26|
+|279|[Perfect Squares](/DynamicProgramming/Perfect_Squares.md)|2017.8.26|
