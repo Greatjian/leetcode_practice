@@ -214,3 +214,9 @@ dp，状态转移方程；create list using comprehension: dp=[[0]*n for i in ra
 找规律，ugly number后面出现的数为列表前出现数字的2，3，5倍。
 - [279: Perfect Squares](/DynamicProgramming/Perfect_Squares.md)
 不断减去平方差减小替代循环，直至0。
+- [300: Longest Increasing Subsequence](/DynamicProgramming/Longest_Increasing_Subsequence.md)
+dp；二分法。
+- [303: Range Sum Query - Immutable](/DynamicProgramming/Range_Sum_Query_Immutable.md)
+遍历求和计算部分在init内完成，可减少每次调用函数所需时间。
+- [Range Sum Query 2D - Immutable](/DynamicProgramming/Range_Sum_Query_2D_Immutable.md)
+二位矩阵元素求和。

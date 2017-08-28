@@ -134,3 +134,6 @@ My harvests for each practice are summarized [here](/summary.md).
 |221|[Maximal Square](/DynamicProgramming/Maximal_Square.md)|2017.8.23|
 |264|[Ugly Number II](/DynamicProgramming/Ugly_Number_II.md)|2017.8.26|
 |279|[Perfect Squares](/DynamicProgramming/Perfect_Squares.md)|2017.8.26|
+|300|[Longest Increasing Subsequence](/DynamicProgramming/Longest_Increasing_Subsequence.md)|2017.8.27|
+|303|[Range Sum Query - Immutable](/DynamicProgramming/Range_Sum_Query_Immutable.md)|2017.8.28|
+|304|[Range Sum Query 2D - Immutable](/DynamicProgramming/Range_Sum_Query_2D_Immutable.md)|2017.8.28|

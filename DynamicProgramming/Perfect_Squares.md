@@ -43,3 +43,30 @@ For example, given n = 12, return 3 because 12 = 4 + 4 + 4; given n = 13, return
                         temp.add(x-y)
                 toCheck = temp 
             return cnt 
+3 自己
+
+    class Solution(object):
+        def numSquares(self, n):
+            """
+            :type n: int
+            :rtype: int
+            """
+            lst=[]
+            i=1
+            while i*i<=n:
+                lst.append(i*i)
+                i+=1
+            check=set([n])
+            count=0
+            while check:
+                count+=1
+                temp=set()
+                for i in lst:
+                    for j in check:
+                        if i==j:
+                            return count
+                        if i>j:
+                            continue
+                        temp.add(j-i)
+                check=temp
+            return count
