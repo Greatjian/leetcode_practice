@@ -218,7 +218,9 @@ dp，状态转移方程；create list using comprehension: dp=[[0]*n for i in ra
 dp；二分法。
 - [303: Range Sum Query - Immutable](/DynamicProgramming/Range_Sum_Query_Immutable.md)
 遍历求和计算部分在init内完成，可减少每次调用函数所需时间。
-- [Range Sum Query 2D - Immutable](/DynamicProgramming/Range_Sum_Query_2D_Immutable.md)
+- [304: Range Sum Query 2D - Immutable](/DynamicProgramming/Range_Sum_Query_2D_Immutable.md)
 二位矩阵元素求和。
-- [Coin Change](/DynamicProgramming/Coin_Change.md)
+- [322: Coin Change](/DynamicProgramming/Coin_Change.md)
 状态转移方程：dp[x + c] = min(dp[x] + 1, dp[x + c])。
+- [338: Counting Bits](/DynamicProgramming/Counting_Bits.md)
+找规律；移位。

@@ -138,3 +138,4 @@ My harvests for each practice are summarized [here](/summary.md).
 |303|[Range Sum Query - Immutable](/DynamicProgramming/Range_Sum_Query_Immutable.md)|2017.8.28|
 |304|[Range Sum Query 2D - Immutable](/DynamicProgramming/Range_Sum_Query_2D_Immutable.md)|2017.8.28|
 |322|[Coin Change](/DynamicProgramming/Coin_Change.md)|2017.8.29|
+|338|[Counting Bits](/DynamicProgramming/Counting_Bits.md)|2017.8.30|
