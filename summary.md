@@ -220,3 +220,5 @@ dp；二分法。
 遍历求和计算部分在init内完成，可减少每次调用函数所需时间。
 - [Range Sum Query 2D - Immutable](/DynamicProgramming/Range_Sum_Query_2D_Immutable.md)
 二位矩阵元素求和。
+- [Coin Change](/DynamicProgramming/Coin_Change.md)
+状态转移方程：dp[x + c] = min(dp[x] + 1, dp[x + c])。
