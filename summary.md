@@ -183,7 +183,7 @@ dfs增加判断去除不必要的递归；主函数自我递归。
 - [216: Combination Sum III](/array/Combination_Sum_III.md)
 模仿前两题。每次回溯s减去元素值，k减一，两者同时为0将path加入结果。
 - [357: Count Numbers with Unique Digits](/backtracking/Count_Numbers_with_Unique_Digits.md)
-dfs；math。
+dfs；math；dp递推。
 - [401: Binary Watch](/backtracking/Binary_Watch.md)
 位操作。
 - [526: Beautiful Arrangement](/backtracking/Beautiful_Arrangement.md)
@@ -224,3 +224,7 @@ dp；二分法。
 状态转移方程：dp[x + c] = min(dp[x] + 1, dp[x + c])。
 - [338: Counting Bits](/DynamicProgramming/Counting_Bits.md)
 找规律；移位。
+- [343: Integer Break](/DynamicProgramming/Integer_Break.md)
+找规律；dp状态转移方程：dp[i]=max(3 * dp[i-3], 2 * dp[i-2])。
+- [368: Largest Divisible Subset](/DynamicProgramming/Largest_Divisible_Subset.md)
+dp状态转移方程：dp[i]=max(dp[i],dp[j]+1)。
