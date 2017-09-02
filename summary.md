@@ -228,3 +228,5 @@ dp；二分法。
 找规律；dp状态转移方程：dp[i]=max(3 * dp[i-3], 2 * dp[i-2])。
 - [368: Largest Divisible Subset](/DynamicProgramming/Largest_Divisible_Subset.md)
 dp状态转移方程：dp[i]=max(dp[i],dp[j]+1)。
+- [375: Guess Number Higher or Lower II](/DynamicProgramming/Guess_Number_Higher_or_Lower_II.md)
+minimax:最小化最大可能损失。

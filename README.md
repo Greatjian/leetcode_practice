@@ -142,3 +142,4 @@ My harvests for each practice are summarized [here](/summary.md).
 |343|[Integer Break](/DynamicProgramming/Integer_Break.md)|2017.8.30|
 |357|[Count Numbers with Unique Digits](/backtracking/Count_Numbers_with_Unique_Digits.md)|2017.8.14|
 |368|[Largest Divisible Subset](/DynamicProgramming/Largest_Divisible_Subset.md)|2017.8.30|
+|375|[Guess Number Higher or Lower II](/DynamicProgramming/Guess_Number_Higher_or_Lower_II.md)|2017.9.1|
