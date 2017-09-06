@@ -143,3 +143,5 @@ My harvests for each practice are summarized [here](/summary.md).
 |357|[Count Numbers with Unique Digits](/backtracking/Count_Numbers_with_Unique_Digits.md)|2017.8.14|
 |368|[Largest Divisible Subset](/DynamicProgramming/Largest_Divisible_Subset.md)|2017.8.30|
 |375|[Guess Number Higher or Lower II](/DynamicProgramming/Guess_Number_Higher_or_Lower_II.md)|2017.9.1|
+|376|[Wiggle Subsequence](/DynamicProgramming/Wiggle_Subsequence.md)|2017.9.6|
+|377|[Combination Sum IV](/DynamicProgramming/Combination_Sum_IV.md)|2017.9.6|

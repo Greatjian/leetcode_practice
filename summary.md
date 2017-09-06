@@ -230,3 +230,7 @@ dp；二分法。
 dp状态转移方程：dp[i]=max(dp[i],dp[j]+1)。
 - [375: Guess Number Higher or Lower II](/DynamicProgramming/Guess_Number_Higher_or_Lower_II.md)
 minimax:最小化最大可能损失。
+- [376: Wiggle Subsequence](/DynamicProgramming/Wiggle_Subsequence.md)
+dp上升下降状态转换。
+- [377: Combination Sum IV](/DynamicProgramming/Combination_Sum_IV.md)
+dp，其中dp[x]表示生成数字x的所有可能的组合方式的个数。
