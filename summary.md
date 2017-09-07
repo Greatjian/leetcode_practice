@@ -234,3 +234,5 @@ minimax:最小化最大可能损失。
 dp上升下降状态转换。
 - [377: Combination Sum IV](/DynamicProgramming/Combination_Sum_IV.md)
 dp，其中dp[x]表示生成数字x的所有可能的组合方式的个数。
+- [392: Is Subsequence](/DynamicProgramming/Is_Subsequence.md)
+遍历检索count；剔除判断空集。

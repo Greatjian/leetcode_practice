@@ -145,3 +145,4 @@ My harvests for each practice are summarized [here](/summary.md).
 |375|[Guess Number Higher or Lower II](/DynamicProgramming/Guess_Number_Higher_or_Lower_II.md)|2017.9.1|
 |376|[Wiggle Subsequence](/DynamicProgramming/Wiggle_Subsequence.md)|2017.9.6|
 |377|[Combination Sum IV](/DynamicProgramming/Combination_Sum_IV.md)|2017.9.6|
+|392|[Is Subsequence](/DynamicProgramming/Is_Subsequence.md)|2017.9.6|
