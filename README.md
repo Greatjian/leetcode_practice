@@ -146,3 +146,4 @@ My harvests for each practice are summarized [here](/summary.md).
 |376|[Wiggle Subsequence](/DynamicProgramming/Wiggle_Subsequence.md)|2017.9.6|
 |377|[Combination Sum IV](/DynamicProgramming/Combination_Sum_IV.md)|2017.9.6|
 |392|[Is Subsequence](/DynamicProgramming/Is_Subsequence.md)|2017.9.6|
+|413|[Arithmetic Slices](/DynamicProgramming/Arithmetic_Slices.md)|2017.9.12|

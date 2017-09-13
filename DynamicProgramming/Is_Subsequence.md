@@ -59,7 +59,7 @@ If there are lots of incoming S, say S1, S2, ... , Sk where k >= 1B, and you wan
             return True
             
 ## Solution:
-list剔除，判断空集：
+deque从左侧剔除，判断空集：
 
     class Solution(object):
         def isSubsequence(self, s, t):
@@ -68,11 +68,11 @@ list剔除，判断空集：
             :type t: str
             :rtype: bool
             """
-            lst = list(s)
+            queue = collections.deque(s)
             for c in t:
-                if not lst: return True
-                if c == lst[0]:
-                    del lst[0]
-            return not lst
+                if not queue: return True
+                if c == queue[0]:
+                    queue.popleft()
+            return not queue
             
             

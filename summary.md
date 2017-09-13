@@ -236,3 +236,5 @@ dp上升下降状态转换。
 dp，其中dp[x]表示生成数字x的所有可能的组合方式的个数。
 - [392: Is Subsequence](/DynamicProgramming/Is_Subsequence.md)
 遍历检索count；剔除判断空集。
+- [413: Arithmetic Slices](/DynamicProgramming/Arithmetic_Slices.md)
+每判断三数记录curr，再判断与之前是否相同增加至sum。
