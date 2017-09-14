@@ -238,3 +238,5 @@ dp，其中dp[x]表示生成数字x的所有可能的组合方式的个数。
 遍历检索count；剔除判断空集。
 - [413: Arithmetic Slices](/DynamicProgramming/Arithmetic_Slices.md)
 每判断三数记录curr，再判断与之前是否相同增加至sum。
+- [416: Partition Equal Subset Sum](/DynamicProgramming/Partition_Equal_Subset_Sum.md)
+dp记录遍历数组时记录所有可能值，为防止前对后影响，赋值时可采用倒序。
