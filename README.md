@@ -148,3 +148,4 @@ My harvests for each practice are summarized [here](/summary.md).
 |392|[Is Subsequence](/DynamicProgramming/Is_Subsequence.md)|2017.9.6|
 |413|[Arithmetic Slices](/DynamicProgramming/Arithmetic_Slices.md)|2017.9.12|
 |416|[Partition Equal Subset Sum](/DynamicProgramming/Partition_Equal_Subset_Sum.md)|2017.9.13|
+|464|[Can I Win](/DynamicProgramming/Can_I_Win.md)|2017.9.14|
