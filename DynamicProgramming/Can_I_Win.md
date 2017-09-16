@@ -63,7 +63,11 @@ memo记录搜索过状态，backtracking:
 ## Solution:
 位运算+记忆化搜索：
 
-state表示当前已经选择了哪些数字，state的第i位为1时，表示选择了数字i + 1
+state表示当前已经选择了哪些数字，state的第i位为1时，表示选择了数字i+1。
+
+通过&判断是否重复，|添加新元素。
+
+对方下步f则我此步t；若我此步所有可能均不是t，则为f。
 
     class Solution(object):
         def canIWin(self, maxChoosableInteger, desiredTotal):
@@ -72,26 +76,21 @@ state表示当前已经选择了哪些数字，state的第i位为1时，表示�
             :type desiredTotal: int
             :rtype: bool
             """
-            dp = dict()
-            def search(state, total):
-                for x in range(maxChoosableInteger, 0, -1):
-                    if not state & (1 << (x - 1)):
-                        if total + x >= desiredTotal:
-                            dp[state] = True
-                            return True
-                        break
-                for x in range(1, maxChoosableInteger + 1):
-                    if not state & (1 << (x - 1)):
-                        nstate = state | (1 << (x - 1))
-                        if nstate not in dp:
-                            dp[nstate] = search(nstate, total + x)
-                        if not dp[nstate]:
-                            dp[state] = True
-                            return True
-                dp[state] = False
-                return False
-            if maxChoosableInteger >= desiredTotal: return True
-            if (1 + maxChoosableInteger) * maxChoosableInteger < 2 * desiredTotal: return False
-            return search(0, 0)
-            
-            
+            if desiredTotal<=maxChoosableInteger:
+                return True;
+            if maxChoosableInteger*(maxChoosableInteger+1)/2<desiredTotal:
+                return False;
+            m={}
+            return self.canWin(desiredTotal, maxChoosableInteger, 0, m)
+        
+        def canWin(self, total, n, state, m):
+            if state in m:
+                return m[state]
+            for i in range(0,n):
+                if state&(1<<i)!=0:
+                    continue
+                if total<=i+1 or not self.canWin(total-(i+1), n, state|(1<<i), m):
+                    m[state]=True
+                    return True
+            m[state]=False
+            return False            
