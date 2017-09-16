@@ -242,4 +242,5 @@ dp，其中dp[x]表示生成数字x的所有可能的组合方式的个数。
 dp记录遍历数组时记录所有可能值，为防止前对后影响，赋值时可采用倒序。
 - [464: Can I Win](/DynamicProgramming/Can_I_Win.md)
 位运算+记忆化搜索。
-
+- [467: Unique Substrings in Wraparound String](/DynamicProgramming/Unique_Substrings_in_Wraparound_String.md)
+dp[i]记录字母i开头数组满足条件子集数，max去除重复部分。
