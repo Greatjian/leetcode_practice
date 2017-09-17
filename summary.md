@@ -244,3 +244,6 @@ dp记录遍历数组时记录所有可能值，为防止前对后影响，赋值
 位运算+记忆化搜索。
 - [467: Unique Substrings in Wraparound String](/DynamicProgramming/Unique_Substrings_in_Wraparound_String.md)
 dp[i]记录字母i开头数组满足条件子集数，max去除重复部分。
+- [474: Ones and Zeroes](/DynamicProgramming/Ones_and_Zeroes.md)
+二维01背包问题（Knapsack Problem)。
+
