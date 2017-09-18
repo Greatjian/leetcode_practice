@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/Ones_and_Zeroes.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/Predict_the_Winner.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="331">
-                <caret line="152" column="62" lean-forward="true" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="62" />
+              <first_editor relative-caret-position="2280">
+                <caret line="152" column="62" lean-forward="false" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="62" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -41,8 +39,8 @@
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="406">
-                <caret line="248" column="0" lean-forward="true" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+              <first_editor relative-caret-position="3720">
+                <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -50,12 +48,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ones_and_Zeroes.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ones_and_Zeroes.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DynamicProgramming/Ones_and_Zeroes.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="206">
-                <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <first_editor relative-caret-position="615">
+                <caret line="41" column="54" lean-forward="false" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Predict_the_Winner.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DynamicProgramming/Predict_the_Winner.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -78,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/array/Find_All_Duplicates_in_an_Array.md" />
         <option value="$PROJECT_DIR$/array/Find_All_Numbers_Disappeared_in_an_Array.md" />
         <option value="$PROJECT_DIR$/array/Max_Consecutive_Ones.md" />
         <option value="$PROJECT_DIR$/array/Teemo_Attacking.md" />
@@ -129,6 +139,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
         <option value="$PROJECT_DIR$/DynamicProgramming/Ones_and_Zeroes.md" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/Predict_the_Winner.md" />
       </list>
     </option>
   </component>
@@ -209,7 +220,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -366,12 +377,14 @@
       <workItem from="1505532717360" duration="26000" />
       <workItem from="1505532911273" duration="12000" />
       <workItem from="1505533166205" duration="164000" />
-      <workItem from="1505617873353" duration="213000" />
+      <workItem from="1505617873353" duration="348000" />
+      <workItem from="1505691144659" duration="1532000" />
+      <workItem from="1505694070876" duration="292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126840000" />
+    <option name="totallyTimeSpent" value="128799000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -418,16 +431,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array/Find_All_Duplicates_in_an_Array.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="546">
-            <caret line="79" column="25" lean-forward="true" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array/Find_All_Numbers_Disappeared_in_an_Array.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -893,7 +896,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="373">
             <caret line="95" column="36" lean-forward="false" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="36" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -902,8 +904,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="331">
-            <caret line="152" column="62" lean-forward="true" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="62" />
+          <first_editor relative-caret-position="2280">
+            <caret line="152" column="62" lean-forward="false" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="62" />
             <folding />
           </first_editor>
           <second_editor />
@@ -913,8 +915,8 @@
     <entry file="file://$PROJECT_DIR$/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="406">
-            <caret line="248" column="0" lean-forward="true" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+          <first_editor relative-caret-position="3720">
+            <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -924,8 +926,19 @@
     <entry file="file://$PROJECT_DIR$/DynamicProgramming/Ones_and_Zeroes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="206">
-            <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <first_editor relative-caret-position="615">
+            <caret line="41" column="54" lean-forward="false" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Predict_the_Winner.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
