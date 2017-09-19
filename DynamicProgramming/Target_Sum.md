@@ -64,3 +64,48 @@ dp counter记录每一次求和出现次数：
                     ndp[k - n] += dp[k]
                 dp = ndp
             return dp[S]
+            
+2 * sum(P) = S + sum(nums)
+寻找子集和为sum(P)数目：
+    
+    class Solution(object):
+        def findTargetSumWays(self, nums, S):
+            """
+            :type nums: List[int]
+            :type S: int
+            :rtype: int
+            """
+            if (S+sum(nums))%2==1 or sum(nums)<S:
+                return 0
+            l=(S+sum(nums))/2
+            dp=[0]*(l+1)
+            dp[0]=1
+            for i in range(len(nums)):
+                for j in range(l,nums[i]-1,-1):
+                    dp[j]+=dp[j-nums[i]]
+            return dp[-1]
+
+用dp index记录所有和的情况（长度2*sum(nums)+1）。
+
+因为前元素不能影响后值，每次更新都需要建立新数组再覆盖旧值：
+
+    class Solution(object):
+        def findTargetSumWays(self, nums, S):
+            """
+            :type nums: List[int]
+            :type S: int
+            :rtype: int
+            """
+            s = sum(nums) 
+            if S>s or S<-s:
+                return 0;
+            dp = [0]*(2*s+1)
+            dp[s] = 1
+            for i in range(len(nums)):
+                next = [0]*(2*s+1)
+                for k in range(2*s+1):
+                    if dp[k]!=0:
+                        next[k + nums[i]] += dp[k];
+                        next[k - nums[i]] += dp[k];
+                dp = next;
+            return dp[S+s];

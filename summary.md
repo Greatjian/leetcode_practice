@@ -246,4 +246,5 @@ dp记录遍历数组时记录所有可能值，为防止前对后影响，赋值
 dp[i]记录字母i开头数组满足条件子集数，max去除重复部分。
 - [474: Ones and Zeroes](/DynamicProgramming/Ones_and_Zeroes.md)
 二维01背包问题（Knapsack Problem)。
-
+- [494: Target Sum](/DynamicProgramming/Target_Sum.md)
+dp counter记录每一次求和出现次数。

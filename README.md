@@ -151,4 +151,5 @@ My harvests for each practice are summarized [here](/summary.md).
 |464|[Can I Win](/DynamicProgramming/Can_I_Win.md)|2017.9.14|
 |467|[Unique Substrings in Wraparound String](/DynamicProgramming/Unique_Substrings_in_Wraparound_String.md)|2017.9.15|
 |474|[Ones and Zeroes](/DynamicProgramming/Ones_and_Zeroes.md)|2017.9.16|
+|474|[Target Sum](/DynamicProgramming/Target_Sum.md)|2017.9.17|
 
