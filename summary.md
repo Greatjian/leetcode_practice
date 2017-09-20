@@ -248,3 +248,5 @@ dp[i]记录字母i开头数组满足条件子集数，max去除重复部分。
 二维01背包问题（Knapsack Problem)。
 - [494: Target Sum](/DynamicProgramming/Target_Sum.md)
 dp counter记录每一次求和出现次数。
+- [516: Longest Palindromic Subsequence](/DynamicProgramming/Longest_Palindromic_Subsequence.md)
+dp 根据index设置状态转移方程。

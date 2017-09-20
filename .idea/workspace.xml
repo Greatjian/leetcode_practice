@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/Longest_Palindromic_Subsequence.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DynamicProgramming/Target_Sum.md" afterPath="$PROJECT_DIR$/DynamicProgramming/Target_Sum.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
     </list>
@@ -28,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2295">
-                <caret line="153" column="58" lean-forward="false" selection-start-line="153" selection-start-column="58" selection-end-line="153" selection-end-column="58" />
+              <first_editor relative-caret-position="323">
+                <caret line="154" column="104" lean-forward="false" selection-start-line="154" selection-start-column="104" selection-end-line="154" selection-end-column="104" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -37,12 +37,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summary.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="summary.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="331">
-                <caret line="249" column="22" lean-forward="false" selection-start-line="249" selection-start-column="22" selection-end-line="249" selection-end-column="22" />
+                <caret line="251" column="19" lean-forward="false" selection-start-line="251" selection-start-column="19" selection-end-line="251" selection-end-column="19" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -50,12 +50,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Target_Sum.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Target_Sum.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DynamicProgramming/Target_Sum.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="169">
+              <first_editor relative-caret-position="59">
                 <caret line="89" column="30" lean-forward="false" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Longest_Palindromic_Subsequence.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DynamicProgramming/Longest_Palindromic_Subsequence.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-290">
+                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -78,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/array/Max_Consecutive_Ones.md" />
         <option value="$PROJECT_DIR$/array/Teemo_Attacking.md" />
         <option value="$PROJECT_DIR$/array/K-diff_Pairs_in_an_Array.md" />
         <option value="$PROJECT_DIR$/array/Subarray_Sum_Equals_K.md" />
@@ -126,9 +138,10 @@
         <option value="$PROJECT_DIR$/DynamicProgramming/Can_I_Win.md" />
         <option value="$PROJECT_DIR$/DynamicProgramming/Ones_and_Zeroes.md" />
         <option value="$PROJECT_DIR$/DynamicProgramming/Predict_the_Winner.md" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/Target_Sum.md" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/Longest_Palindromic_Subsequence.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/Target_Sum.md" />
       </list>
     </option>
   </component>
@@ -161,7 +174,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="leetcode practice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -190,20 +216,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="leetcode practice">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,12 +383,13 @@
       <workItem from="1505691144659" duration="1532000" />
       <workItem from="1505694070876" duration="709000" />
       <workItem from="1505784672392" duration="2227000" />
-      <workItem from="1505831237809" duration="486000" />
+      <workItem from="1505831237809" duration="893000" />
+      <workItem from="1505871132369" duration="820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131929000" />
+    <option name="totallyTimeSpent" value="133156000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -422,16 +436,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array/Max_Consecutive_Ones.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array/Teemo_Attacking.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -902,11 +906,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Target_Sum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="59">
+            <caret line="89" column="30" lean-forward="false" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Longest_Palindromic_Subsequence.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-290">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2295">
-            <caret line="153" column="58" lean-forward="false" selection-start-line="153" selection-start-column="58" selection-end-line="153" selection-end-column="58" />
+          <first_editor relative-caret-position="323">
+            <caret line="154" column="104" lean-forward="false" selection-start-line="154" selection-start-column="104" selection-end-line="154" selection-end-column="104" />
             <folding />
           </first_editor>
           <second_editor />
@@ -917,18 +943,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="331">
-            <caret line="249" column="22" lean-forward="false" selection-start-line="249" selection-start-column="22" selection-end-line="249" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Target_Sum.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="169">
-            <caret line="89" column="30" lean-forward="false" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+            <caret line="251" column="19" lean-forward="false" selection-start-line="251" selection-start-column="19" selection-end-line="251" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />

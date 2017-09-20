@@ -152,4 +152,5 @@ My harvests for each practice are summarized [here](/summary.md).
 |467|[Unique Substrings in Wraparound String](/DynamicProgramming/Unique_Substrings_in_Wraparound_String.md)|2017.9.15|
 |474|[Ones and Zeroes](/DynamicProgramming/Ones_and_Zeroes.md)|2017.9.16|
 |474|[Target Sum](/DynamicProgramming/Target_Sum.md)|2017.9.17|
+|516|[Longest Palindromic Subsequence](/DynamicProgramming/Longest_Palindromic_Subsequence.md)|2017.9.18|
 
