@@ -250,3 +250,5 @@ dp[i]记录字母i开头数组满足条件子集数，max去除重复部分。
 dp counter记录每一次求和出现次数。
 - [516: Longest Palindromic Subsequence](/DynamicProgramming/Longest_Palindromic_Subsequence.md)
 dp 根据index设置状态转移方程。
+- [523: Continuous Subarray Sum](/DynamicProgramming/Continuous_Subarray_Sum.md)
+subarray sum可转化为任意两Index总和之差，利用字典key记录模值。
