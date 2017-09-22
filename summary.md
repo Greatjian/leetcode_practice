@@ -252,3 +252,5 @@ dp counter记录每一次求和出现次数。
 dp 根据index设置状态转移方程。
 - [523: Continuous Subarray Sum](/DynamicProgramming/Continuous_Subarray_Sum.md)
 subarray sum可转化为任意两Index总和之差，利用字典key记录模值。
+- [576: Out of Boundary Paths](/DynamicProgramming/Out_of_Boundary_Paths.md)
+dfs+记忆化搜索；dp记录改点次数，每次移动创建ndp不断覆盖。
