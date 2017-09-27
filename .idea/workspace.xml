@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/Out_of_Boundary_Paths.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/Shopping_Offers.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,52 +21,13 @@
     <favorites_list name="leetcode practice" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+    <leaf>
+      <file leaf-file-name="Shopping_Offers.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DynamicProgramming/Shopping_Offers.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="316">
-                <caret line="155" column="21" lean-forward="false" selection-start-line="155" selection-start-column="21" selection-end-line="155" selection-end-column="21" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Out_of_Boundary_Paths.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DynamicProgramming/Out_of_Boundary_Paths.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="397">
-                <caret line="127" column="24" lean-forward="false" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="summary.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/summary.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="265">
-                <caret line="56" column="8" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Spiral_Matrix.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/Spiral_Matrix.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="250">
-                <caret line="168" column="32" lean-forward="true" selection-start-line="168" selection-start-column="32" selection-end-line="168" selection-end-column="32" />
+              <first_editor relative-caret-position="406">
+                <caret line="90" column="29" lean-forward="false" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -89,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/array/Subarray_Sum_Equals_K.md" />
         <option value="$PROJECT_DIR$/array/Array_Partition_I.md" />
         <option value="$PROJECT_DIR$/array/Array_Nesting.md" />
         <option value="$PROJECT_DIR$/array/Reshape_the_Matrix.md" />
@@ -137,9 +97,10 @@
         <option value="$PROJECT_DIR$/DynamicProgramming/Target_Sum.md" />
         <option value="$PROJECT_DIR$/DynamicProgramming/Longest_Palindromic_Subsequence.md" />
         <option value="$PROJECT_DIR$/DynamicProgramming/Continuous_Subarray_Sum.md" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/Out_of_Boundary_Paths.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/Out_of_Boundary_Paths.md" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/Shopping_Offers.md" />
       </list>
     </option>
   </component>
@@ -172,20 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="leetcode practice">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -211,6 +158,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="DynamicProgramming" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="leetcode practice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -384,12 +345,13 @@
       <workItem from="1505831237809" duration="893000" />
       <workItem from="1505871132369" duration="865000" />
       <workItem from="1505968539030" duration="411000" />
-      <workItem from="1506048853462" duration="989000" />
+      <workItem from="1506048853462" duration="1125000" />
+      <workItem from="1506480917302" duration="581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134601000" />
+    <option name="totallyTimeSpent" value="135318000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -436,16 +398,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array/Reshape_the_Matrix.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="201">
-            <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array/Shortest_Unsorted_Continuous_Subarray.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -881,7 +833,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-733">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -892,7 +843,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-247">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -903,7 +853,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="202">
             <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -914,7 +863,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="250">
             <caret line="168" column="32" lean-forward="true" selection-start-line="168" selection-start-column="32" selection-end-line="168" selection-end-column="32" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -923,9 +871,18 @@
     <entry file="file://$PROJECT_DIR$/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="265">
-            <caret line="56" column="8" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
-            <folding />
+          <first_editor relative-caret-position="361">
+            <caret line="255" column="33" lean-forward="false" selection-start-line="255" selection-start-column="33" selection-end-line="255" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Out_of_Boundary_Paths.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="18">
+            <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
@@ -935,18 +892,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="316">
-            <caret line="155" column="21" lean-forward="false" selection-start-line="155" selection-start-column="21" selection-end-line="155" selection-end-column="21" />
-            <folding />
+            <caret line="156" column="85" lean-forward="true" selection-start-line="156" selection-start-column="85" selection-end-line="156" selection-end-column="85" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Out_of_Boundary_Paths.md">
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Shopping_Offers.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="397">
-            <caret line="127" column="24" lean-forward="false" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
+          <first_editor relative-caret-position="406">
+            <caret line="90" column="29" lean-forward="false" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
             <folding />
           </first_editor>
           <second_editor />
