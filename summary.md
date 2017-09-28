@@ -256,3 +256,5 @@ subarray sum可转化为任意两Index总和之差，利用字典key记录模值
 dfs+记忆化搜索；dp记录改点次数，每次移动创建ndp不断覆盖。
 - [638: Shopping Offers](/DynamicProgramming/Shopping_Offers.md)
 Recursion + Memoization = Dynamic Programming；zip函数的使用。
+- [646: Maximum Length of Pair Chain](/DynamicProgramming/Maximum_Length_of_Pair_Chain.md)
+dp（第一个数排序），贪心算法（第二个数排序）。
