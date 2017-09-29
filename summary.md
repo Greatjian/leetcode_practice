@@ -258,3 +258,5 @@ dfs+记忆化搜索；dp记录改点次数，每次移动创建ndp不断覆盖�
 Recursion + Memoization = Dynamic Programming；zip函数的使用。
 - [646: Maximum Length of Pair Chain](/DynamicProgramming/Maximum_Length_of_Pair_Chain.md)
 dp（第一个数排序），贪心算法（第二个数排序）。
+- [647: Palindromic Substrings](DynamicProgramming/Palindromic_Substrings.md)
+对称中心法。
