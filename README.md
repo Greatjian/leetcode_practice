@@ -158,3 +158,4 @@ My harvests for each practice are summarized [here](/summary.md).
 |638|[Shopping Offers](/DynamicProgramming/Shopping_Offers.md)|2017.9.26|
 |646|[Maximum Length of Pair Chain](/DynamicProgramming/Maximum_Length_of_Pair_Chain.md)|2017.9.27|
 |647|[Palindromic Substrings](DynamicProgramming/Palindromic_Substrings.md)|2017.9.28|
+|650|[2 Keys Keyboard](/DynamicProgramming/2_Keys_Keyboard.md)|2017.9.29|

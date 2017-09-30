@@ -260,3 +260,5 @@ Recursion + Memoization = Dynamic Programming；zip函数的使用。
 dp（第一个数排序），贪心算法（第二个数排序）。
 - [647: Palindromic Substrings](DynamicProgramming/Palindromic_Substrings.md)
 对称中心法。
+- [650: 2 Keys Keyboard](/DynamicProgramming/2_Keys_Keyboard.md)
+dp；直接分解recursion/while loop。
