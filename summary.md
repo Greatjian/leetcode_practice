@@ -262,3 +262,5 @@ dp（第一个数排序），贪心算法（第二个数排序）。
 对称中心法。
 - [650: 2 Keys Keyboard](/DynamicProgramming/2_Keys_Keyboard.md)
 dp；直接分解recursion/while loop。
+- [673: Number of Longest Increasing Subsequence](/DynamicProgramming/Number_of_Longest_Increasing_Subsequence.md)
+建立两个dp list，分别记录数值和数量。

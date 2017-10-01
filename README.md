@@ -159,3 +159,4 @@ My harvests for each practice are summarized [here](/summary.md).
 |646|[Maximum Length of Pair Chain](/DynamicProgramming/Maximum_Length_of_Pair_Chain.md)|2017.9.27|
 |647|[Palindromic Substrings](DynamicProgramming/Palindromic_Substrings.md)|2017.9.28|
 |650|[2 Keys Keyboard](/DynamicProgramming/2_Keys_Keyboard.md)|2017.9.29|
+|673|[Number of Longest Increasing Subsequence](/DynamicProgramming/Number_of_Longest_Increasing_Subsequence.md)|2017.9.30|
