@@ -18,6 +18,7 @@ My harvests for each practice are summarized [here](/summary.md).
 - [Array](#array)
 - [Backtracking](#backtracking)
 - [Dynamic Programming](#dynamic-programming)
+- [Tree](#tree)
 
 ## Array
 
@@ -160,3 +161,9 @@ My harvests for each practice are summarized [here](/summary.md).
 |647|[Palindromic Substrings](DynamicProgramming/Palindromic_Substrings.md)|2017.9.28|
 |650|[2 Keys Keyboard](/DynamicProgramming/2_Keys_Keyboard.md)|2017.9.29|
 |673|[Number of Longest Increasing Subsequence](/DynamicProgramming/Number_of_Longest_Increasing_Subsequence.md)|2017.9.30|
+
+## Tree
+
+|Number|Name|Date|
+|:---:|:---:|:---:|
+|094|[Binary Tree Inorder Traversal](/tree/Binary_Tree_Inorder_Traversal.md)|2017.10.1|

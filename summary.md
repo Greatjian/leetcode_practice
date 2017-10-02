@@ -4,6 +4,7 @@
 - [Array](#array)
 - [Backtracking](#backtracking)
 - [Dynamic Programming](#dynamic-programming)
+- [Tree](#tree)
 
 ## Array
 
@@ -264,3 +265,7 @@ dp（第一个数排序），贪心算法（第二个数排序）。
 dp；直接分解recursion/while loop。
 - [673: Number of Longest Increasing Subsequence](/DynamicProgramming/Number_of_Longest_Increasing_Subsequence.md)
 建立两个dp list，分别记录数值和数量。
+
+## Tree
+- [094: Binary Tree Inorder Traversal](/tree/Binary_Tree_Inorder_Traversal.md)
+recursive and iterative method。
