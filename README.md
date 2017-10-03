@@ -167,3 +167,6 @@ My harvests for each practice are summarized [here](/summary.md).
 |Number|Name|Date|
 |:---:|:---:|:---:|
 |094|[Binary Tree Inorder Traversal](/tree/Binary_Tree_Inorder_Traversal.md)|2017.10.1|
+|095|[Unique Binary Search Trees II](/tree/Unique_Binary_Search_Trees_II.md)|2017.10.2|
+|096|[Unique Binary Search Trees](/tree/Unique_Binary_Search_Trees.md)|2017.10.2|
+

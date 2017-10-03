@@ -269,3 +269,6 @@ dp；直接分解recursion/while loop。
 ## Tree
 - [094: Binary Tree Inorder Traversal](/tree/Binary_Tree_Inorder_Traversal.md)
 recursive and iterative method。
+- [095: Unique Binary Search Trees II](/tree/Unique_Binary_Search_Trees_II.md)
+- [096: Unique Binary Search Trees](/tree/Unique_Binary_Search_Trees.md)
+root.left.val < root.val < root.right.val。
