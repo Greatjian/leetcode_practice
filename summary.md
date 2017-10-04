@@ -272,3 +272,5 @@ recursive and iterative method。
 - [095: Unique Binary Search Trees II](/tree/Unique_Binary_Search_Trees_II.md)
 - [096: Unique Binary Search Trees](/tree/Unique_Binary_Search_Trees.md)
 root.left.val < root.val < root.right.val。
+- [098: Validate Binary Search Tree](/tree/Validate_Binary_Search_Tree.md)
+iterative(similar to inorder traversal) and recursive method。
