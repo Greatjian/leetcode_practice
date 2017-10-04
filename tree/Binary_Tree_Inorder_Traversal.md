@@ -56,13 +56,13 @@ iterative method:
             :type root: TreeNode
             :rtype: List[int]
             """
-            res=[]
+            ans=[]
             stack=[]
             while stack or root:
                 while root:
                     stack.append(root)
                     root=root.left
-                node=stack.pop()
-                res.append(node.val)
-                root=node.right
-            return res
+                root=stack.pop()
+                ans.append(root.val)
+                root=root.right
+            return ans
