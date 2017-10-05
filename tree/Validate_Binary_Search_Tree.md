@@ -74,3 +74,27 @@ recursive method:
             if minNode and root.val<=minNode.val or maxNode and root.val>=maxNode.val:
                 return False
             return self.isBST(root.left, minNode, root) and self.isBST(root.right, root, maxNode)
+          
+将node变为数值亦可：
+
+    # Definition for a binary tree node.
+    # class TreeNode(object):
+    #     def __init__(self, x):
+    #         self.val = x
+    #         self.left = None
+    #         self.right = None
+    
+    class Solution(object):
+        def isValidBST(self, root):
+            """
+            :type root: TreeNode
+            :rtype: bool
+            """
+            return self.isBST(root, float('-inf'), float('inf'))
+                
+        def isBST(self, root, min, max):
+            if not root:
+                return True
+            if root.val<=min or root.val>=max:
+                return False
+            return self.isBST(root.left, min, root.val) and self.isBST(root.right, root.val, max)

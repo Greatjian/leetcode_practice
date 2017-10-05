@@ -274,3 +274,5 @@ recursive and iterative method。
 root.left.val < root.val < root.right.val。
 - [098: Validate Binary Search Tree](/tree/Validate_Binary_Search_Tree.md)
 iterative(similar to inorder traversal) and recursive method。
+- [100: Same Tree](/tree/Same_Tree.md)
+recursion。
