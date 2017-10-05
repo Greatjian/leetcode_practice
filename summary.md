@@ -275,4 +275,6 @@ root.left.val < root.val < root.right.val。
 - [098: Validate Binary Search Tree](/tree/Validate_Binary_Search_Tree.md)
 iterative(similar to inorder traversal) and recursive method。
 - [100: Same Tree](/tree/Same_Tree.md)
-recursion。
+recursive and iterative method。
+- [101: Symmetric Tree](/tree/Symmetric_Tree.md)
+recursive and iterative method，与上题类似。

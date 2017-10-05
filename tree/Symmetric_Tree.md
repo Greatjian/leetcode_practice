@@ -1,11 +1,29 @@
-# 100. Same Tree
+# 101. Symmetric Tree
 
-Given two binary trees, write a function to check if they are equal or not.
+Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).
 
-Two binary trees are considered equal if they are structurally identical and the nodes have the same value.
+For example, this binary tree [1,2,2,3,4,4,3] is symmetric:
+
+        1
+       / \
+      2   2
+     / \ / \
+    3  4 4  3
+
+But the following [1,2,2,null,3,null,3] is not:
+
+        1
+       / \
+      2   2
+       \   \
+       3    3
+   
+Note:
+- Bonus points if you could solve it both recursively and iteratively.
 
 ## Method:
-reursion:
+
+recursion:
 
     # Definition for a binary tree node.
     # class TreeNode(object):
@@ -15,24 +33,20 @@ reursion:
     #         self.right = None
     
     class Solution(object):
-        def isSameTree(self, p, q):
+        def isSymmetric(self, root):
             """
-            :type p: TreeNode
-            :type q: TreeNode
+            :type root: TreeNode
             :rtype: bool
             """
-            if not p and not q:
+            return self.helper(root, root)
+            
+        def helper(self, left, right):
+            if not left and not right:
                 return True
-            if not p or not q:
+            if not left or not right:
                 return False
-            if p.val!=q.val:
-                return False
-            return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
-                    
-最后两部分可以合并为
-
-    return p.val==q.val and self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right) 
-       
+            return left.val==right.val and self.helper(left.right, right.left) and self.helper(left.left, right.right)
+            
 iteration:
 
     # Definition for a binary tree node.
@@ -43,13 +57,12 @@ iteration:
     #         self.right = None
     
     class Solution(object):
-        def isSameTree(self, p, q):
+        def isSymmetric(self, root):
             """
-            :type p: TreeNode
-            :type q: TreeNode
+            :type root: TreeNode
             :rtype: bool
             """
-            stack1, stack2=[p], [q]
+            stack1, stack2=[root], [root]
             
             while stack1:
                 node1=stack1.pop()
@@ -62,8 +75,8 @@ iteration:
                     return False
     
                 stack1.append(node1.left)
-                stack2.append(node2.left)
-                stack1.append(node1.right)
                 stack2.append(node2.right)
+                stack1.append(node1.right)
+                stack2.append(node2.left)
                 
             return True
