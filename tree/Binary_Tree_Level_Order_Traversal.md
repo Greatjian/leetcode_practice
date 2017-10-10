@@ -37,8 +37,14 @@ iteration:
             """
             ans, level = [], [root]
             while root and level:
-                ans.append([node.val for node in level])            
-                level = [leaf for node in level for leaf in (node.left, node.right) if leaf]
+                local=[]
+                ans.append([node.val for node in level])
+                for node in level:
+                    if node.left:
+                        local.append(node.left)
+                    if node.right:
+                        local.append(node.right)
+                level=local
             return ans
 
 using deque:
