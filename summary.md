@@ -282,3 +282,6 @@ recursive and iterative method，与上题类似。
 recursive and iterative method(list, deque)。
 - [144: Binary Tree Preorder Traversal](/tree/Binary_Tree_Preorder_Traversal.md)
 recursion and iteration (stack)。
+- [Binary Tree Postorder Traversal](/tree/Binary_Tree_Postorder_Traversal.md)
+recursion and iteration (preorder反向+倒序)。
+

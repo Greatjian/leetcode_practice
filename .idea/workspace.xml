@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Binary_Tree_Preorder_Traversal.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Binary_Tree_Postorder_Traversal.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2610">
-                <caret line="174" column="66" lean-forward="false" selection-start-line="174" selection-start-column="66" selection-end-line="174" selection-end-column="66" />
+              <first_editor relative-caret-position="352">
+                <caret line="175" column="4" lean-forward="true" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -39,8 +39,8 @@
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="392">
-                <caret line="281" column="44" lean-forward="false" selection-start-line="281" selection-start-column="44" selection-end-line="281" selection-end-column="44" />
+              <first_editor relative-caret-position="406">
+                <caret line="283" column="32" lean-forward="false" selection-start-line="283" selection-start-column="32" selection-end-line="283" selection-end-column="32" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -48,12 +48,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Binary_Tree_Preorder_Traversal.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Binary_Tree_Postorder_Traversal.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tree/Binary_Tree_Postorder_Traversal.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="286">
+                <caret line="65" column="21" lean-forward="false" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="43" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Binary_Tree_Preorder_Traversal.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tree/Binary_Tree_Preorder_Traversal.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="406">
-                <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -95,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/backtracking/Combinations.md" />
         <option value="$PROJECT_DIR$/backtracking/Gray_Code.md" />
         <option value="$PROJECT_DIR$/backtracking/Restore_IP_Addresses.md" />
         <option value="$PROJECT_DIR$/backtracking/Palindrome_Partitioning.md" />
@@ -142,10 +154,11 @@
         <option value="$PROJECT_DIR$/tree/Validate_Binary_Search_Tree.md" />
         <option value="$PROJECT_DIR$/tree/Same_Tree.md" />
         <option value="$PROJECT_DIR$/tree/Symmetric_Tree.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/tree/Binary_Tree_Level_Order_Traversal.md" />
-        <option value="$PROJECT_DIR$/summary.md" />
         <option value="$PROJECT_DIR$/tree/Binary_Tree_Preorder_Traversal.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/summary.md" />
+        <option value="$PROJECT_DIR$/tree/Binary_Tree_Postorder_Traversal.md" />
       </list>
     </option>
   </component>
@@ -404,12 +417,12 @@
       <workItem from="1507131067197" duration="40000" />
       <workItem from="1507217145548" duration="1591000" />
       <workItem from="1507344222092" duration="873000" />
-      <workItem from="1507601598381" duration="94000" />
+      <workItem from="1507601598381" duration="568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144356000" />
+    <option name="totallyTimeSpent" value="144830000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -477,16 +490,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/backtracking/Palindrome_Partitioning.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="43">
-            <caret line="36" column="9" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backtracking/Binary_Watch.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -947,17 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2610">
-            <caret line="174" column="66" lean-forward="false" selection-start-line="174" selection-start-column="66" selection-end-line="174" selection-end-column="66" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/Binary_Tree_Level_Order_Traversal.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -969,11 +961,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/summary.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="392">
-            <caret line="281" column="44" lean-forward="false" selection-start-line="281" selection-start-column="44" selection-end-line="281" selection-end-column="44" />
+          <first_editor relative-caret-position="352">
+            <caret line="175" column="4" lean-forward="true" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
@@ -983,8 +975,30 @@
     <entry file="file://$PROJECT_DIR$/tree/Binary_Tree_Preorder_Traversal.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summary.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="406">
-            <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <caret line="283" column="32" lean-forward="false" selection-start-line="283" selection-start-column="32" selection-end-line="283" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/Binary_Tree_Postorder_Traversal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="286">
+            <caret line="65" column="21" lean-forward="false" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="43" />
             <folding />
           </first_editor>
           <second_editor />
