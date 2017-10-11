@@ -282,6 +282,10 @@ recursive and iterative method，与上题类似。
 recursive and iterative method(list, deque)。
 - [103: Binary Tree Zigzag Level Order Traversal](/tree/Binary_Tree_Zigzag_Level_Order_Traversal.md)
 与上题类似，recursive and iterative method(deque)。
+- [104: Maximum Depth of Binary Tree](/tree/Maximum_Depth_of_Binary_Tree.md)
+recursion and iteration(list)。
+- [105: Construct Binary Tree from Preorder and Inorder Traversal](/tree/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md)
+recursion(slicing, index, dict)。
 - [144: Binary Tree Preorder Traversal](/tree/Binary_Tree_Preorder_Traversal.md)
 recursion and iteration (stack)。
 - [Binary Tree Postorder Traversal](/tree/Binary_Tree_Postorder_Traversal.md)

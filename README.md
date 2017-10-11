@@ -173,6 +173,8 @@ My harvests for each practice are summarized [here](/summary.md).
 |100|[Same Tree](/tree/Same_Tree.md)|2017.10.5|
 |101|[Symmetric Tree](/tree/Symmetric_Tree.md)|2017.10.5|
 |103|[Binary Tree Zigzag Level Order Traversal](/tree/Binary_Tree_Zigzag_Level_Order_Traversal.md)|2017.10.9|
+|104|[Maximum Depth of Binary Tree](/tree/Maximum_Depth_of_Binary_Tree.md)|2017.10.10|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](/tree/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md)|2017.10.10|
 |102|[Binary Tree Level Order Traversal](/tree/Binary_Tree_Level_Order_Traversal.md)|2017.10.6|
 |144|[Binary Tree Preorder Traversal](/tree/Binary_Tree_Preorder_Traversal.md)|2017.10.9|
 |145|[Binary Tree Postorder Traversal](/tree/Binary_Tree_Postorder_Traversal.md)|2017.10.9|
