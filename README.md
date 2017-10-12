@@ -172,9 +172,14 @@ My harvests for each practice are summarized [here](/summary.md).
 |098|[Validate Binary Search Tree](/tree/Validate_Binary_Search_Tree.md)|2017.10.3|
 |100|[Same Tree](/tree/Same_Tree.md)|2017.10.5|
 |101|[Symmetric Tree](/tree/Symmetric_Tree.md)|2017.10.5|
+|102|[Binary Tree Level Order Traversal](/tree/Binary_Tree_Level_Order_Traversal.md)|2017.10.6|
 |103|[Binary Tree Zigzag Level Order Traversal](/tree/Binary_Tree_Zigzag_Level_Order_Traversal.md)|2017.10.9|
 |104|[Maximum Depth of Binary Tree](/tree/Maximum_Depth_of_Binary_Tree.md)|2017.10.10|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](/tree/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md)|2017.10.10|
-|102|[Binary Tree Level Order Traversal](/tree/Binary_Tree_Level_Order_Traversal.md)|2017.10.6|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](/tree/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md)|2017.10.11|
+|107|[Binary Tree Level Order Traversal II](/tree/Binary_Tree_Level_Order_Traversal.md)|2017.10.11|
+|108|[Convert Sorted Array to Binary Search Tree](/tree/Convert_Sorted_Array_to_Binary_Search_Tree.md)|2017.10.11|
+|110|[Balanced Binary Tree](/tree/Balanced_Binary_Tree.md)|2017.10.11|
+
 |144|[Binary Tree Preorder Traversal](/tree/Binary_Tree_Preorder_Traversal.md)|2017.10.9|
 |145|[Binary Tree Postorder Traversal](/tree/Binary_Tree_Postorder_Traversal.md)|2017.10.9|

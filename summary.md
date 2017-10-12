@@ -286,8 +286,16 @@ recursive and iterative method(list, deque)。
 recursion and iteration(list)。
 - [105: Construct Binary Tree from Preorder and Inorder Traversal](/tree/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md)
 recursion(slicing, index, dict)。
+- [106: Construct Binary Tree from Inorder and Postorder Traversal](/tree/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md)
+与上题类似。
+- [107: Binary Tree Level Order Traversal II](/tree/Binary_Tree_Level_Order_Traversal.md)
+102反向。
+- [108: Convert Sorted Array to Binary Search Tree](/tree/Convert_Sorted_Array_to_Binary_Search_Tree.md)
+recursion。
+- [110: Balanced Binary Tree](/tree/Balanced_Binary_Tree.md)
+top down and bottom up。
 - [144: Binary Tree Preorder Traversal](/tree/Binary_Tree_Preorder_Traversal.md)
 recursion and iteration (stack)。
-- [Binary Tree Postorder Traversal](/tree/Binary_Tree_Postorder_Traversal.md)
+- [145: Binary Tree Postorder Traversal](/tree/Binary_Tree_Postorder_Traversal.md)
 recursion and iteration (preorder反向+倒序)。
 
