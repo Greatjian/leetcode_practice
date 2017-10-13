@@ -2,7 +2,7 @@
 
 ## Preorder
 
-iteration, using stack:
+iteration dfs, using stack:
 
     class Solution(object):
         def preorderTraversal(self, root):
@@ -42,7 +42,7 @@ recursion:
             
 ## Inorder
 
-iteration, using stack:
+iteration dfs, using stack:
 
     class Solution(object):
         def inorderTraversal(self, root):
@@ -81,7 +81,7 @@ recursion:
             
 ## Postorder:
 
-iteration:
+iteration dfs, using stack, reversed preorder with reversed appending sequence:
 
     class Solution(object):
         def postorderTraversal(self, root):
@@ -93,9 +93,10 @@ iteration:
             stack=[root]
             while stack and root:
                 node=stack.pop()
-                if node:
-                    ans.append(node.val)
+                ans.append(node.val)
+                if node.left:
                     stack.append(node.left)
+                if node.right:    
                     stack.append(node.right)
             return ans[::-1]
             
