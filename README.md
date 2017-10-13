@@ -164,6 +164,8 @@ My harvests for each practice are summarized [here](/summary.md).
 
 ## Tree
 
+[Tree traversal summary (preorder, inorder, postorder, level order)](/tree/Tree_traversal.md)
+
 |Number|Name|Date|
 |:---:|:---:|:---:|
 |094|[Binary Tree Inorder Traversal](/tree/Binary_Tree_Inorder_Traversal.md)|2017.10.1|
@@ -180,6 +182,12 @@ My harvests for each practice are summarized [here](/summary.md).
 |107|[Binary Tree Level Order Traversal II](/tree/Binary_Tree_Level_Order_Traversal.md)|2017.10.11|
 |108|[Convert Sorted Array to Binary Search Tree](/tree/Convert_Sorted_Array_to_Binary_Search_Tree.md)|2017.10.11|
 |110|[Balanced Binary Tree](/tree/Balanced_Binary_Tree.md)|2017.10.11|
-
+|111|[Minimum Depth of Binary Tree](/tree/Minimum_Depth_of_Binary_Tree.md)|2017.10.12|
+|112|[Path Sum](/tree/Path_Sum.md)|2017.10.12|
+|113|[Path Sum II](/tree/Path_Sum_II.md)|2017.10.12|
+|114|[Flatten Binary Tree to Linked List](/tree/Flatten_Binary_Tree_to_Linked_List.md)|2017.10.12|
+|116|[Populating Next Right Pointers in Each Node](/tree/Populating_Next_Right_Pointers_in_Each_Node.md)|2017.10.12|
+|117|[Populating Next Right Pointers in Each Node II](/tree/Populating_Next_Right_Pointers_in_Each_Node_II.md)|2017.10.12|
+|129|[Sum Root to Leaf Numbers](/tree/Sum_Root_to_Leaf_Numbers.md)|2017.10.12|
 |144|[Binary Tree Preorder Traversal](/tree/Binary_Tree_Preorder_Traversal.md)|2017.10.9|
 |145|[Binary Tree Postorder Traversal](/tree/Binary_Tree_Postorder_Traversal.md)|2017.10.9|

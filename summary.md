@@ -294,6 +294,20 @@ recursion(slicing, index, dict)。
 recursion。
 - [110: Balanced Binary Tree](/tree/Balanced_Binary_Tree.md)
 top down and bottom up。
+- [111: Minimum Depth of Binary Tree](/tree/Minimum_Depth_of_Binary_Tree.md)
+recursion。
+- [112: Path Sum](/tree/Path_Sum.md)
+recursion and iteration。
+- [113: Path Sum II](/tree/Path_Sum_II.md)
+recursion。
+- [114: Flatten Binary Tree to Linked List](/tree/Flatten_Binary_Tree_to_Linked_List.md)
+recursion: 倒序遍历（右左中）插入。
+- [116: Populating Next Right Pointers in Each Node](/tree/Populating_Next_Right_Pointers_in_Each_Node.md)
+recursion and iteration。
+- [117: Populating Next Right Pointers in Each Node II](/tree/Populating_Next_Right_Pointers_in_Each_Node_II.md)
+仿照上题，iteration using more pointers。
+- [129: Sum Root to Leaf Numbers](/tree/Sum_Root_to_Leaf_Numbers.md)
+recursion and iteration (stack dfs + queue bfs)。
 - [144: Binary Tree Preorder Traversal](/tree/Binary_Tree_Preorder_Traversal.md)
 recursion and iteration (stack)。
 - [145: Binary Tree Postorder Traversal](/tree/Binary_Tree_Postorder_Traversal.md)
