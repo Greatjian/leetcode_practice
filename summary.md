@@ -318,4 +318,6 @@ inorder traversal using stack。
 bfs, iteration and recursion。
 - [222: Count Complete Tree Nodes](/tree/Count_Complete_Tree_Nodes.md)
 get height, iteration and recursion。
+- [226: Invert Binary Tree](/tree/Invert_Binary_Tree.md)
+recursion and iteration (dfs, bfs)。
 
