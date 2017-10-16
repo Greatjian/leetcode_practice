@@ -193,3 +193,5 @@ My harvests for each practice are summarized [here](/summary.md).
 |145|[Binary Tree Postorder Traversal](/tree/Binary_Tree_Postorder_Traversal.md)|2017.10.9|
 |173|[Binary Search Tree Iterator](/tree/Binary_Search_Tree_Iterator.md)|2017.10.14|
 |199|[Binary Tree Right Side View](/tree/Binary_Tree_Right_Side_View.md)|2017.10.15|
+|222|[Count Complete Tree Nodes](/tree/Count_Complete_Tree_Nodes.md)|2017.10.16|
+

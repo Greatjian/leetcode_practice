@@ -152,5 +152,5 @@ iteration, using queue:
             
 recursion, dfs+depth(需要特定条件):
 
-[Binary Tree Level Order Traversal](/tree/Binary_Tree_Level_Order_Traversal.md)
-[Binary Tree Right Side View](/tree/Binary_Tree_Right_Side_View.md)
+- [Binary Tree Level Order Traversal](/tree/Binary_Tree_Level_Order_Traversal.md)
+- [Binary Tree Right Side View](/tree/Binary_Tree_Right_Side_View.md)

@@ -316,3 +316,6 @@ recursion and iteration (preorder反向+倒序)。
 inorder traversal using stack。
 - [199: Binary Tree Right Side View](/tree/Binary_Tree_Right_Side_View.md)
 bfs, iteration and recursion。
+- [222: Count Complete Tree Nodes](/tree/Count_Complete_Tree_Nodes.md)
+get height, iteration and recursion。
+
