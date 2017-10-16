@@ -320,4 +320,9 @@ bfs, iteration and recursion。
 get height, iteration and recursion。
 - [226: Invert Binary Tree](/tree/Invert_Binary_Tree.md)
 recursion and iteration (dfs, bfs)。
-
+- [230: Kth Smallest Element in a BST](/tree/Kth_Smallest_Element_in_a_BST.md)
+inorder traversal。
+- [235: Lowest Common Ancestor of a Binary Search Tree](/tree/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)
+BST。
+- [236: Lowest Common Ancestor of a Binary Tree](/tree/Lowest_Common_Ancestor_of_a_Binary_Tree.md)
+仿照上题，recursion。

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Invert_Binary_Tree.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Kth_Smallest_Element_in_a_BST.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Lowest_Common_Ancestor_of_a_Binary_Tree.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
@@ -28,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="361">
-                <caret line="196" column="66" lean-forward="true" selection-start-line="196" selection-start-column="66" selection-end-line="196" selection-end-column="66" />
+              <first_editor relative-caret-position="385">
+                <caret line="198" column="4" lean-forward="false" selection-start-line="198" selection-start-column="4" selection-end-line="198" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -41,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="406">
-                <caret line="321" column="10" lean-forward="false" selection-start-line="321" selection-start-column="10" selection-end-line="321" selection-end-column="10" />
+              <first_editor relative-caret-position="376">
+                <caret line="325" column="4" lean-forward="false" selection-start-line="325" selection-start-column="4" selection-end-line="325" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -50,12 +52,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Invert_Binary_Tree.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tree/Invert_Binary_Tree.md">
+      <file leaf-file-name="Lowest_Common_Ancestor_of_a_Binary_Tree.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tree/Lowest_Common_Ancestor_of_a_Binary_Tree.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="106">
-                <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <first_editor relative-caret-position="300">
+                <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Kth_Smallest_Element_in_a_BST.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree/Kth_Smallest_Element_in_a_BST.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -84,9 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/backtracking/Count_Numbers_with_Unique_Digits.md" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/Largest_Divisible_Subset.md" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/Guess_Number_Higher_or_Lower_II.md" />
         <option value="$PROJECT_DIR$/DynamicProgramming/Wiggle_Subsequence.md" />
         <option value="$PROJECT_DIR$/DynamicProgramming/Combination_Sum_IV.md" />
         <option value="$PROJECT_DIR$/DynamicProgramming/Arithmetic_Slices.md" />
@@ -132,9 +157,12 @@
         <option value="$PROJECT_DIR$/tree/Binary_Tree_Right_Side_View.md" />
         <option value="$PROJECT_DIR$/tree/Tree_traversal.md" />
         <option value="$PROJECT_DIR$/tree/Count_Complete_Tree_Nodes.md" />
+        <option value="$PROJECT_DIR$/tree/Invert_Binary_Tree.md" />
+        <option value="$PROJECT_DIR$/tree/Kth_Smallest_Element_in_a_BST.md" />
+        <option value="$PROJECT_DIR$/tree/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
-        <option value="$PROJECT_DIR$/tree/Invert_Binary_Tree.md" />
+        <option value="$PROJECT_DIR$/tree/Lowest_Common_Ancestor_of_a_Binary_Tree.md" />
       </list>
     </option>
   </component>
@@ -402,12 +430,13 @@
       <workItem from="1508122321936" duration="502000" />
       <workItem from="1508123088111" duration="44000" />
       <workItem from="1508172853053" duration="785000" />
-      <workItem from="1508177839547" duration="412000" />
+      <workItem from="1508177839547" duration="736000" />
+      <workItem from="1508179220557" duration="972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159872000" />
+    <option name="totallyTimeSpent" value="161168000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -475,36 +504,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Wiggle_Subsequence.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Combination_Sum_IV.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="349">
-            <caret line="88" column="12" lean-forward="true" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Arithmetic_Slices.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="160">
-            <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DynamicProgramming/Is_Subsequence.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -955,11 +954,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tree/Invert_Binary_Tree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="406">
+            <caret line="120" column="23" lean-forward="false" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/Kth_Smallest_Element_in_a_BST.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="196" column="66" lean-forward="true" selection-start-line="196" selection-start-column="66" selection-end-line="196" selection-end-column="66" />
+          <first_editor relative-caret-position="385">
+            <caret line="198" column="4" lean-forward="false" selection-start-line="198" selection-start-column="4" selection-end-line="198" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
@@ -969,19 +1001,19 @@
     <entry file="file://$PROJECT_DIR$/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="406">
-            <caret line="321" column="10" lean-forward="false" selection-start-line="321" selection-start-column="10" selection-end-line="321" selection-end-column="10" />
+          <first_editor relative-caret-position="376">
+            <caret line="325" column="4" lean-forward="false" selection-start-line="325" selection-start-column="4" selection-end-line="325" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/Invert_Binary_Tree.md">
+    <entry file="file://$PROJECT_DIR$/tree/Lowest_Common_Ancestor_of_a_Binary_Tree.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="106">
-            <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

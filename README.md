@@ -195,3 +195,6 @@ My harvests for each practice are summarized [here](/summary.md).
 |199|[Binary Tree Right Side View](/tree/Binary_Tree_Right_Side_View.md)|2017.10.15|
 |222|[Count Complete Tree Nodes](/tree/Count_Complete_Tree_Nodes.md)|2017.10.16|
 |226|[Invert Binary Tree](/tree/Invert_Binary_Tree.md)|2017.10.16|
+|230|[Kth Smallest Element in a BST](/tree/Kth_Smallest_Element_in_a_BST.md)|2017.10.16|
+|235|[Lowest Common Ancestor of a Binary Search Tree](/tree/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)|2017.10.16|
+|236|[Lowest Common Ancestor of a Binary Tree](/tree/Lowest_Common_Ancestor_of_a_Binary_Tree.md)|2017.10.16|
