@@ -326,3 +326,7 @@ inorder traversal。
 BST。
 - [236: Lowest Common Ancestor of a Binary Tree](/tree/Lowest_Common_Ancestor_of_a_Binary_Tree.md)
 仿照上题，recursion。
+- [257: Binary Tree Paths](/tree/Binary_Tree_Paths.md)
+recursion, iteration (stack, queue)。
+- [337: House Robber III](/tree/House_Robber_III.md)
+resursion+dp。

@@ -198,3 +198,6 @@ My harvests for each practice are summarized [here](/summary.md).
 |230|[Kth Smallest Element in a BST](/tree/Kth_Smallest_Element_in_a_BST.md)|2017.10.16|
 |235|[Lowest Common Ancestor of a Binary Search Tree](/tree/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)|2017.10.16|
 |236|[Lowest Common Ancestor of a Binary Tree](/tree/Lowest_Common_Ancestor_of_a_Binary_Tree.md)|2017.10.16|
+|257|[Binary Tree Paths](/tree/Binary_Tree_Paths.md)|2017.10.16|
+|337|[House Robber III](/tree/House_Robber_III.md)|2017.10.16|
+
