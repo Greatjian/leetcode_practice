@@ -203,4 +203,5 @@ My harvests for each practice are summarized [here](/summary.md).
 |404|[Sum of Left Leaves](/tree/Sum_of_Left_Leaves.md)|2017.10.17|
 |437|[Path Sum III](/tree/Path_Sum_III.md)|2017.10.18|
 |449|[Serialize and Deserialize BST](/tree/Serialize_and_Deserialize_BST.md)|2017.10.19|
-
+|450|[Delete Node in a BST](/tree/Delete_Node_in_a_BST.md)|2017.10.19|
+|501|[Find Mode in Binary Search Tree](/tree/Find_Mode_in_Binary_Search_Tree.md)|2017.10.20|

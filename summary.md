@@ -336,3 +336,8 @@ recursion。
 recursion+ path/dict。
 - [449: Serialize and Deserialize BST](/tree/Serialize_and_Deserialize_BST.md)
 map和' '.join()的用法，string and int转换。
+- [450: Delete Node in a BST](/tree/Delete_Node_in_a_BST.md)
+recursion+分类讨论。
+- [501: Find Mode in Binary Search Tree](/tree/Find_Mode_in_Binary_Search_Tree.md)
+dict；inorder traversal。
+
