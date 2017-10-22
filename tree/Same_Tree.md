@@ -67,3 +67,26 @@ iteration:
                 stack2.append(node2.right)
                 
             return True
+            
+string比较：
+
+    # Definition for a binary tree node.
+    # class TreeNode(object):
+    #     def __init__(self, x):
+    #         self.val = x
+    #         self.left = None
+    #         self.right = None
+    
+    class Solution(object):
+        def isSameTree(self, p, q):
+            """
+            :type p: TreeNode
+            :type q: TreeNode
+            :rtype: bool
+            """
+            return self.preorderPrint(p)==self.preorderPrint(q)
+            
+        def preorderPrint(self, root):
+            if not root:
+                return 'a'
+            return str(root.val)+self.preorderPrint(root.left)+self.preorderPrint(root.right)

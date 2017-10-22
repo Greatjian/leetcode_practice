@@ -340,4 +340,23 @@ map和' '.join()的用法，string and int转换。
 recursion+分类讨论。
 - [501: Find Mode in Binary Search Tree](/tree/Find_Mode_in_Binary_Search_Tree.md)
 dict；inorder traversal。
+- [508: Most Frequent Subtree Sum](/tree/Most_Frequent_Subtree_Sum.md)
+defaultdict()+recursion。
+- [513: Find Bottom Left Tree Value](/tree/Find_Bottom_Left_Tree_Value.md)
+level order traversal; recursion。
+- [515: Find Largest Value in Each Tree Row](/tree/Find_Largest_Value_in_Each_Tree_Row.md)
+level order traversal; recursion。
+- [538：Convert BST to Greater Tree](/tree/Convert_Sorted_Array_to_Binary_Search_Tree.md)
+reversed inorder traversal。
+- [543: Diameter of Binary Tree](/tree/Diameter_of_Binary_Tree.md)
+recursion。
+- [563: Binary Tree Tilt](/tree/Binary_Tree_Tilt.md)
+recursion。
+- [572: Subtree of Another Tree](/tree/Subtree_of_Another_Tree.md)
+isSametree子集；string比较。
+- [606: Construct String from Binary Tree](/tree/Construct_String_from_Binary_Tree.md)
+recursion+分类讨论。
+- [617: Merge Two Binary Trees](/tree/Merge_Two_Binary_Trees.md)
+recursion+分类讨论。
+
 
