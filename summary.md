@@ -358,5 +358,13 @@ isSametree子集；string比较。
 recursion+分类讨论。
 - [617: Merge Two Binary Trees](/tree/Merge_Two_Binary_Trees.md)
 recursion+分类讨论。
+- [623: Add One Row to Tree](/tree/Add_One_Row_to_Tree.md)
+level order traversal。
+- [637: Average of Levels in Binary Tree](/tree/Average_of_Levels_in_Binary_Tree.md)
+level order traversal。
+- [652: Find Duplicate Subtrees](/tree/Find_Duplicate_Subtrees.md)
+defaultdict()+recursion。
+- [653: Two Sum IV - Input is a BST](/tree/Two_Sum_IV_-_Input_is_a_BST.md)
+dict+recursion; set+iteration。
 
 

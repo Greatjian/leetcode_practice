@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Binary_Tree_Tilt.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Construct_String_from_Binary_Tree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Convert_BST_to_Greater_Tree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Diameter_of_Binary_Tree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Find_Bottom_Left_Tree_Value.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Find_Largest_Value_in_Each_Tree_Row.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Merge_Two_Binary_Trees.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Most_Frequent_Subtree_Sum.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Subtree_of_Another_Tree.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Add_One_Row_to_Tree.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Average_of_Levels_in_Binary_Tree.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Find_Duplicate_Subtrees.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Two_Sum_IV_-_Input_is_a_BST.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tree/Same_Tree.md" afterPath="$PROJECT_DIR$/tree/Same_Tree.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,13 +26,13 @@
     <favorites_list name="leetcode practice" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="437">
-                <caret line="216" column="0" lean-forward="true" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
+              <first_editor relative-caret-position="403">
+                <caret line="218" column="76" lean-forward="true" selection-start-line="218" selection-start-column="76" selection-end-line="218" selection-end-column="76" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -50,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="383">
-                <caret line="357" column="15" lean-forward="false" selection-start-line="357" selection-start-column="15" selection-end-line="357" selection-end-column="15" />
+              <first_editor relative-caret-position="428">
+                <caret line="367" column="0" lean-forward="true" selection-start-line="367" selection-start-column="0" selection-end-line="367" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -59,12 +53,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Merge_Two_Binary_Trees.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tree/Merge_Two_Binary_Trees.md">
+      <file leaf-file-name="Two_Sum_IV_-_Input_is_a_BST.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tree/Two_Sum_IV_-_Input_is_a_BST.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="218">
-                <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+              <first_editor relative-caret-position="83">
+                <caret line="33" column="15" lean-forward="false" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -72,12 +66,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Construct_String_from_Binary_Tree.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/Construct_String_from_Binary_Tree.md">
+      <file leaf-file-name="Find_Duplicate_Subtrees.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree/Find_Duplicate_Subtrees.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="72">
-                <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <first_editor relative-caret-position="125">
+                <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -106,10 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DynamicProgramming/2_Keys_Keyboard.md" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/Number_of_Longest_Increasing_Subsequence.md" />
-        <option value="$PROJECT_DIR$/tree/Unique_Binary_Search_Trees.md" />
-        <option value="$PROJECT_DIR$/tree/Unique_Binary_Search_Trees_II.md" />
         <option value="$PROJECT_DIR$/tree/Binary_Tree_Inorder_Traversal.md" />
         <option value="$PROJECT_DIR$/tree/Validate_Binary_Search_Tree.md" />
         <option value="$PROJECT_DIR$/tree/Symmetric_Tree.md" />
@@ -154,9 +144,13 @@
         <option value="$PROJECT_DIR$/tree/Subtree_of_Another_Tree.md" />
         <option value="$PROJECT_DIR$/tree/Same_Tree.md" />
         <option value="$PROJECT_DIR$/tree/Construct_String_from_Binary_Tree.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/summary.md" />
         <option value="$PROJECT_DIR$/tree/Merge_Two_Binary_Trees.md" />
+        <option value="$PROJECT_DIR$/tree/Average_of_Levels_in_Binary_Tree.md" />
+        <option value="$PROJECT_DIR$/tree/Add_One_Row_to_Tree.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/tree/Find_Duplicate_Subtrees.md" />
+        <option value="$PROJECT_DIR$/summary.md" />
+        <option value="$PROJECT_DIR$/tree/Two_Sum_IV_-_Input_is_a_BST.md" />
       </list>
     </option>
   </component>
@@ -189,6 +183,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="leetcode practice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -213,21 +222,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="tree" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="leetcode practice">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -438,12 +432,13 @@
       <workItem from="1508369084677" duration="966000" />
       <workItem from="1508458349585" duration="1109000" />
       <workItem from="1508550042040" duration="752000" />
-      <workItem from="1508627102431" duration="3710000" />
+      <workItem from="1508627102431" duration="3919000" />
+      <workItem from="1508693882318" duration="1837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169582000" />
+    <option name="totallyTimeSpent" value="171628000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -455,7 +450,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13423352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -511,56 +506,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/2_Keys_Keyboard.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Number_of_Longest_Increasing_Subsequence.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/Unique_Binary_Search_Trees.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/Validate_Binary_Search_Tree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="373">
-            <caret line="99" column="97" lean-forward="false" selection-start-line="99" selection-start-column="97" selection-end-line="99" selection-end-column="97" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/Symmetric_Tree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="735">
-            <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/Unique_Binary_Search_Trees_II.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -906,7 +851,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="150">
             <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -917,7 +861,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="32" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -928,7 +871,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
             <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -939,7 +881,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="150">
             <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -950,7 +891,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="30" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -961,7 +901,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="342">
             <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -972,18 +911,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="383">
             <caret line="91" column="93" lean-forward="false" selection-start-line="91" selection-start-column="93" selection-end-line="91" selection-end-column="93" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="216" column="0" lean-forward="true" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -994,7 +921,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-757">
             <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1005,6 +931,67 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="72">
             <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/Merge_Two_Binary_Trees.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/3dns/Result_Plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/Add_One_Row_to_Tree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/Average_of_Levels_in_Binary_Tree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="600">
+            <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="403">
+            <caret line="218" column="76" lean-forward="true" selection-start-line="218" selection-start-column="76" selection-end-line="218" selection-end-column="76" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/Find_Duplicate_Subtrees.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1014,19 +1001,19 @@
     <entry file="file://$PROJECT_DIR$/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="383">
-            <caret line="357" column="15" lean-forward="false" selection-start-line="357" selection-start-column="15" selection-end-line="357" selection-end-column="15" />
+          <first_editor relative-caret-position="428">
+            <caret line="367" column="0" lean-forward="true" selection-start-line="367" selection-start-column="0" selection-end-line="367" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/Merge_Two_Binary_Trees.md">
+    <entry file="file://$PROJECT_DIR$/tree/Two_Sum_IV_-_Input_is_a_BST.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="218">
-            <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+          <first_editor relative-caret-position="83">
+            <caret line="33" column="15" lean-forward="false" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
             <folding />
           </first_editor>
           <second_editor />

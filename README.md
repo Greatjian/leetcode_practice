@@ -214,3 +214,9 @@ My harvests for each practice are summarized [here](/summary.md).
 |572|[Subtree of Another Tree](/tree/Subtree_of_Another_Tree.md)|2017.10.21|
 |606|[Construct String from Binary Tree](/tree/Construct_String_from_Binary_Tree.md)|2017.10.21|
 |617|[Merge Two Binary Trees](/tree/Merge_Two_Binary_Trees.md)|2017.10.21|
+|623|[Add One Row to Tree](/tree/Add_One_Row_to_Tree.md)|2017.10.22|
+|637|[Average of Levels in Binary Tree](/tree/Average_of_Levels_in_Binary_Tree.md)|2017.10.22|
+|652|[Find Duplicate Subtrees](/tree/Find_Duplicate_Subtrees.md)|2017.10.22|
+|652|[Two Sum IV - Input is a BST](/tree/Two_Sum_IV_-_Input_is_a_BST.md)|2017.10.22|
+
+
