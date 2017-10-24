@@ -218,5 +218,8 @@ My harvests for each practice are summarized [here](/summary.md).
 |637|[Average of Levels in Binary Tree](/tree/Average_of_Levels_in_Binary_Tree.md)|2017.10.22|
 |652|[Find Duplicate Subtrees](/tree/Find_Duplicate_Subtrees.md)|2017.10.22|
 |652|[Two Sum IV - Input is a BST](/tree/Two_Sum_IV_-_Input_is_a_BST.md)|2017.10.22|
-
-
+|654|[Maximum Binary Tree](/tree/Maximum_Binary_Tree.md)|2017.10.23|
+|655|[Print Binary Tree](/tree/Print_Binary_Tree.md)|2017.10.23|
+|662|[Maximum Width of Binary Tree](/tree/Maximum_Width_of_Binary_Tree.md)|2017.10.23|
+|669|[Trim a Binary Search Tree](/tree/Trim_a_Binary_Search_Tree.md)|2017.10.23|
+|671|[Second Minimum Node In a Binary Tree](/tree/Second_Minimum_Node_In_a_Binary_Tree.md)|2017.10.23|

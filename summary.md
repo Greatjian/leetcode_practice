@@ -366,5 +366,13 @@ level order traversal。
 defaultdict()+recursion。
 - [653: Two Sum IV - Input is a BST](/tree/Two_Sum_IV_-_Input_is_a_BST.md)
 dict+recursion; set+iteration。
-
-
+- [654: Maximum Binary Tree](/tree/Maximum_Binary_Tree.md)
+recursion; iteration。
+- [655: Print Binary Tree](/tree/Print_Binary_Tree.md)
+recursion。
+- [662: Maximum Width of Binary Tree](/tree/Maximum_Width_of_Binary_Tree.md)
+level order traversal。
+- [669: Trim a Binary Search Tree](/tree/Trim_a_Binary_Search_Tree.md)
+recursion。
+- [671: Second Minimum Node In a Binary Tree](/tree/Second_Minimum_Node_In_a_Binary_Tree.md)
+recursion。
