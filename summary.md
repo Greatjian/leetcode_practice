@@ -376,3 +376,6 @@ level order traversal。
 recursion。
 - [671: Second Minimum Node In a Binary Tree](/tree/Second_Minimum_Node_In_a_Binary_Tree.md)
 recursion。
+- [687: Longest Univalue Path](/tree/Longest_Univalue_Path.md)
+recursion。
+

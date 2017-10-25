@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Maximum_Binary_Tree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Maximum_Width_of_Binary_Tree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Print_Binary_Tree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Second_Minimum_Node_In_a_Binary_Tree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Trim_a_Binary_Search_Tree.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/Longest_Univalue_Path.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="362">
-                <caret line="221" column="44" lean-forward="true" selection-start-line="221" selection-start-column="44" selection-end-line="221" selection-end-column="44" />
+              <first_editor relative-caret-position="3315">
+                <caret line="221" column="44" lean-forward="false" selection-start-line="221" selection-start-column="44" selection-end-line="221" selection-end-column="44" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -41,12 +35,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summary.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="summary.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="384">
+              <first_editor relative-caret-position="5625">
                 <caret line="375" column="10" lean-forward="false" selection-start-line="375" selection-start-column="10" selection-end-line="375" selection-end-column="10" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Longest_Univalue_Path.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tree/Longest_Univalue_Path.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-66">
+                <caret line="36" column="88" lean-forward="false" selection-start-line="36" selection-start-column="88" selection-end-line="36" selection-end-column="88" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -75,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tree/Maximum_Depth_of_Binary_Tree.md" />
         <option value="$PROJECT_DIR$/tree/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md" />
         <option value="$PROJECT_DIR$/tree/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md" />
         <option value="$PROJECT_DIR$/tree/Binary_Tree_Level_Order_Traversal_II.md" />
@@ -126,6 +132,7 @@
         <option value="$PROJECT_DIR$/tree/Second_Minimum_Node_In_a_Binary_Tree.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
+        <option value="$PROJECT_DIR$/tree/Longest_Univalue_Path.md" />
       </list>
     </option>
   </component>
@@ -158,21 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="leetcode practice">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -201,6 +193,21 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="leetcode practice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -410,12 +417,14 @@
       <workItem from="1508627102431" duration="3919000" />
       <workItem from="1508693882318" duration="2007000" />
       <workItem from="1508810296773" duration="1288000" />
-      <workItem from="1508814903255" duration="1139000" />
+      <workItem from="1508814903255" duration="1167000" />
+      <workItem from="1508902646556" duration="26000" />
+      <workItem from="1508902675618" duration="95000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174225000" />
+    <option name="totallyTimeSpent" value="174374000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -483,16 +492,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tree/Minimum_Depth_of_Binary_Tree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/Path_Sum.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -915,7 +914,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
             <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -926,7 +924,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -937,7 +934,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-3">
             <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="24" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -948,7 +944,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
             <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -959,7 +954,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-256">
             <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -968,8 +962,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="362">
-            <caret line="221" column="44" lean-forward="true" selection-start-line="221" selection-start-column="44" selection-end-line="221" selection-end-column="44" />
+          <first_editor relative-caret-position="3315">
+            <caret line="221" column="44" lean-forward="false" selection-start-line="221" selection-start-column="44" selection-end-line="221" selection-end-column="44" />
             <folding />
           </first_editor>
           <second_editor />
@@ -981,7 +975,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-696">
             <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -990,8 +983,19 @@
     <entry file="file://$PROJECT_DIR$/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="384">
+          <first_editor relative-caret-position="5625">
             <caret line="375" column="10" lean-forward="false" selection-start-line="375" selection-start-column="10" selection-end-line="375" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/Longest_Univalue_Path.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-66">
+            <caret line="36" column="88" lean-forward="false" selection-start-line="36" selection-start-column="88" selection-end-line="36" selection-end-column="88" />
             <folding />
           </first_editor>
           <second_editor />
