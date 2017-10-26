@@ -5,6 +5,7 @@
 - [Backtracking](#backtracking)
 - [Dynamic Programming](#dynamic-programming)
 - [Tree](#tree)
+- [String](#string)
 
 ## Array
 
@@ -378,4 +379,9 @@ recursion。
 recursion。
 - [687: Longest Univalue Path](/tree/Longest_Univalue_Path.md)
 recursion。
+
+## String
+
+- [003: Longest Substring Without Repeating Characters](/string/Longest_Substring_Without_Repeating_Characters.md)
+dict()+一次遍历。
 

@@ -19,6 +19,7 @@ My harvests for each practice are summarized [here](/summary.md).
 - [Backtracking](#backtracking)
 - [Dynamic Programming](#dynamic-programming)
 - [Tree](#tree)
+- [String](#string)
 
 ## Array
 
@@ -224,3 +225,9 @@ My harvests for each practice are summarized [here](/summary.md).
 |669|[Trim a Binary Search Tree](/tree/Trim_a_Binary_Search_Tree.md)|2017.10.23|
 |671|[Second Minimum Node In a Binary Tree](/tree/Second_Minimum_Node_In_a_Binary_Tree.md)|2017.10.23|
 |687|[Longest Univalue Path](/tree/Longest_Univalue_Path.md)|2017.10.24|
+
+## String
+
+|Number|Name|Date|
+|:---:|:---:|:---:|
+|003|[Longest Substring Without Repeating Characters](/string/Longest_Substring_Without_Repeating_Characters.md)|2017.10.25|
