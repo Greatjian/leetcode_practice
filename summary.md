@@ -384,4 +384,5 @@ recursion。
 
 - [003: Longest Substring Without Repeating Characters](/string/Longest_Substring_Without_Repeating_Characters.md)
 dict()+一次遍历。
-
+- [005: Longest Palindromic Substring](/string/Longest_Palindromic_Substring.md)
+记录start point, len()。

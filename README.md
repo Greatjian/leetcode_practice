@@ -231,3 +231,6 @@ My harvests for each practice are summarized [here](/summary.md).
 |Number|Name|Date|
 |:---:|:---:|:---:|
 |003|[Longest Substring Without Repeating Characters](/string/Longest_Substring_Without_Repeating_Characters.md)|2017.10.25|
+|005|[Longest Palindromic Substring](/string/Longest_Palindromic_Substring.md)|2017.10.28|
+
+
