@@ -386,3 +386,5 @@ recursion。
 dict()+一次遍历。
 - [005: Longest Palindromic Substring](/string/Longest_Palindromic_Substring.md)
 记录start point, len()。
+- [006: ZigZag Conversion](/string/ZigZag_Conversion.md)
+''.join()。
