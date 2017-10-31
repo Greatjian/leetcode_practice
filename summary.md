@@ -388,3 +388,5 @@ dict()+一次遍历。
 记录start point, len()。
 - [006: ZigZag Conversion](/string/ZigZag_Conversion.md)
 ''.join()。
+- [008: String to Integer (atoi)](/string/String_to_Integer_(atoi).md)
+corner case。

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/ZigZag_Conversion.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/String_to_Integer_(atoi).md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3525">
-                <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+              <first_editor relative-caret-position="859">
+                <caret line="236" column="0" lean-forward="true" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -39,8 +41,8 @@
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="428">
-                <caret line="387" column="21" lean-forward="false" selection-start-line="387" selection-start-column="21" selection-end-line="387" selection-end-column="21" />
+              <first_editor relative-caret-position="443">
+                <caret line="391" column="12" lean-forward="false" selection-start-line="391" selection-start-column="12" selection-end-line="391" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -48,12 +50,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZigZag_Conversion.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/string/ZigZag_Conversion.md">
+      <file leaf-file-name="String_to_Integer_(atoi).md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/string/String_to_Integer_(atoi).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="134">
-                <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <first_editor relative-caret-position="315">
+                <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -82,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tree/Convert_Sorted_Array_to_Binary_Search_Tree.md" />
         <option value="$PROJECT_DIR$/tree/Balanced_Binary_Tree.md" />
         <option value="$PROJECT_DIR$/tree/Minimum_Depth_of_Binary_Tree.md" />
         <option value="$PROJECT_DIR$/tree/Path_Sum.md" />
@@ -130,9 +131,10 @@
         <option value="$PROJECT_DIR$/tree/Longest_Univalue_Path.md" />
         <option value="$PROJECT_DIR$/string/Longest_Substring_Without_Repeating_Characters.md" />
         <option value="$PROJECT_DIR$/string/Longest_Palindromic_Substring.md" />
+        <option value="$PROJECT_DIR$/string/ZigZag_Conversion.md" />
+        <option value="$PROJECT_DIR$/string/String_to_Integer_(atoi).md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
-        <option value="$PROJECT_DIR$/string/ZigZag_Conversion.md" />
       </list>
     </option>
   </component>
@@ -422,12 +424,13 @@
       <workItem from="1508902675618" duration="343000" />
       <workItem from="1508976177348" duration="613000" />
       <workItem from="1509233242681" duration="777000" />
-      <workItem from="1509331222985" duration="245000" />
+      <workItem from="1509331222985" duration="331000" />
+      <workItem from="1509414658227" duration="1510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176257000" />
+    <option name="totallyTimeSpent" value="177853000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -495,26 +498,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tree/Populating_Next_Right_Pointers_in_Each_Node.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/Populating_Next_Right_Pointers_in_Each_Node_II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/Binary_Tree_Preorder_Traversal.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -972,11 +955,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/string/String_to_Integer_(atoi)">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/ZigZag_Conversion.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="383">
+            <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3525">
-            <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+          <first_editor relative-caret-position="859">
+            <caret line="236" column="0" lean-forward="true" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -986,19 +988,19 @@
     <entry file="file://$PROJECT_DIR$/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="428">
-            <caret line="387" column="21" lean-forward="false" selection-start-line="387" selection-start-column="21" selection-end-line="387" selection-end-column="21" />
+          <first_editor relative-caret-position="443">
+            <caret line="391" column="12" lean-forward="false" selection-start-line="391" selection-start-column="12" selection-end-line="391" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string/ZigZag_Conversion.md">
+    <entry file="file://$PROJECT_DIR$/string/String_to_Integer_(atoi).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="134">
-            <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
             <folding />
           </first_editor>
           <second_editor />
