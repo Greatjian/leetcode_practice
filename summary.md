@@ -390,3 +390,7 @@ dict()+一次遍历。
 ''.join()。
 - [008: String to Integer (atoi)](/string/String_to_Integer_(atoi).md)
 corner case。
+- [012: Integer to Roman](/string/Integer_to_Roman.md)
+index-value。
+- [013: Roman to Integer](/string/Roman_to_Integer.md)
+考虑4，9位。

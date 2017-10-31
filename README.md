@@ -234,4 +234,7 @@ My harvests for each practice are summarized [here](/summary.md).
 |005|[Longest Palindromic Substring](/string/Longest_Palindromic_Substring.md)|2017.10.28|
 |006|[ZigZag Conversion](/string/ZigZag_Conversion.md)|2017.10.29|
 |008|[String to Integer (atoi)](/string/String_to_Integer_(atoi).md)|2017.10.30|
+|012|[Integer to Roman](/string/Integer_to_Roman.md)|2017.10.31|
+|013|[Roman to Integer](/string/Roman_to_Integer.md)|2017.10.31|
+
 
