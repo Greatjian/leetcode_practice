@@ -396,4 +396,7 @@ index-value。
 考虑4，9位。
 - [014: Longest Common Prefix](/string/Longest_Common_Prefix.md)
 min(strs, key=len), zip(*strs)。
+- [020: Valid Parentheses](/string/Valid_Parentheses.md)
+- [028: Implement strStr()](/string/Implement_strStr().md)
+- [038: Count and Say](/string/Count_and_Say.md)
 

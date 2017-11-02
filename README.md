@@ -237,5 +237,6 @@ My harvests for each practice are summarized [here](/summary.md).
 |012|[Integer to Roman](/string/Integer_to_Roman.md)|2017.10.31|
 |013|[Roman to Integer](/string/Roman_to_Integer.md)|2017.10.31|
 |014|[Longest Common Prefix](/string/Longest_Common_Prefix.md)|2017.11.1|
-
-
+|020|[Valid Parentheses](/string/Valid_Parentheses.md)|2017.11.2|
+|028|[Implement strStr()](/string/Implement_strStr().md)|2017.11.2|
+|038|[Count and Say](/string/Count_and_Say.md)|2017.11.2|
