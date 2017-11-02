@@ -236,5 +236,6 @@ My harvests for each practice are summarized [here](/summary.md).
 |008|[String to Integer (atoi)](/string/String_to_Integer_(atoi).md)|2017.10.30|
 |012|[Integer to Roman](/string/Integer_to_Roman.md)|2017.10.31|
 |013|[Roman to Integer](/string/Roman_to_Integer.md)|2017.10.31|
+|014|[Longest Common Prefix](/string/Longest_Common_Prefix.md)|2017.11.1|
 
 

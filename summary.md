@@ -394,3 +394,6 @@ corner case。
 index-value。
 - [013: Roman to Integer](/string/Roman_to_Integer.md)
 考虑4，9位。
+- [014: Longest Common Prefix](/string/Longest_Common_Prefix.md)
+min(strs, key=len), zip(*strs)。
+
