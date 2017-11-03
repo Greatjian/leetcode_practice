@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Count_and_Say.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Implement_strStr().md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Valid_Parentheses.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Group_Anagrams.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Multiply_Strings.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
@@ -30,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="324">
-                <caret line="234" column="29" lean-forward="false" selection-start-line="234" selection-start-column="29" selection-end-line="234" selection-end-column="29" />
+              <first_editor relative-caret-position="458">
+                <caret line="243" column="0" lean-forward="true" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -43,8 +42,8 @@
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="414">
-                <caret line="399" column="8" lean-forward="false" selection-start-line="399" selection-start-column="8" selection-end-line="399" selection-end-column="8" />
+              <first_editor relative-caret-position="428">
+                <caret line="402" column="21" lean-forward="false" selection-start-line="402" selection-start-column="21" selection-end-line="402" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -52,12 +51,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Count_and_Say.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/string/Count_and_Say.md">
+      <file leaf-file-name="Group_Anagrams.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/string/Group_Anagrams.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="443">
-                <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+                <caret line="51" column="42" lean-forward="false" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -65,25 +64,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Implement_strStr().md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string/Implement_strStr().md">
+      <file leaf-file-name="Multiply_Strings.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/string/Multiply_Strings.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="24" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Valid_Parentheses.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string/Valid_Parentheses.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <first_editor relative-caret-position="117">
+                <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -112,8 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tree/Populating_Next_Right_Pointers_in_Each_Node_II.md" />
-        <option value="$PROJECT_DIR$/tree/Sum_Root_to_Leaf_Numbers.md" />
         <option value="$PROJECT_DIR$/tree/Binary_Tree_Preorder_Traversal.md" />
         <option value="$PROJECT_DIR$/tree/Binary_Tree_Postorder_Traversal.md" />
         <option value="$PROJECT_DIR$/tree/Binary_Search_Tree_Iterator.md" />
@@ -158,11 +142,13 @@
         <option value="$PROJECT_DIR$/string/Integer_to_Roman.md" />
         <option value="$PROJECT_DIR$/string/Roman_to_Integer.md" />
         <option value="$PROJECT_DIR$/string/Longest_Common_Prefix.md" />
-        <option value="$PROJECT_DIR$/string/Valid_Parentheses.md" />
+        <option value="$PROJECT_DIR$/string/Count_and_Say.md" />
         <option value="$PROJECT_DIR$/string/Implement_strStr().md" />
+        <option value="$PROJECT_DIR$/string/Valid_Parentheses.md" />
+        <option value="$PROJECT_DIR$/string/Multiply_Strings.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
-        <option value="$PROJECT_DIR$/string/Count_and_Say.md" />
+        <option value="$PROJECT_DIR$/string/Group_Anagrams.md" />
       </list>
     </option>
   </component>
@@ -456,12 +442,12 @@
       <workItem from="1509414658227" duration="1682000" />
       <workItem from="1509490464154" duration="1428000" />
       <workItem from="1509585461280" duration="466000" />
-      <workItem from="1509653989056" duration="623000" />
+      <workItem from="1509653989056" duration="1354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180542000" />
+    <option name="totallyTimeSpent" value="181273000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -529,26 +515,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tree/Convert_Sorted_Array_to_Binary_Search_Tree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-448">
-            <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/Binary_Search_Tree_Iterator.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/Binary_Tree_Level_Order_Traversal.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -982,7 +948,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+            <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
@@ -993,29 +959,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="24" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="234" column="29" lean-forward="false" selection-start-line="234" selection-start-column="29" selection-end-line="234" selection-end-column="29" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/summary.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="414">
-            <caret line="399" column="8" lean-forward="false" selection-start-line="399" selection-start-column="8" selection-end-line="399" selection-end-column="8" />
+            <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1025,8 +969,52 @@
     <entry file="file://$PROJECT_DIR$/string/Count_and_Say.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="458">
+            <caret line="243" column="0" lean-forward="true" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/Multiply_Strings.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="117">
+            <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summary.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="428">
+            <caret line="402" column="21" lean-forward="false" selection-start-line="402" selection-start-column="21" selection-end-line="402" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/Group_Anagrams.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="443">
-            <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+            <caret line="51" column="42" lean-forward="false" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
             <folding />
           </first_editor>
           <second_editor />

@@ -240,3 +240,5 @@ My harvests for each practice are summarized [here](/summary.md).
 |020|[Valid Parentheses](/string/Valid_Parentheses.md)|2017.11.2|
 |028|[Implement strStr()](/string/Implement_strStr().md)|2017.11.2|
 |038|[Count and Say](/string/Count_and_Say.md)|2017.11.2|
+|043|[Multiply Strings](/string/Multiply_Strings.md)|2017.11.2|
+|049|[Group Anagrams](/string/Group_Anagrams.md)|2017.11.2|

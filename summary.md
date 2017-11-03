@@ -399,4 +399,8 @@ min(strs, key=len), zip(*strs)。
 - [020: Valid Parentheses](/string/Valid_Parentheses.md)
 - [028: Implement strStr()](/string/Implement_strStr().md)
 - [038: Count and Say](/string/Count_and_Say.md)
+- [043: Multiply Strings](/string/Multiply_Strings.md)
+map(int, num1[::-1])。
+- [049: Group Anagrams](/string/Group_Anagrams.md)
+collections.defaultdict(list)。
 
