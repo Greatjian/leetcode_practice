@@ -403,4 +403,15 @@ min(strs, key=len), zip(*strs)。
 map(int, num1[::-1])。
 - [049: Group Anagrams](/string/Group_Anagrams.md)
 collections.defaultdict(list)。
-
+- [058: Length of Last Word](/string/Length_of_Last_Word.md)
+s.split()。
+- [067: Add Binary](/string/Add_Binary.md)
+补位+carry on。
+- [071: Simplify Path](/string/Simplify_Path.md)
+split and join。
+- [125: Valid Palindrome](/string/Valid_Palindrome.md)
+s.lower(); s.upper(); s.isalnum(); s.isalpha(); s.isnumeric()。
+- [151: Reverse Words in a String](/string/Reverse_Words_in_a_String.md)
+join, split。
+- [165: Compare Version Numbers](/string/Compare_Version_Numbers.md)
+补位。

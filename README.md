@@ -242,3 +242,10 @@ My harvests for each practice are summarized [here](/summary.md).
 |038|[Count and Say](/string/Count_and_Say.md)|2017.11.2|
 |043|[Multiply Strings](/string/Multiply_Strings.md)|2017.11.2|
 |049|[Group Anagrams](/string/Group_Anagrams.md)|2017.11.2|
+|058|[Length of Last Word](/string/Length_of_Last_Word.md)|2017.11.3|
+|067|[Add Binary](/string/Add_Binary.md)|2017.11.3|
+|071|[Simplify Path](/string/Simplify_Path.md)|2017.11.3|
+|125|[Valid Palindrome](/string/Valid_Palindrome.md)|2017.11.3|
+|151|[Reverse Words in a String](/string/Reverse_Words_in_a_String.md)|2017.11.3|
+|165|[Compare Version Numbers](/string/Compare_Version_Numbers.md)|2017.11.3|
+
