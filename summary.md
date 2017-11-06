@@ -415,3 +415,11 @@ s.lower(); s.upper(); s.isalnum(); s.isalpha(); s.isnumeric()。
 join, split。
 - [165: Compare Version Numbers](/string/Compare_Version_Numbers.md)
 补位。
+- [227: Basic Calculator II](/string/Basic_Calculator_II.md)
+num+sign。
+- [344: Reverse String](/string/Reverse_String.md)
+recursive, two pointers, pythonic。
+- [345: Reverse Vowels of a String](/string/Reverse_Vowels_of_a_String.md)
+two pointers。
+- [383: Ransom Note](/string/Ransom_Note.md)
+set+count。

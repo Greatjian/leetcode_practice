@@ -248,4 +248,8 @@ My harvests for each practice are summarized [here](/summary.md).
 |125|[Valid Palindrome](/string/Valid_Palindrome.md)|2017.11.3|
 |151|[Reverse Words in a String](/string/Reverse_Words_in_a_String.md)|2017.11.3|
 |165|[Compare Version Numbers](/string/Compare_Version_Numbers.md)|2017.11.3|
+|227|[Basic Calculator II](/string/Basic_Calculator_II.md)|2017.11.6|
+|344|[Reverse String](/string/Reverse_String.md)|2017.11.6|
+|345|[Reverse Vowels of a String](/string/Reverse_Vowels_of_a_String.md)|2017.11.6|
+|383|[Ransom Note](/string/Ransom_Note.md)|2017.11.6|
 
