@@ -252,4 +252,6 @@ My harvests for each practice are summarized [here](/summary.md).
 |344|[Reverse String](/string/Reverse_String.md)|2017.11.6|
 |345|[Reverse Vowels of a String](/string/Reverse_Vowels_of_a_String.md)|2017.11.6|
 |383|[Ransom Note](/string/Ransom_Note.md)|2017.11.6|
-
+|385|[Mini Parser](/string/Mini_Parser.md)|2017.11.7|
+|434|[Number of Segments in a String](/string/Number_of_Segments_in_a_String.md)|2017.11.7|
+|443|[String Compression](/string/String_Compression.md)|2017.11.8|

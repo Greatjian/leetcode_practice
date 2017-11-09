@@ -423,3 +423,11 @@ recursive, two pointers, pythonic。
 two pointers。
 - [383: Ransom Note](/string/Ransom_Note.md)
 set+count。
+- [385: Mini Parser](/string/Mini_Parser.md)
+stack。
+- [434: Number of Segments in a String](/string/Number_of_Segments_in_a_String.md)
+s.split()。
+- [443: String Compression](/string/String_Compression.md)
+two pointers, while loop for string length modification。
+
+
