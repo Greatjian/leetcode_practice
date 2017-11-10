@@ -429,5 +429,17 @@ stack。
 s.split()。
 - [443: String Compression](/string/String_Compression.md)
 two pointers, while loop for string length modification。
+- [459: Repeated Substring Pattern](/string/Repeated_Substring_Pattern.md)
+double the string。
+- [468: Validate IP Address](/string/Validate_IP_Address.md)
+split(), any(), all()。
+- [520: Detect Capital](/string/Detect_Capital.md)
+isupper(), islower(), istitle()。
+- [521: Longest Uncommon Subsequence I](/string/Longest_Uncommon_Subsequence_I.md)
+math。
+- [522: Longest Uncommon Subsequence II](/string/Longest_Uncommon_Subsequence_II.md)
+subsequence定义, sort长度。
+
+
 
 

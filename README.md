@@ -255,3 +255,8 @@ My harvests for each practice are summarized [here](/summary.md).
 |385|[Mini Parser](/string/Mini_Parser.md)|2017.11.7|
 |434|[Number of Segments in a String](/string/Number_of_Segments_in_a_String.md)|2017.11.7|
 |443|[String Compression](/string/String_Compression.md)|2017.11.8|
+|459|[Repeated Substring Pattern](/string/Repeated_Substring_Pattern.md)|2017.11.9|
+|468|[Validate IP Address](/string/Validate_IP_Address.md)|2017.11.9|
+|520|[Detect Capital](/string/Detect_Capital.md)|2017.11.9|
+|521|[Longest Uncommon Subsequence I](/string/Longest_Uncommon_Subsequence_I.md)|2017.11.9|
+|522|[Longest Uncommon Subsequence II](/string/Longest_Uncommon_Subsequence_II.md)|2017.11.9|
