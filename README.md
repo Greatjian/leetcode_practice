@@ -260,3 +260,7 @@ My harvests for each practice are summarized [here](/summary.md).
 |520|[Detect Capital](/string/Detect_Capital.md)|2017.11.9|
 |521|[Longest Uncommon Subsequence I](/string/Longest_Uncommon_Subsequence_I.md)|2017.11.9|
 |522|[Longest Uncommon Subsequence II](/string/Longest_Uncommon_Subsequence_II.md)|2017.11.9|
+|537|[Complex Number Multiplication](/string/Complex_Number_Multiplication.md)|2017.11.11|
+|539|[Minimum Time Difference](/string/Minimum_Time_Difference.md)|2017.11.12|
+|541|[Reverse String II](/string/Reverse_String_II.md)|2017.11.12|
+|551|[Student Attendance Record I](/string/Student_Attendance_Record_I.md)|2017.11.12|

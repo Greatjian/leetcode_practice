@@ -439,6 +439,12 @@ isupper(), islower(), istitle()。
 math。
 - [522: Longest Uncommon Subsequence II](/string/Longest_Uncommon_Subsequence_II.md)
 subsequence定义, sort长度。
+- [537: Complex Number Multiplication](/string/Complex_Number_Multiplication.md)
+- [539: Minimum Time Difference](/string/Minimum_Time_Difference.md)
+sort。
+- [541: Reverse String II](/string/Reverse_String_II.md)
+recursion; range。
+- [551: Student Attendance Record I](/string/Student_Attendance_Record_I.md)
 
 
 
