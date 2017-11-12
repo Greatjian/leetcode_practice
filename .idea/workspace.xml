@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Complex_Number_Multiplication.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Minimum_Time_Difference.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Reverse_String_II.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Student_Attendance_Record_I.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Delete_Operation_for_Two_Strings.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Next_Greater_Element_III.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Optimal_Division.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Reverse_Words_in_a_String_III.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
@@ -27,12 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="413">
-                <caret line="265" column="49" lean-forward="true" selection-start-line="265" selection-start-column="49" selection-end-line="265" selection-end-column="49" />
+              <first_editor relative-caret-position="296">
+                <caret line="264" column="48" lean-forward="false" selection-start-line="264" selection-start-column="48" selection-end-line="264" selection-end-column="48" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -44,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="415">
-                <caret line="445" column="17" lean-forward="false" selection-start-line="445" selection-start-column="17" selection-end-line="445" selection-end-column="17" />
+              <first_editor relative-caret-position="338">
+                <caret line="454" column="3" lean-forward="false" selection-start-line="454" selection-start-column="3" selection-end-line="454" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -53,25 +53,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reverse_String_II.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string/Reverse_String_II.md">
+      <file leaf-file-name="Delete_Operation_for_Two_Strings.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/string/Delete_Operation_for_Two_Strings.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student_Attendance_Record_I.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string/Student_Attendance_Record_I.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-652">
-                <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="34" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -100,10 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tree/Binary_Tree_Tilt.md" />
-        <option value="$PROJECT_DIR$/tree/Subtree_of_Another_Tree.md" />
-        <option value="$PROJECT_DIR$/tree/Same_Tree.md" />
-        <option value="$PROJECT_DIR$/tree/Construct_String_from_Binary_Tree.md" />
         <option value="$PROJECT_DIR$/tree/Merge_Two_Binary_Trees.md" />
         <option value="$PROJECT_DIR$/tree/Average_of_Levels_in_Binary_Tree.md" />
         <option value="$PROJECT_DIR$/tree/Add_One_Row_to_Tree.md" />
@@ -149,6 +132,10 @@
         <option value="$PROJECT_DIR$/string/Minimum_Time_Difference.md" />
         <option value="$PROJECT_DIR$/string/Reverse_String_II.md" />
         <option value="$PROJECT_DIR$/string/Student_Attendance_Record_I.md" />
+        <option value="$PROJECT_DIR$/string/Optimal_Division.md" />
+        <option value="$PROJECT_DIR$/string/Next_Greater_Element_III.md" />
+        <option value="$PROJECT_DIR$/string/Reverse_Words_in_a_String_III.md" />
+        <option value="$PROJECT_DIR$/string/Delete_Operation_for_Two_Strings.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
       </list>
@@ -183,6 +170,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="leetcode practice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,20 +208,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="string" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="leetcode practice">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -455,12 +442,13 @@
       <workItem from="1510245809930" duration="764000" />
       <workItem from="1510284444078" duration="213000" />
       <workItem from="1510285033918" duration="1447000" />
-      <workItem from="1510463466970" duration="1573000" />
+      <workItem from="1510463466970" duration="1703000" />
+      <workItem from="1510513458149" duration="1589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195002000" />
+    <option name="totallyTimeSpent" value="196721000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -472,7 +460,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13423352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -528,43 +516,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tree/Subtree_of_Another_Tree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-757">
-            <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/Construct_String_from_Binary_Tree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/Merge_Two_Binary_Trees.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/3dns/Result_Plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/Add_One_Row_to_Tree.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -971,7 +922,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
             <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -982,18 +932,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="30" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/summary.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="415">
-            <caret line="445" column="17" lean-forward="false" selection-start-line="445" selection-start-column="17" selection-end-line="445" selection-end-column="17" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1013,8 +951,41 @@
     <entry file="file://$PROJECT_DIR$/string/Student_Attendance_Record_I.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-652">
-            <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="34" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/Optimal_Division.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/Next_Greater_Element_III.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/Reverse_Words_in_a_String_III.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-232">
+            <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1024,8 +995,30 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="413">
-            <caret line="265" column="49" lean-forward="true" selection-start-line="265" selection-start-column="49" selection-end-line="265" selection-end-column="49" />
+          <first_editor relative-caret-position="296">
+            <caret line="264" column="48" lean-forward="false" selection-start-line="264" selection-start-column="48" selection-end-line="264" selection-end-column="48" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summary.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="338">
+            <caret line="454" column="3" lean-forward="false" selection-start-line="454" selection-start-column="3" selection-end-line="454" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/Delete_Operation_for_Two_Strings.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor />

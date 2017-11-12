@@ -445,7 +445,13 @@ sort。
 - [541: Reverse String II](/string/Reverse_String_II.md)
 recursion; range。
 - [551: Student Attendance Record I](/string/Student_Attendance_Record_I.md)
-
-
+- [553: Optimal Division](/string/Optimal_Division.md)
+math。
+- [556: Next Greater Element III](/string/Next_Greater_Element_III.md)
+找到两个index交换位置，后部分sort。
+- [557: Reverse Words in a String III](/string/Reverse_Words_in_a_String.md)
+str[::-1]。
+- [583: Delete Operation for Two Strings](/string/Delete_Operation_for_Two_Strings.md)
+dp。
 
 

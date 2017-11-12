@@ -264,3 +264,7 @@ My harvests for each practice are summarized [here](/summary.md).
 |539|[Minimum Time Difference](/string/Minimum_Time_Difference.md)|2017.11.12|
 |541|[Reverse String II](/string/Reverse_String_II.md)|2017.11.12|
 |551|[Student Attendance Record I](/string/Student_Attendance_Record_I.md)|2017.11.12|
+|553|[Optimal Division](/string/Optimal_Division.md)|2017.11.12|
+|556|[Next Greater Element III](/string/Next_Greater_Element_III.md)|2017.11.12|
+|557|[Reverse Words in a String III](/string/Reverse_Words_in_a_String.md)|2017.11.12|
+|583|[Delete Operation for Two Strings](/string/Delete_Operation_for_Two_Strings.md)|2017.11.12|
