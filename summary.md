@@ -453,5 +453,12 @@ math。
 str[::-1]。
 - [583: Delete Operation for Two Strings](/string/Delete_Operation_for_Two_Strings.md)
 dp。
-
-
+- [609: Find Duplicate File in System](/string/Find_Duplicate_File_in_System.md)
+defaultdict()+split()。
+- [657: Judge Route Circle](/string/Judge_Route_Circle.md)
+- [678: Valid Parenthesis String](/string/Valid_Parenthesis_String.md)
+lo and hi for (, *, )。
+- [680: Valid Palindrome II](/string/Valid_Palindrome_II.md)
+find the deletion point and check。
+- [686: Repeated String Match](/string/Repeated_Substring_Pattern.md)
+test twice based on length。

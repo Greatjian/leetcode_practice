@@ -268,3 +268,9 @@ My harvests for each practice are summarized [here](/summary.md).
 |556|[Next Greater Element III](/string/Next_Greater_Element_III.md)|2017.11.12|
 |557|[Reverse Words in a String III](/string/Reverse_Words_in_a_String.md)|2017.11.12|
 |583|[Delete Operation for Two Strings](/string/Delete_Operation_for_Two_Strings.md)|2017.11.12|
+|609|[Find Duplicate File in System](/string/Find_Duplicate_File_in_System.md)|2017.11.13|
+|657|[Judge Route Circle](/string/Judge_Route_Circle.md)|2017.11.13|
+|678|[Valid Parenthesis String](/string/Valid_Parenthesis_String.md)|2017.11.13|
+|680|[Valid Palindrome II](/string/Valid_Palindrome_II.md)|2017.11.13|
+|686|[Repeated String Match](/string/Repeated_Substring_Pattern.md)|2017.11.13|
+
