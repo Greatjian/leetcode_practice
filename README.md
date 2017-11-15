@@ -273,4 +273,4 @@ My harvests for each practice are summarized [here](/summary.md).
 |678|[Valid Parenthesis String](/string/Valid_Parenthesis_String.md)|2017.11.13|
 |680|[Valid Palindrome II](/string/Valid_Palindrome_II.md)|2017.11.13|
 |686|[Repeated String Match](/string/Repeated_Substring_Pattern.md)|2017.11.13|
-
+|696|[Count Binary Substrings](/string/Count_Binary_Substrings.md)|2017.11.14|

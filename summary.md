@@ -462,3 +462,5 @@ lo and hi for (, *, )。
 find the deletion point and check。
 - [686: Repeated String Match](/string/Repeated_Substring_Pattern.md)
 test twice based on length。
+- [696: Count Binary Substrings](/string/Count_Binary_Substrings.md)
+s.replace()。
