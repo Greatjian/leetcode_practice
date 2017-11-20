@@ -22,10 +22,7 @@ class Solution(object):
 ````
 class Solution(object):
     def containsDuplicate(self, nums):
-        copy = set(nums)
-        if len(copy) < len(nums):
-            return True
-        return False
+        return len(nums)!=len(set(nums))
 ````
 3. dict判断key是否存在
     

@@ -482,4 +482,11 @@ defaultdict()。
 - [202: Happy Number](/hash/Happy_Number.md)
 set()。
 - [204: Count Primes](/hash/Count_Primes.md)
+- [205: Isomorphic Strings](/hash/Isomorphic_Strings.md)
+dict[val]=idx。
+- [242: Valid Anagram](/hash/Valid_Anagram.md)
+- [274: H-Index](/hash/H-Index.md)
+bucket sort。
+- [290: Word Pattern](/hash/Word_Pattern.md)
+similar to 205。
 

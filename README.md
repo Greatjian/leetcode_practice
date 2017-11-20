@@ -288,5 +288,9 @@ My harvests for each practice are summarized [here](/summary.md).
 |187|[Repeated DNA Sequences](/hash/Repeated_DNA_Sequences.md)|2017.11.19|
 |202|[Happy Number](/hash/Happy_Number.md)|2017.11.19|
 |204|[Count Primes](/hash/Count_Primes.md)|2017.11.19|
+|205|[Isomorphic Strings](/hash/Isomorphic_Strings.md)|2017.11.20|
+|242|[Valid Anagram](/hash/Valid_Anagram.md)|2017.11.20|
+|274|[H-Index](/hash/H-Index.md)|2017.11.20|
+|290|[Word Pattern](/hash/Word_Pattern.md)|2017.11.20|
 
 
