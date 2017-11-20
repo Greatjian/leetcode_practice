@@ -6,6 +6,7 @@
 - [Dynamic Programming](#dynamic-programming)
 - [Tree](#tree)
 - [String](#string)
+- [Hash Table](#hash-table)
 
 ## Array
 
@@ -464,3 +465,21 @@ find the deletion point and check。
 test twice based on length。
 - [696: Count Binary Substrings](/string/Count_Binary_Substrings.md)
 s.replace()。
+- [722: Remove Comments](/string/Remove_Comments.md)
+
+## Hash Table
+
+- [036: Valid Sudoku](hash/Valid_Sudoku.md)
+check for memory using dict() or set()。
+- [136: Single Number](/hash/Single_Number.md)
+位运算；set()。
+- [138: Copy List with Random Pointer](/hash/Copy_List_with_Random_Pointer.md)
+dict()。
+- [166: Fraction to Recurring Decimal](/hash/Fraction_to_Recurring_Decimal.md)
+*10 %, dict for memorization。
+- [187: Repeated DNA Sequences](/hash/Repeated_DNA_Sequences.md)
+defaultdict()。
+- [202: Happy Number](/hash/Happy_Number.md)
+set()。
+- [204: Count Primes](/hash/Count_Primes.md)
+

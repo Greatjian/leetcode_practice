@@ -20,6 +20,7 @@ My harvests for each practice are summarized [here](/summary.md).
 - [Dynamic Programming](#dynamic-programming)
 - [Tree](#tree)
 - [String](#string)
+- [Hash Table](#hash-table)
 
 ## Array
 
@@ -274,3 +275,18 @@ My harvests for each practice are summarized [here](/summary.md).
 |680|[Valid Palindrome II](/string/Valid_Palindrome_II.md)|2017.11.13|
 |686|[Repeated String Match](/string/Repeated_Substring_Pattern.md)|2017.11.13|
 |696|[Count Binary Substrings](/string/Count_Binary_Substrings.md)|2017.11.14|
+|722|[Remove Comments](/string/Remove_Comments.md)|2017.11.14|
+
+## Hash Table
+
+|Number|Name|Date|
+|:---:|:---:|:---:|
+|036|[Valid Sudoku](hash/Valid_Sudoku.md)|2017.11.19|
+|136|[Single Number](/hash/Single_Number.md)|2017.11.19|
+|138|[Copy List with Random Pointer](/hash/Copy_List_with_Random_Pointer.md)|2017.11.19|
+|166|[Fraction to Recurring Decimal](/hash/Fraction_to_Recurring_Decimal.md)|2017.11.19|
+|187|[Repeated DNA Sequences](/hash/Repeated_DNA_Sequences.md)|2017.11.19|
+|202|[Happy Number](/hash/Happy_Number.md)|2017.11.19|
+|204|[Count Primes](/hash/Count_Primes.md)|2017.11.19|
+
+
