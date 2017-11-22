@@ -229,6 +229,15 @@ My harvests for each practice are summarized [here](/summary.md).
 
 ## String
 
+```
+''.join(s)
+s.split()
+map(str/int/function, iterable)
+zip()/zipped(*)
+any()/all()
+sorted(iterable, key=len/lambda..., reverse=True)
+```
+
 |Number|Name|Date|
 |:---:|:---:|:---:|
 |003|[Longest Substring Without Repeating Characters](/string/Longest_Substring_Without_Repeating_Characters.md)|2017.10.25|
@@ -279,6 +288,14 @@ My harvests for each practice are summarized [here](/summary.md).
 
 ## Hash Table
 
+```
+set()
+collections.defaultdict(int/list/lambda...)
+collections.Counter()
+d.keys()/values()/items()/elements()
+set1()/dict1() +/-/&/| set2()/dict2()
+```
+
 |Number|Name|Date|
 |:---:|:---:|:---:|
 |036|[Valid Sudoku](hash/Valid_Sudoku.md)|2017.11.19|
@@ -292,5 +309,13 @@ My harvests for each practice are summarized [here](/summary.md).
 |242|[Valid Anagram](/hash/Valid_Anagram.md)|2017.11.20|
 |274|[H-Index](/hash/H-Index.md)|2017.11.20|
 |290|[Word Pattern](/hash/Word_Pattern.md)|2017.11.20|
+|299|[Bulls and Cows](/hash/Bulls_and_Cows.md)|2017.11.21|
+|347|[Top K Frequent Elements](/hash/Top_K_Frequent_Elements.md)|2017.11.21|
+|349|[Intersection of Two Arrays](/hash/Intersection_of_Two_Arrays.md)|2017.11.21|
+|350|[Intersection of Two Arrays II](/hash/Intersection_of_Two_Arrays_II.md)|2017.11.21|
+|389|[Find the Difference](/hash/Find_the_Difference.md)|2017.11.21|
+|409|[Longest Palindrome](/hash/Longest_Palindrome.md)|2017.11.21|
+|438|[Find All Anagrams in a String](/hash/Find_All_Anagrams_in_a_String.md)|2017.11.21|
+
 
 

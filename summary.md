@@ -483,10 +483,26 @@ defaultdict()。
 set()。
 - [204: Count Primes](/hash/Count_Primes.md)
 - [205: Isomorphic Strings](/hash/Isomorphic_Strings.md)
-dict[val]=idx。
+dict[val] = idx。
 - [242: Valid Anagram](/hash/Valid_Anagram.md)
 - [274: H-Index](/hash/H-Index.md)
 bucket sort。
 - [290: Word Pattern](/hash/Word_Pattern.md)
 similar to 205。
+- [299: Bulls and Cows](/hash/Bulls_and_Cows.md)
+- [347: Top K Frequent Elements](/hash/Top_K_Frequent_Elements.md)
+count + sort。
+- [349: Intersection of Two Arrays](/hash/Intersection_of_Two_Arrays.md)
+set1() & set2()。
+- [350: Intersection of Two Arrays II](/hash/Intersection_of_Two_Arrays_II.md)
+dict1() & dict2()。
+- [389: Find the Difference](/hash/Find_the_Difference.md)
+dict1() - dict2()。
+- [409: Longest Palindrome](/hash/Longest_Palindrome.md)
+两两搭配。
+- [438: Find All Anagrams in a String](/hash/Find_All_Anagrams_in_a_String.md)
+前加后减。
+
+
+
 
