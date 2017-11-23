@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Bulls_and_Cows.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Find_All_Anagrams_in_a_String.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Find_the_Difference.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Intersection_of_Two_Arrays.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Intersection_of_Two_Arrays_II.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Longest_Palindrome.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Top_K_Frequent_Elements.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/4Sum_II.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Contiguous_Array.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Island_Perimeter.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Keyboard_Row.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Number_of_Boomerangs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Sort_Characters_By_Frequency.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
@@ -30,12 +29,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="443">
-                <caret line="321" column="0" lean-forward="true" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+              <first_editor relative-caret-position="4845">
+                <caret line="323" column="0" lean-forward="false" selection-start-line="323" selection-start-column="0" selection-end-line="323" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -47,8 +46,8 @@
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="428">
-                <caret line="503" column="5" lean-forward="false" selection-start-line="503" selection-start-column="5" selection-end-line="503" selection-end-column="5" />
+              <first_editor relative-caret-position="7695">
+                <caret line="513" column="0" lean-forward="false" selection-start-line="513" selection-start-column="0" selection-end-line="513" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -56,12 +55,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Find_All_Anagrams_in_a_String.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hash/Find_All_Anagrams_in_a_String.md">
+      <file leaf-file-name="Contiguous_Array.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hash/Contiguous_Array.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="398">
+                <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Keyboard_Row.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hash/Keyboard_Row.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="150">
-                <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -90,12 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/string/Valid_Palindrome.md" />
-        <option value="$PROJECT_DIR$/string/Reverse_Words_in_a_String.md" />
-        <option value="$PROJECT_DIR$/string/Compare_Version_Numbers.md" />
-        <option value="$PROJECT_DIR$/string/Basic_Calculator_II.md" />
-        <option value="$PROJECT_DIR$/string/Reverse_String.md" />
-        <option value="$PROJECT_DIR$/string/Reverse_Vowels_of_a_String.md" />
         <option value="$PROJECT_DIR$/string/Ransom_Note.md" />
         <option value="$PROJECT_DIR$/string/Mini_Parser.md" />
         <option value="$PROJECT_DIR$/string/Number_of_Segments_in_a_String.md" />
@@ -139,8 +145,14 @@
         <option value="$PROJECT_DIR$/hash/Find_the_Difference.md" />
         <option value="$PROJECT_DIR$/hash/Longest_Palindrome.md" />
         <option value="$PROJECT_DIR$/hash/Find_All_Anagrams_in_a_String.md" />
+        <option value="$PROJECT_DIR$/hash/Number_of_Boomerangs.md" />
+        <option value="$PROJECT_DIR$/hash/Sort_Characters_By_Frequency.md" />
+        <option value="$PROJECT_DIR$/hash/4Sum_II.md" />
+        <option value="$PROJECT_DIR$/hash/Island_Perimeter.md" />
+        <option value="$PROJECT_DIR$/hash/Keyboard_Row.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
+        <option value="$PROJECT_DIR$/hash/Contiguous_Array.md" />
       </list>
     </option>
   </component>
@@ -173,6 +185,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="leetcode practice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -197,20 +223,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="hash" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="leetcode practice">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -456,12 +468,16 @@
       <workItem from="1511205015796" duration="1083000" />
       <workItem from="1511207948577" duration="2136000" />
       <workItem from="1511290681182" duration="3503000" />
-      <workItem from="1511320352638" duration="1684000" />
+      <workItem from="1511320352638" duration="1872000" />
+      <workItem from="1511368385935" duration="2579000" />
+      <workItem from="1511401543386" duration="442000" />
+      <workItem from="1511403150828" duration="438000" />
+      <workItem from="1511405056741" duration="67000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213849000" />
+    <option name="totallyTimeSpent" value="217563000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -529,66 +545,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/string/Valid_Palindrome.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="83">
-            <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/Reverse_Words_in_a_String.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/Compare_Version_Numbers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-295">
-            <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/Basic_Calculator_II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/Reverse_Vowels_of_a_String.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/Reverse_String.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string/Mini_Parser.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -944,7 +900,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="383">
             <caret line="46" column="101" lean-forward="false" selection-start-line="46" selection-start-column="101" selection-end-line="46" selection-end-column="101" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -955,7 +910,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="21" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -966,7 +920,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="128">
             <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -977,7 +930,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-139">
             <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -988,7 +940,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="323">
             <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -999,7 +950,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="188">
             <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1010,18 +960,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-112">
             <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/summary.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="428">
-            <caret line="503" column="5" lean-forward="false" selection-start-line="503" selection-start-column="5" selection-end-line="503" selection-end-column="5" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1032,6 +970,48 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="150">
             <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/Number_of_Boomerangs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-189">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/Sort_Characters_By_Frequency.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="930">
+            <caret line="62" column="50" lean-forward="false" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="50" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/4Sum_II.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/Island_Perimeter.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1041,8 +1021,41 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="443">
-            <caret line="321" column="0" lean-forward="true" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+          <first_editor relative-caret-position="4845">
+            <caret line="323" column="0" lean-forward="false" selection-start-line="323" selection-start-column="0" selection-end-line="323" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/Keyboard_Row.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summary.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="7695">
+            <caret line="513" column="0" lean-forward="false" selection-start-line="513" selection-start-column="0" selection-end-line="513" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/Contiguous_Array.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="398">
+            <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
             <folding />
           </first_editor>
           <second_editor />

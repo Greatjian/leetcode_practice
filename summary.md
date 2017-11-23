@@ -502,7 +502,17 @@ dict1() - dict2()。
 两两搭配。
 - [438: Find All Anagrams in a String](/hash/Find_All_Anagrams_in_a_String.md)
 前加后减。
-
+- [447: Number of Boomerangs](/hash/Number_of_Boomerangs.md)
+记录点与距离。
+- [451: Sort Characters By Frequency](/hash/Sort_Characters_By_Frequency.md)
+sort。
+- [454: 4Sum II](/hash/4Sum_II.md)
+两两配对。
+- [463: Island Perimeter](/hash/Island_Perimeter.md)
+check for adjacent area。
+- [500: Keyboard Row](/hash/Keyboard_Row.md)
+- [525: Contiguous Array](/hash/Contiguous_Array.md)
+后加前减。
 
 
 

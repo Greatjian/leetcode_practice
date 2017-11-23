@@ -316,6 +316,11 @@ set1()/dict1() +/-/&/| set2()/dict2()
 |389|[Find the Difference](/hash/Find_the_Difference.md)|2017.11.21|
 |409|[Longest Palindrome](/hash/Longest_Palindrome.md)|2017.11.21|
 |438|[Find All Anagrams in a String](/hash/Find_All_Anagrams_in_a_String.md)|2017.11.21|
-
+|447|[Number of Boomerangs](/hash/Number_of_Boomerangs.md)|2017.11.22|
+|451|[Sort Characters By Frequency](/hash/Sort_Characters_By_Frequency.md)|2017.11.22|
+|454|[4Sum II](/hash/4Sum_II.md)|2017.11.22|
+|463|[Island Perimeter](/hash/Island_Perimeter.md)|2017.11.22|
+|500|[Keyboard Row](/hash/Keyboard_Row.md)|2017.11.22|
+|525|[Contiguous Array](/hash/Contiguous_Array.md)|2017.11.22|
 
 
