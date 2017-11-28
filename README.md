@@ -322,5 +322,12 @@ set1()/dict1() +/-/&/| set2()/dict2()
 |463|[Island Perimeter](/hash/Island_Perimeter.md)|2017.11.22|
 |500|[Keyboard Row](/hash/Keyboard_Row.md)|2017.11.22|
 |525|[Contiguous Array](/hash/Contiguous_Array.md)|2017.11.22|
-
-
+|-|-|Happy Thanksgiving|
+|535|[Encode and Decode TinyURL](/hash/Encode_and_Decode_TinyURL.md)|2017.11.27|
+|554|[Brick Wall](/hash/Brick_Wall.md)|2017.11.27|
+|575|[Distribute Candies](/hash/Distribute_Candies.md)|2017.11.27|
+|599|[Minimum Index Sum of Two Lists](/hash/Minimum_Index_Sum_of_Two_Lists.md)|2017.11.27|
+|645|[Set Mismatch](/hash/Set_Mismatch.md)|2017.11.27|
+|648|[Replace Words](/hash/Replace_Words.md)|2017.11.27|
+|676|[Implement Magic Dictionary](/hash/Implement_Magic_Dictionary.md)|2017.11.27|
+|690|[Employee Importance](/hash/Employee_Importance.md)|2017.11.27|

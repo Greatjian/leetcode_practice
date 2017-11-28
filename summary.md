@@ -513,6 +513,19 @@ check for adjacent area。
 - [500: Keyboard Row](/hash/Keyboard_Row.md)
 - [525: Contiguous Array](/hash/Contiguous_Array.md)
 后加前减。
-
+- [535: Encode and Decode TinyURL](/hash/Encode_and_Decode_TinyURL.md)
+hash()。
+- [554: Brick Wall](/hash/Brick_Wall.md)
+- [575: Distribute Candies](/hash/Distribute_Candies.md)
+- [599: Minimum Index Sum of Two Lists](/hash/Minimum_Index_Sum_of_Two_Lists.md)
+d[val]=idx。
+- [645: Set Mismatch](/hash/Set_Mismatch.md)
+dict；sum(set)。
+- [648: Replace Words](/hash/Replace_Words.md)
+defaultdict(list) in terms of first character。
+- [676: Implement Magic Dictionary](/hash/Implement_Magic_Dictionary.md)
+defaultdict(list) in terms of word length。
+- [690: Employee Importance](/hash/Employee_Importance.md)
+dfs, recursion/iteration。
 
 
