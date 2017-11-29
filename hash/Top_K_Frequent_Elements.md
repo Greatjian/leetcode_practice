@@ -12,7 +12,7 @@ Note:
 
 ## Method:
 
-count+sort:
+sort O(nlogn):
 
     class Solution(object):
         def topKFrequent(self, nums, k):
@@ -22,10 +22,37 @@ count+sort:
             :rtype: List[int]
             """
             d=collections.Counter(nums)
-            t=[]
-            for key in d:
-                t.append((key, d[key]))
-            t.sort(key=lambda x: x[1], reverse=True)
-            return [i[0] for i in t[:k]]
+            return sorted(d.keys(), key=lambda i:d[i], reverse=True)[:k]
             
-         // t=sorted(d.items(), key=lambda x:x[1], reverse=True)
+using heap O(nlogn):
+
+    class Solution(object):
+        def topKFrequent(self, nums, k):
+            """
+            :type nums: List[int]
+            :type k: int
+            :rtype: List[int]
+            """
+            d=collections.Counter(nums)
+            hp=[]
+            for i in d.keys():
+                heapq.heappush(hp, (-d[i], i))
+            return [heapq.heappop(hp)[1] for _ in range(k)]
+            
+using heap O(nlogk):
+
+    class Solution(object):
+        def topKFrequent(self, nums, k):
+            """
+            :type nums: List[int]
+            :type k: int
+            :rtype: List[int]
+            """
+            d=collections.Counter(nums)
+            hp=[]
+            for i in d.keys():
+                if len(hp)<k:
+                    heapq.heappush(hp, (d[i], i))
+                elif len(hp)==k and d[i]>hp[0][0]:
+                    heapq.heappushpop(hp, (d[i], i))
+            return [heapq.heappop(hp)[1] for _ in range(k)][::-1]

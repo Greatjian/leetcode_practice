@@ -294,6 +294,7 @@ collections.defaultdict(int/list/lambda...)
 collections.Counter()
 d.keys()/values()/items()/elements()
 set1()/dict1() +/-/&/| set2()/dict2()
+sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 ```
 
 |Number|Name|Date|
@@ -331,3 +332,5 @@ set1()/dict1() +/-/&/| set2()/dict2()
 |648|[Replace Words](/hash/Replace_Words.md)|2017.11.27|
 |676|[Implement Magic Dictionary](/hash/Implement_Magic_Dictionary.md)|2017.11.27|
 |690|[Employee Importance](/hash/Employee_Importance.md)|2017.11.27|
+|692|[Top K Frequent Words](/hash/Top_K_Frequent_Words.md)|2017.11.28|
+

@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Brick_Wall.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Distribute_Candies.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Employee_Importance.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Encode_and_Decode_TinyURL.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Implement_Magic_Dictionary.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Longest_Harmonious_Subsequence.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Minimum_Index_Sum_of_Two_Lists.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Replace_Words.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Set_Mismatch.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash/Top_K_Frequent_Words.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hash/Top_K_Frequent_Elements.md" afterPath="$PROJECT_DIR$/hash/Top_K_Frequent_Elements.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="392">
-                <caret line="332" column="28" lean-forward="true" selection-start-line="332" selection-start-column="28" selection-end-line="332" selection-end-column="28" />
+              <first_editor relative-caret-position="398">
+                <caret line="334" column="57" lean-forward="false" selection-start-line="334" selection-start-column="57" selection-end-line="334" selection-end-column="57" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -45,12 +37,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summary.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Top_K_Frequent_Elements.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hash/Top_K_Frequent_Elements.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="173">
+                <caret line="44" column="40" lean-forward="true" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="summary.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="443">
                 <caret line="528" column="25" lean-forward="false" selection-start-line="528" selection-start-column="25" selection-end-line="528" selection-end-column="25" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Top_K_Frequent_Words.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hash/Top_K_Frequent_Words.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-248">
+                <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -79,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/string/Complex_Number_Multiplication.md" />
         <option value="$PROJECT_DIR$/string/Minimum_Time_Difference.md" />
         <option value="$PROJECT_DIR$/string/Reverse_String_II.md" />
         <option value="$PROJECT_DIR$/string/Student_Attendance_Record_I.md" />
@@ -107,7 +124,6 @@
         <option value="$PROJECT_DIR$/hash/H-Index.md" />
         <option value="$PROJECT_DIR$/hash/Word_Pattern.md" />
         <option value="$PROJECT_DIR$/hash/Bulls_and_Cows.md" />
-        <option value="$PROJECT_DIR$/hash/Top_K_Frequent_Elements.md" />
         <option value="$PROJECT_DIR$/hash/Intersection_of_Two_Arrays.md" />
         <option value="$PROJECT_DIR$/hash/Intersection_of_Two_Arrays_II.md" />
         <option value="$PROJECT_DIR$/hash/Find_the_Difference.md" />
@@ -128,8 +144,10 @@
         <option value="$PROJECT_DIR$/hash/Implement_Magic_Dictionary.md" />
         <option value="$PROJECT_DIR$/hash/Replace_Words.md" />
         <option value="$PROJECT_DIR$/hash/Employee_Importance.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
+        <option value="$PROJECT_DIR$/hash/Top_K_Frequent_Words.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/hash/Top_K_Frequent_Elements.md" />
       </list>
     </option>
   </component>
@@ -190,6 +208,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -204,7 +223,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -451,12 +469,13 @@
       <workItem from="1511403150828" duration="438000" />
       <workItem from="1511405056741" duration="621000" />
       <workItem from="1511804388151" duration="2780000" />
-      <workItem from="1511831726531" duration="1129000" />
+      <workItem from="1511831726531" duration="1233000" />
+      <workItem from="1511906168881" duration="2662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="222026000" />
+    <option name="totallyTimeSpent" value="224792000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -475,13 +494,13 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.50277996" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10696921" sideWeight="0.49722" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -524,16 +543,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/string/Complex_Number_Multiplication.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string/Minimum_Time_Difference.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -804,16 +813,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hash/Top_K_Frequent_Elements.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="128">
-            <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hash/Intersection_of_Two_Arrays.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -979,7 +978,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="19" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -990,7 +988,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
             <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1001,7 +998,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="345">
             <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1012,17 +1008,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
             <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/hash/Top_K_Frequent_Words.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="392">
-            <caret line="332" column="28" lean-forward="true" selection-start-line="332" selection-start-column="28" selection-end-line="332" selection-end-column="28" />
+          <first_editor relative-caret-position="-248">
+            <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1034,6 +1029,28 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="443">
             <caret line="528" column="25" lean-forward="false" selection-start-line="528" selection-start-column="25" selection-end-line="528" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="398">
+            <caret line="334" column="57" lean-forward="false" selection-start-line="334" selection-start-column="57" selection-end-line="334" selection-end-column="57" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/Top_K_Frequent_Elements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="173">
+            <caret line="44" column="40" lean-forward="true" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
             <folding />
           </first_editor>
           <second_editor />

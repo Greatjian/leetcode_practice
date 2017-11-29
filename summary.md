@@ -491,7 +491,7 @@ bucket sort。
 similar to 205。
 - [299: Bulls and Cows](/hash/Bulls_and_Cows.md)
 - [347: Top K Frequent Elements](/hash/Top_K_Frequent_Elements.md)
-count + sort。
+sort, heap。
 - [349: Intersection of Two Arrays](/hash/Intersection_of_Two_Arrays.md)
 set1() & set2()。
 - [350: Intersection of Two Arrays II](/hash/Intersection_of_Two_Arrays_II.md)
@@ -527,5 +527,8 @@ defaultdict(list) in terms of first character。
 defaultdict(list) in terms of word length。
 - [690: Employee Importance](/hash/Employee_Importance.md)
 dfs, recursion/iteration。
+- [692: Top K Frequent Words](/hash/Top_K_Frequent_Words.md)
+one more sorting than 347。
+
 
 
