@@ -333,4 +333,6 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |676|[Implement Magic Dictionary](/hash/Implement_Magic_Dictionary.md)|2017.11.27|
 |690|[Employee Importance](/hash/Employee_Importance.md)|2017.11.27|
 |692|[Top K Frequent Words](/hash/Top_K_Frequent_Words.md)|2017.11.28|
-
+|718|[Maximum Length of Repeated Subarray](/hash/Maximum_Length_of_Repeated_Subarray.md)|2017.11.28|
+|720|[Longest Word in Dictionary](/hash/Longest_Word_in_Dictionary.md)|2017.11.29|
+|734|[Sentence Similarity](/hash/Sentence_Similarity.md)|2017.11.30|

@@ -529,6 +529,10 @@ defaultdict(list) in terms of word length。
 dfs, recursion/iteration。
 - [692: Top K Frequent Words](/hash/Top_K_Frequent_Words.md)
 one more sorting than 347。
-
-
+- [718: Maximum Length of Repeated Subarray](/hash/Maximum_Length_of_Repeated_Subarray.md)
+dp。
+- [720: Longest Word in Dictionary](/hash/Longest_Word_in_Dictionary.md)
+sort(key)。
+- [734: Sentence Similarity](/hash/Sentence_Similarity.md)
+defaultdict(set)。
 
