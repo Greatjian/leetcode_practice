@@ -21,6 +21,7 @@ My harvests for each practice are summarized [here](/summary.md).
 - [Tree](#tree)
 - [String](#string)
 - [Hash Table](#hash-table)
+- [Math](#math)
 
 ## Array
 
@@ -336,3 +337,12 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |718|[Maximum Length of Repeated Subarray](/hash/Maximum_Length_of_Repeated_Subarray.md)|2017.11.28|
 |720|[Longest Word in Dictionary](/hash/Longest_Word_in_Dictionary.md)|2017.11.29|
 |734|[Sentence Similarity](/hash/Sentence_Similarity.md)|2017.11.30|
+
+## Math
+
+|Number|Name|Date|
+|:---:|:---:|:---:|
+|002|[Add Two Numbers](/math/Add_Two_Numbers.md)|2017.11.30|
+|007|[Reverse Integer](/math/Reverse_Integer.md)|2017.11.30|
+
+

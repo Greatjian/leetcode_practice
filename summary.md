@@ -7,6 +7,7 @@
 - [Tree](#tree)
 - [String](#string)
 - [Hash Table](#hash-table)
+- [Math](#math)
 
 ## Array
 
@@ -535,4 +536,10 @@ dp。
 sort(key)。
 - [734: Sentence Similarity](/hash/Sentence_Similarity.md)
 defaultdict(set)。
+
+## Math
+
+- [002: Add Two Numbers](/math/Add_Two_Numbers.md)
+carryon。
+- [007: Reverse Integer](/math/Reverse_Integer.md)
 
