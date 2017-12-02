@@ -334,5 +334,5 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |007|[Reverse Integer](/math/Reverse_Integer.md)|2017.11.30|
 |009|[Palindrome Number](/math/Palindrome_Number.md)|2017.12.1|
 |029|[Divide Two Integers](/math/Divide_Two_Integers.md)|2017.12.1|
-
+|050|[Pow(x, n)](/math/Pow(x,n).md)|2017.12.2|
 

@@ -547,3 +547,5 @@ reverse。
 similar to last one, no need to check for overflow。
 - [029: Divide Two Integers](/math/Divide_Two_Integers.md)
 不断增加divisor。
+- [050: Pow(x, n)](/math/Pow(x,n).md)
+x*=x, n/=2。
