@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Add_Two_Numbers.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Reverse_Integer.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Divide_Two_Integers.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Palindrome_Number.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/math/Reverse_Integer.md" afterPath="$PROJECT_DIR$/math/Reverse_Integer.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="443">
-                <caret line="348" column="0" lean-forward="false" selection-start-line="348" selection-start-column="0" selection-end-line="348" selection-end-column="0" />
+              <first_editor relative-caret-position="413">
+                <caret line="338" column="0" lean-forward="false" selection-start-line="338" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -42,8 +43,21 @@
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="428">
-                <caret line="544" column="0" lean-forward="true" selection-start-line="544" selection-start-column="0" selection-end-line="544" selection-end-column="0" />
+              <first_editor relative-caret-position="413">
+                <caret line="548" column="4" lean-forward="false" selection-start-line="548" selection-start-column="4" selection-end-line="548" selection-end-column="4" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Divide_Two_Integers.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/math/Divide_Two_Integers.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -72,8 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/string/Delete_Operation_for_Two_Strings.md" />
-        <option value="$PROJECT_DIR$/string/Find_Duplicate_File_in_System.md" />
         <option value="$PROJECT_DIR$/string/Judge_Route_Circle.md" />
         <option value="$PROJECT_DIR$/string/Valid_Parenthesis_String.md" />
         <option value="$PROJECT_DIR$/string/Valid_Palindrome_II.md" />
@@ -120,7 +132,9 @@
         <option value="$PROJECT_DIR$/hash/734. Sentence Similarity.md" />
         <option value="$PROJECT_DIR$/hash/Sentence_Similarity.md" />
         <option value="$PROJECT_DIR$/math/Add_Two_Numbers.md" />
+        <option value="$PROJECT_DIR$/math/Palindrome_Number.md" />
         <option value="$PROJECT_DIR$/math/Reverse_Integer.md" />
+        <option value="$PROJECT_DIR$/math/Divide_Two_Integers.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
       </list>
@@ -155,6 +169,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="leetcode practice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -179,21 +208,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="math" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="leetcode practice">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -448,11 +462,13 @@
       <workItem from="1511906168881" duration="5401000" />
       <workItem from="1512063297079" duration="88000" />
       <workItem from="1512063408836" duration="2236000" />
+      <workItem from="1512101813287" duration="31000" />
+      <workItem from="1512177835355" duration="2667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229855000" />
+    <option name="totallyTimeSpent" value="232553000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,7 +480,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13423352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -499,26 +515,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/string/Find_Duplicate_File_in_System.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="248">
-            <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/Judge_Route_Circle.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string/Valid_Palindrome_II.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -933,7 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -941,7 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -950,7 +944,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="318">
             <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -961,7 +954,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-412">
             <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -972,7 +964,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
             <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -981,8 +972,30 @@
     <entry file="file://$PROJECT_DIR$/math/Reverse_Integer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <first_editor relative-caret-position="585">
+            <caret line="39" column="45" lean-forward="false" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/Palindrome_Number.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-232">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/Divide_Two_Integers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
@@ -992,8 +1005,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="443">
-            <caret line="348" column="0" lean-forward="false" selection-start-line="348" selection-start-column="0" selection-end-line="348" selection-end-column="0" />
+          <first_editor relative-caret-position="413">
+            <caret line="338" column="0" lean-forward="false" selection-start-line="338" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1003,8 +1016,8 @@
     <entry file="file://$PROJECT_DIR$/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="428">
-            <caret line="544" column="0" lean-forward="true" selection-start-line="544" selection-start-column="0" selection-end-line="544" selection-end-column="0" />
+          <first_editor relative-caret-position="413">
+            <caret line="548" column="4" lean-forward="false" selection-start-line="548" selection-start-column="4" selection-end-line="548" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />

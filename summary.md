@@ -542,4 +542,8 @@ defaultdict(set)。
 - [002: Add Two Numbers](/math/Add_Two_Numbers.md)
 carryon。
 - [007: Reverse Integer](/math/Reverse_Integer.md)
-
+reverse。
+- [009： Palindrome Number](/math/Palindrome_Number.md)
+similar to last one, no need to check for overflow。
+- [029: Divide Two Integers](/math/Divide_Two_Integers.md)
+不断增加divisor。

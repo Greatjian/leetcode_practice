@@ -105,19 +105,11 @@ My harvests for each practice are summarized [here](/summary.md).
 |:---:|:---:|:---:|
 |017|[Letter Combinations of a Phone Number](/backtracking/Letter_Combinations_of_a_Phone_Number.md)|2017.8.9|
 |022|[Generate Parentheses](/backtracking/Generate_Parentheses.md)|2017.8.9|
-|039|[Combination Sum](/array/Combination_Sum.md)|2017.07.19|
-|040|[Combination Sum II](/array/Combination_Sum_II.md)|2017.07.19|
-|046|[Permutations](/backtracking/Permutations.md)|2017.8.1|
-|047|[Permutations II](/backtracking/Permutations_II.md)|2017.8.1|
 |060|[Permutation Sequence](/backtracking/Permutation_Sequence.md)|2017.8.10|
 |077|[Combinations](/backtracking/Combinations.md)|2017.8.10|
-|078|[Subsets](/array/Subsets.md)|2017.07.21|
-|079|[Word Search](/array/Word_Search.md)|2017.07.23|
 |089|[Gray Code](/backtracking/Gray_Code.md)|2017.8.10|
-|090|[Subsets II](/array/Subsets_II.md)|2017.07.25|
 |093|[Restore IP Addresses](/backtracking/Restore_IP_Addresses.md)|2017.8.13|
 |131|[Palindrome Partitioning](/backtracking/Palindrome_Partitioning.md)|2017.8.13|
-|216|[Combination Sum III](/array/Combination_Sum_III.md)|2017.8.1|
 |357|[Count Numbers with Unique Digits](/backtracking/Count_Numbers_with_Unique_Digits.md)|2017.8.14|
 |401|[Binary Watch](/backtracking/Binary_Watch.md)|2017.8.15|
 |526|[Beautiful Arrangement](/backtracking/Beautiful_Arrangement.md)|2017.8.16|
@@ -126,10 +118,6 @@ My harvests for each practice are summarized [here](/summary.md).
 
 |Number|Name|Date|
 |:---:|:---:|:---:|
-|053|[Maximum Subarray](/array/Maximum_Subarray.md)|2017.07.20|
-|062|[Unique Paths](/array/Unique_Paths.md)|2017.07.20|
-|063|[Unique Paths II](/array/Unique_Paths_II.md)|2017.07.20|
-|064|[Minimum Path Sum](/array/Minimum_Path_Sum.md)|2017.07.21|
 |070|[Climbing Stairs](/DynamicProgramming/Climbing_Stairs.md)|2017.8.17|
 |091|[Decode Ways](/DynamicProgramming/Decode_Ways.md)|2017.8.19|
 |139|[Word Break](/DynamicProgramming/Word_Break.md)|2017.8.20|
@@ -344,5 +332,7 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |:---:|:---:|:---:|
 |002|[Add Two Numbers](/math/Add_Two_Numbers.md)|2017.11.30|
 |007|[Reverse Integer](/math/Reverse_Integer.md)|2017.11.30|
+|009|[Palindrome Number](/math/Palindrome_Number.md)|2017.12.1|
+|029|[Divide Two Integers](/math/Divide_Two_Integers.md)|2017.12.1|
 
 

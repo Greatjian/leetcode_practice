@@ -32,12 +32,9 @@ Note:
             res=0
             y=abs(x)
             while y:
-                res+=y%10
+                res=res*10+y%10
                 y/=10
-                res*=10
-            if res/10>2**31:
+            if res>2**31:
                 return 0
             else:
-                return res/10 if x>0 else -1*res/10
-                
-            
+                return res if x>0 else -1*res
