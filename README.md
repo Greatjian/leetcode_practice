@@ -335,4 +335,9 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |009|[Palindrome Number](/math/Palindrome_Number.md)|2017.12.1|
 |029|[Divide Two Integers](/math/Divide_Two_Integers.md)|2017.12.1|
 |050|[Pow(x, n)](/math/Pow(x,n).md)|2017.12.2|
+|069|[Sqrt(x)](/math/Sqrt(x).md)|2017.12.3|
+|168|[Excel Sheet Column Title](/math/Excel_Sheet_Column_Title.md)|2017.12.3|
+|171|[Excel Sheet Column Number](/math/Excel_Sheet_Column_Number.md)|2017.12.3|
+|172|[Factorial Trailing Zeroes](/math/Factorial_Trailing_Zeroes.md)|2017.12.3|
+|223|[Rectangle Area](/math/Rectangle_Area.md)|2017.12.3|
 

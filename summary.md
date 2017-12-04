@@ -549,3 +549,14 @@ similar to last one, no need to check for overflow。
 不断增加divisor。
 - [050: Pow(x, n)](/math/Pow(x,n).md)
 x*=x, n/=2。
+- [069: Sqrt(x)](/math/Sqrt(x).md)
+binary search; iterative。
+- [168: Excel Sheet Column Title](/math/Excel_Sheet_Column_Title.md)
+add iteratively。
+- [171: Excel Sheet Column Number](/math/Excel_Sheet_Column_Number.md)
+similar to the last question。
+- [172: Factorial Trailing Zeroes](/math/Factorial_Trailing_Zeroes.md)
+similar to the last question。
+- [223: Rectangle Area](/math/Rectangle_Area.md)
+分类讨论。
+
