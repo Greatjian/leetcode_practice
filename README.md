@@ -340,4 +340,6 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |171|[Excel Sheet Column Number](/math/Excel_Sheet_Column_Number.md)|2017.12.3|
 |172|[Factorial Trailing Zeroes](/math/Factorial_Trailing_Zeroes.md)|2017.12.3|
 |223|[Rectangle Area](/math/Rectangle_Area.md)|2017.12.3|
+|231|[Power of Two](/math/Power_of_Two.md)|2017.12.4|
+|258|[Add Digits](/math/Add_Digits.md)|2017.12.4|
 

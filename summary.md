@@ -559,4 +559,8 @@ similar to the last question。
 similar to the last question。
 - [223: Rectangle Area](/math/Rectangle_Area.md)
 分类讨论。
+- [231: Power of Two](/math/Power_of_Two.md)
+n/=2; bit manipulation。
+- [258: Add Digits](/math/Add_Digits.md)
+recursive/iterative/mod。
 

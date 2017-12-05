@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Excel_Sheet_Column_Number.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Excel_Sheet_Column_Title.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Factorial_Trailing_Zeroes.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Rectangle_Area.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Sqrt(x).md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Add_Digits.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Power_of_Two.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
@@ -32,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="429">
-                <caret line="343" column="0" lean-forward="false" selection-start-line="343" selection-start-column="0" selection-end-line="343" selection-end-column="0" />
+              <first_editor relative-caret-position="373">
+                <caret line="343" column="21" lean-forward="false" selection-start-line="343" selection-start-column="21" selection-end-line="343" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -41,12 +38,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summary.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="summary.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="399">
-                <caret line="558" column="29" lean-forward="false" selection-start-line="558" selection-start-column="29" selection-end-line="558" selection-end-column="29" />
+              <first_editor relative-caret-position="443">
+                <caret line="564" column="24" lean-forward="false" selection-start-line="564" selection-start-column="24" selection-end-line="564" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -54,12 +51,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rectangle_Area.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/math/Rectangle_Area.md">
+      <file leaf-file-name="Add_Digits.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/math/Add_Digits.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="159">
-                <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Power_of_Two.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/math/Power_of_Two.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -88,8 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hash/Valid_Sudoku.md" />
-        <option value="$PROJECT_DIR$/hash/Single_Number.md" />
         <option value="$PROJECT_DIR$/hash/Copy_List_with_Random_Pointer.md" />
         <option value="$PROJECT_DIR$/hash/Fraction_to_Recurring_Decimal.md" />
         <option value="$PROJECT_DIR$/hash/Repeated_DNA_Sequences.md" />
@@ -136,9 +144,11 @@
         <option value="$PROJECT_DIR$/math/Excel_Sheet_Column_Title.md" />
         <option value="$PROJECT_DIR$/math/Excel_Sheet_Column_Number.md" />
         <option value="$PROJECT_DIR$/math/Factorial_Trailing_Zeroes.md" />
+        <option value="$PROJECT_DIR$/math/Rectangle_Area.md" />
+        <option value="$PROJECT_DIR$/math/Power_of_Two.md" />
+        <option value="$PROJECT_DIR$/math/Add_Digits.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
-        <option value="$PROJECT_DIR$/math/Rectangle_Area.md" />
       </list>
     </option>
   </component>
@@ -467,12 +477,13 @@
       <workItem from="1512101813287" duration="31000" />
       <workItem from="1512177835355" duration="2737000" />
       <workItem from="1512238763260" duration="1523000" />
-      <workItem from="1512351153816" duration="2188000" />
+      <workItem from="1512351153816" duration="2308000" />
+      <workItem from="1512435058099" duration="1400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236334000" />
+    <option name="totallyTimeSpent" value="237854000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -519,26 +530,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hash/Single_Number.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="383">
-            <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hash/Copy_List_with_Random_Pointer.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hash/Fraction_to_Recurring_Decimal.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -938,7 +929,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="600">
             <caret line="40" column="23" lean-forward="false" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -959,7 +949,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
             <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -970,7 +959,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="54">
             <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -981,7 +969,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="309">
             <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -992,6 +979,37 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
             <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/Rectangle_Area.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-351">
+            <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/Power_of_Two.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/Add_Digits.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1001,8 +1019,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="429">
-            <caret line="343" column="0" lean-forward="false" selection-start-line="343" selection-start-column="0" selection-end-line="343" selection-end-column="0" />
+          <first_editor relative-caret-position="373">
+            <caret line="343" column="21" lean-forward="false" selection-start-line="343" selection-start-column="21" selection-end-line="343" selection-end-column="21" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1012,19 +1030,8 @@
     <entry file="file://$PROJECT_DIR$/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="399">
-            <caret line="558" column="29" lean-forward="false" selection-start-line="558" selection-start-column="29" selection-end-line="558" selection-end-column="29" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/math/Rectangle_Area.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="159">
-            <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <first_editor relative-caret-position="443">
+            <caret line="564" column="24" lean-forward="false" selection-start-line="564" selection-start-column="24" selection-end-line="564" selection-end-column="24" />
             <folding />
           </first_editor>
           <second_editor />
