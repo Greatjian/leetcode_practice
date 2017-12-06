@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Add_Digits.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Power_of_Two.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/Super_Ugly_Number.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summary.md" afterPath="$PROJECT_DIR$/summary.md" />
@@ -29,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="373">
-                <caret line="343" column="21" lean-forward="false" selection-start-line="343" selection-start-column="21" selection-end-line="343" selection-end-column="21" />
+              <first_editor relative-caret-position="384">
+                <caret line="346" column="0" lean-forward="true" selection-start-line="346" selection-start-column="0" selection-end-line="346" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -42,8 +41,8 @@
         <entry file="file://$PROJECT_DIR$/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="443">
-                <caret line="564" column="24" lean-forward="false" selection-start-line="564" selection-start-column="24" selection-end-line="564" selection-end-column="24" />
+              <first_editor relative-caret-position="369">
+                <caret line="566" column="5" lean-forward="false" selection-start-line="566" selection-start-column="5" selection-end-line="566" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -51,25 +50,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Add_Digits.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/math/Add_Digits.md">
+      <file leaf-file-name="Super_Ugly_Number.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/math/Super_Ugly_Number.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Power_of_Two.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/math/Power_of_Two.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <first_editor relative-caret-position="240">
+                <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -98,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hash/Copy_List_with_Random_Pointer.md" />
         <option value="$PROJECT_DIR$/hash/Fraction_to_Recurring_Decimal.md" />
         <option value="$PROJECT_DIR$/hash/Repeated_DNA_Sequences.md" />
         <option value="$PROJECT_DIR$/hash/Happy_Number.md" />
@@ -147,6 +132,7 @@
         <option value="$PROJECT_DIR$/math/Rectangle_Area.md" />
         <option value="$PROJECT_DIR$/math/Power_of_Two.md" />
         <option value="$PROJECT_DIR$/math/Add_Digits.md" />
+        <option value="$PROJECT_DIR$/math/Super_Ugly_Number.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/summary.md" />
       </list>
@@ -181,6 +167,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="leetcode practice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -209,21 +210,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="leetcode practice">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -478,12 +464,13 @@
       <workItem from="1512177835355" duration="2737000" />
       <workItem from="1512238763260" duration="1523000" />
       <workItem from="1512351153816" duration="2308000" />
-      <workItem from="1512435058099" duration="1400000" />
+      <workItem from="1512435058099" duration="1667000" />
+      <workItem from="1512533676119" duration="366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237854000" />
+    <option name="totallyTimeSpent" value="238487000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -530,16 +517,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hash/Fraction_to_Recurring_Decimal.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hash/Repeated_DNA_Sequences.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -998,7 +975,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
-            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1009,7 +986,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
-            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1019,8 +996,19 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="373">
-            <caret line="343" column="21" lean-forward="false" selection-start-line="343" selection-start-column="21" selection-end-line="343" selection-end-column="21" />
+          <first_editor relative-caret-position="384">
+            <caret line="346" column="0" lean-forward="true" selection-start-line="346" selection-start-column="0" selection-end-line="346" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/Super_Ugly_Number.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1030,8 +1018,8 @@
     <entry file="file://$PROJECT_DIR$/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="443">
-            <caret line="564" column="24" lean-forward="false" selection-start-line="564" selection-start-column="24" selection-end-line="564" selection-end-column="24" />
+          <first_editor relative-caret-position="369">
+            <caret line="566" column="5" lean-forward="false" selection-start-line="566" selection-start-column="5" selection-end-line="566" selection-end-column="5" />
             <folding />
           </first_editor>
           <second_editor />

@@ -563,4 +563,6 @@ similar to the last question。
 n/=2; bit manipulation。
 - [258: Add Digits](/math/Add_Digits.md)
 recursive/iterative/mod。
+- [313: Super Ugly Number](/math/Super_Ugly_Number.md)
+加入顺序。
 
