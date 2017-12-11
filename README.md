@@ -343,4 +343,7 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |231|[Power of Two](/math/Power_of_Two.md)|2017.12.4|
 |258|[Add Digits](/math/Add_Digits.md)|2017.12.4|
 |313|[Super Ugly Number](/math/Super_Ugly_Number.md)|2017.12.5|
+|-|-|Happy Final|
+|319|[Bulb Switcher](/math/Bulb_Switcher.md)|2017.12.11|
+|326|[Power of Three](/math/Power_of_Three.md)|2017.12.11|
 

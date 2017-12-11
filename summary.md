@@ -565,4 +565,6 @@ n/=2; bit manipulation。
 recursive/iterative/mod。
 - [313: Super Ugly Number](/math/Super_Ugly_Number.md)
 加入顺序。
+- [319: Bulb Switcher](/math/Bulb_Switcher.md)
+- [326: Power of Three](/math/Power_of_Three.md)
 
