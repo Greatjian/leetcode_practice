@@ -98,6 +98,7 @@ My harvests for each practice are summarized [here](/summary.md).
 |621|[Task Scheduler](/array/Task_Scheduler.md)|2017.8.8|
 |628|[Maximum Product of Three Numbers](/array/Maximum_Product_of_Three_Numbers.md)|2017.8.8|
 |643|[Maximum Average Subarray I](/array/Maximum_Average_Subarray_I.md)|2017.8.8|
+|717|[1-bit and 2-bit Characters](/array/1-bit_and_2-bit_Characters.md)|2017.12.13|
 
 ## Backtracking
 
@@ -346,4 +347,6 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |-|-|Happy Final|
 |319|[Bulb Switcher](/math/Bulb_Switcher.md)|2017.12.11|
 |326|[Power of Three](/math/Power_of_Three.md)|2017.12.11|
+|365|[Water and Jug Problem](/math/Water_and_Jug_Problem.md)|2017.12.13|
+|367|[Valid Perfect Square](/math/Valid_Perfect_Square.md)|2017.12.13|
 

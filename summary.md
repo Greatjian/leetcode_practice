@@ -153,6 +153,8 @@ dictionary 与 tuple 的使用。
 贪心法，直接从最多任务元素开始排列。
 - [628: Maximum Product of Three Numbers](/array/Maximum_Product_of_Three_Numbers.md)
 最大三数和为数组最大三数乘积或最大数乘两最小数值。float('inf')，float('-inf')/None。
+- [717. 1-bit and 2-bit Characters](/array/1-bit_and_2-bit_Characters.md)
+从左向右遍历。
 
 ## Backtracking
 
@@ -567,4 +569,8 @@ recursive/iterative/mod。
 加入顺序。
 - [319: Bulb Switcher](/math/Bulb_Switcher.md)
 - [326: Power of Three](/math/Power_of_Three.md)
+- [365: Water and Jug Problem](/math/Water_and_Jug_Problem.md)
+z is a multiple of gcd(x, y)。
+- [367: Valid Perfect Square](/math/Valid_Perfect_Square.md)
+similar to [069: sqrt](/math/Sqrt(x).md)。
 
