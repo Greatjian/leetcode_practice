@@ -343,10 +343,15 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |223|[Rectangle Area](/math/Rectangle_Area.md)|2017.12.3|
 |231|[Power of Two](/math/Power_of_Two.md)|2017.12.4|
 |258|[Add Digits](/math/Add_Digits.md)|2017.12.4|
-|313|[Super Ugly Number](/math/Super_Ugly_Number.md)|2017.12.5|
+|313|[*Super Ugly Number](/math/Super_Ugly_Number.md)|2017.12.5|
 |-|-|Happy Final|
 |319|[Bulb Switcher](/math/Bulb_Switcher.md)|2017.12.11|
 |326|[Power of Three](/math/Power_of_Three.md)|2017.12.11|
 |365|[Water and Jug Problem](/math/Water_and_Jug_Problem.md)|2017.12.13|
 |367|[Valid Perfect Square](/math/Valid_Perfect_Square.md)|2017.12.13|
+|-|-|Happy Winter Vacation|
+|396|[Rotate Function](/math/Rotate_Function.md)|2018.1.11|
+|397|[Integer Replacement](/math/Integer_Replacement.md)|2018.1.11|
+|400|[Nth Digit](/math/Nth_Digit.md)|2018.1.11|
+
 

@@ -573,4 +573,10 @@ recursive/iterative/mod。
 z is a multiple of gcd(x, y)。
 - [367: Valid Perfect Square](/math/Valid_Perfect_Square.md)
 similar to [069: sqrt](/math/Sqrt(x).md)。
+- [396: Rotate Function](/math/Rotate_Function.md)
+compare between each results。
+- [397: Integer Replacement](/math/Integer_Replacement.md)
+找规律; recursion+memorization。
+- [400: Nth Digit](/math/Nth_Digit.md)
+逐级递减。
 
