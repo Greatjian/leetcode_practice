@@ -353,5 +353,6 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |396|[Rotate Function](/math/Rotate_Function.md)|2018.1.11|
 |397|[Integer Replacement](/math/Integer_Replacement.md)|2018.1.11|
 |400|[Nth Digit](/math/Nth_Digit.md)|2018.1.11|
-
+|415|[Add Strings](/math/Add_Strings.md)|2018.1.12|
+|423|[Reconstruct Original Digits from English](/math/Reconstruct_Original_Digits_from_English.md)|2018.1.12|
 

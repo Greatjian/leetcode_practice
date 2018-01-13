@@ -579,4 +579,7 @@ compare between each results。
 找规律; recursion+memorization。
 - [400: Nth Digit](/math/Nth_Digit.md)
 逐级递减。
-
+- [415: Add_Strings](/math/Add_Strings.md)
+carryon by digit。
+- [423: Reconstruct Original Digits from English](/math/Reconstruct_Original_Digits_from_English.md)
+寻找特殊字符。
