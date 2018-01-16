@@ -153,6 +153,8 @@ dictionary 与 tuple 的使用。
 贪心法，直接从最多任务元素开始排列。
 - [628: Maximum Product of Three Numbers](/array/Maximum_Product_of_Three_Numbers.md)
 最大三数和为数组最大三数乘积或最大数乘两最小数值。float('inf')，float('-inf')/None。
+- [697: Degree of an Array](/array/Degree_of_an_Array.md)
+出现次数最多元素的idx差值。
 - [717. 1-bit and 2-bit Characters](/array/1-bit_and_2-bit_Characters.md)
 从左向右遍历。
 
@@ -583,3 +585,22 @@ compare between each results。
 carryon by digit。
 - [423: Reconstruct Original Digits from English](/math/Reconstruct_Original_Digits_from_English.md)
 寻找特殊字符。
+- [441: Arranging Coins](/math/Arranging_Coins.md)
+求和公式。
+- [453: Minimum Moves to Equal Array Elements](/math/Minimum_Moves_to_Equal_Array_Elements.md)
+（n-1）个数+1相等于1个数-1，最后同时减至最小数。
+- [462: Minimum Moves to Equal Array Elements II](/math/Minimum_Moves_to_Equal_Array_Elements_II.md)
+Any median minimizes the sum of absolute deviations。
+- [507: Perfect Number](/math/Perfect_Number.md)
+比较范围的确定。
+- [592: Fraction Addition and Subtraction](/math/Fraction_Addition_and_Subtraction.md)
+分步加。
+- [593: Valid Square](/math/Valid_Square.md)
+compute distance。
+- [598: Range Addition II](/math/Range_Addition_II.md)
+math。
+- [640: Solve the Equation](/math/Solve_the_Equation.md)
+等式左右共四个常数。
+
+
+

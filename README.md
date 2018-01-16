@@ -98,6 +98,7 @@ My harvests for each practice are summarized [here](/summary.md).
 |621|[Task Scheduler](/array/Task_Scheduler.md)|2017.8.8|
 |628|[Maximum Product of Three Numbers](/array/Maximum_Product_of_Three_Numbers.md)|2017.8.8|
 |643|[Maximum Average Subarray I](/array/Maximum_Average_Subarray_I.md)|2017.8.8|
+|697|[Degree of an Array](/array/Degree_of_an_Array.md)|2018.1.15|
 |717|[1-bit and 2-bit Characters](/array/1-bit_and_2-bit_Characters.md)|2017.12.13|
 
 ## Backtracking
@@ -355,4 +356,12 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |400|[Nth Digit](/math/Nth_Digit.md)|2018.1.11|
 |415|[Add Strings](/math/Add_Strings.md)|2018.1.12|
 |423|[Reconstruct Original Digits from English](/math/Reconstruct_Original_Digits_from_English.md)|2018.1.12|
+|441|[Arranging Coins](/math/Arranging_Coins.md)|2018.1.14|
+|453|[Minimum Moves to Equal Array Elements](/math/Minimum_Moves_to_Equal_Array_Elements.md)|2018.1.15|
+|462|[Minimum Moves to Equal Array Elements II](/math/Minimum_Moves_to_Equal_Array_Elements_II.md)|2018.1.15|
+|507|[Perfect Number](/math/Perfect_Number.md)|2018.1.15|
+|592|[Fraction Addition and Subtraction](/math/Fraction_Addition_and_Subtraction.md)|2018.1.15|
+|593|[Valid Square](/math/Valid_Square.md)|2018.1.15|
+|598|[Range Addition II](/math/Range_Addition_II.md)|2018.1.15|
+|640|[Solve the Equation](/math/Solve_the_Equation.md)|2018.1.15|
 
