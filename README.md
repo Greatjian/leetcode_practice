@@ -22,6 +22,7 @@ My harvests for each practice are summarized [here](/summary.md).
 - [String](#string)
 - [Hash Table](#hash-table)
 - [Math](#math)
+- [Order](#order)
 
 ## Array
 
@@ -364,4 +365,14 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |593|[Valid Square](/math/Valid_Square.md)|2018.1.15|
 |598|[Range Addition II](/math/Range_Addition_II.md)|2018.1.15|
 |640|[Solve the Equation](/math/Solve_the_Equation.md)|2018.1.15|
+|670|[Maximum Swap](/math/Maximum_Swap.md)|2018.1.16|
+|728|[Self Dividing Numbers](/math/Self_Dividing_Numbers.md)|2018.1.16|
+|754|[Reach a Number](/math/Reach_a_Number.md)|2018.1.16|
+
+## Order
+
+|Number|Name|Date|Topics|
+|:---:|:---:|:---:|:---:|
+|019|[Remove Nth Node From End of List](/order/Remove_Nth_Node_From_End_of_List.md)|2018.1.16|Linked List, Two Pointers|
+
 

@@ -8,6 +8,7 @@
 - [String](#string)
 - [Hash Table](#hash-table)
 - [Math](#math)
+- [Order](#order)
 
 ## Array
 
@@ -601,6 +602,13 @@ compute distance。
 math。
 - [640: Solve the Equation](/math/Solve_the_Equation.md)
 等式左右共四个常数。
+- [670: Maximum Swap](/math/Maximum_Swap.md)
+交换位置的判断。
+- [728: Self Dividing Numbers](/math/Self_Dividing_Numbers.md)
+- [754: Reach a Number](/math/Reach_a_Number.md)
+求和后改符号。
 
+## Order
 
-
+- [019: Remove Nth Node From End of List](/order/Remove_Nth_Node_From_End_of_List.md)
+one pass and two passes。
