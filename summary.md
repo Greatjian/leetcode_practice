@@ -612,3 +612,8 @@ math。
 
 - [019: Remove Nth Node From End of List](/order/Remove_Nth_Node_From_End_of_List.md)
 one pass and two passes。
+- [021: Merge Two Sorted Lists](/order/Merge_Two_Sorted_Lists.md)
+- [024: Swap Nodes in Pairs](/order/Swap_Nodes_in_Pairs.md)
+- [061: Rotate List](/order/Rotate_List.md)
+- [082: Remove Duplicates from Sorted List II](/order/Remove_Duplicates_from_Sorted_List_II.md)
+

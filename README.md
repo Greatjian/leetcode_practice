@@ -371,8 +371,21 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 
 ## Order
 
+- dummy node: 
+
+```
+dummy=ListNode(0)
+dummy.next=head
+# code here
+...
+return dummy.next
+```
+
 |Number|Name|Date|Topics|
 |:---:|:---:|:---:|:---:|
 |019|[Remove Nth Node From End of List](/order/Remove_Nth_Node_From_End_of_List.md)|2018.1.16|Linked List, Two Pointers|
-
+|021|[Merge Two Sorted Lists](/order/Merge_Two_Sorted_Lists.md)|2018.1.17|Linked List|
+|024|[Swap Nodes in Pairs](/order/Swap_Nodes_in_Pairs.md)|2018.1.17|Linked List|
+|061|[Rotate List](/order/Rotate_List.md)|2018.1.16|Linked List, Two Pointers|
+|082|[Remove Duplicates from Sorted List II](/order/Remove_Duplicates_from_Sorted_List_II.md)|2018.1.19|Linked List|
 
