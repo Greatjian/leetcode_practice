@@ -388,4 +388,9 @@ return dummy.next
 |024|[Swap Nodes in Pairs](/order/Swap_Nodes_in_Pairs.md)|2018.1.17|Linked List|
 |061|[Rotate List](/order/Rotate_List.md)|2018.1.16|Linked List, Two Pointers|
 |082|[Remove Duplicates from Sorted List II](/order/Remove_Duplicates_from_Sorted_List_II.md)|2018.1.19|Linked List|
+|083|[Remove Duplicates from Sorted List](/order/Remove_Duplicates_from_Sorted_List.md)|2018.1.19|Linked List|
+|086|[Partition List](/order/Partition_List.md)|2018.1.19|Linked List, Two Pointers|
+|092|[Reverse Linked List II](/order/Reverse_Linked_List_II.md)|2018.1.19|Linked List|
+|109|[Convert Sorted List to Binary Search Tree](/order/Convert_Sorted_List_to_Binary_Search_Tree.md)|2018.1.20|Linked List, Depth-first Search|
+|127|[Word Ladder](/order/Word_Ladder.md)|2018.1.20|Breadth-first Search|
 

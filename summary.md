@@ -616,4 +616,15 @@ one pass and two passes。
 - [024: Swap Nodes in Pairs](/order/Swap_Nodes_in_Pairs.md)
 - [061: Rotate List](/order/Rotate_List.md)
 - [082: Remove Duplicates from Sorted List II](/order/Remove_Duplicates_from_Sorted_List_II.md)
+in place。
+- [083: Remove Duplicates from Sorted List](/order/Remove_Duplicates_from_Sorted_List.md)
+in place。
+- [086: Partition List](/order/Partition_List.md)
+in place。
+- [092: Reverse Linked List II](/order/Reverse_Linked_List_II.md)
+multiple pointers。
+- [109: Convert Sorted List to Binary Search Tree](/order/Convert_Sorted_List_to_Binary_Search_Tree.md)
+中结点，recursion。
+- [127: Word Ladder](/order/Word_Ladder.md)
+set up dict to compare difference。
 
