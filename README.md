@@ -23,6 +23,7 @@ My harvests for each practice are summarized [here](/summary.md).
 - [Hash Table](#hash-table)
 - [Math](#math)
 - [Order](#order)
+- [Leetcode Contest](#leetcode-contest)
 
 ## Array
 
@@ -393,4 +394,17 @@ return dummy.next
 |092|[Reverse Linked List II](/order/Reverse_Linked_List_II.md)|2018.1.19|Linked List|
 |109|[Convert Sorted List to Binary Search Tree](/order/Convert_Sorted_List_to_Binary_Search_Tree.md)|2018.1.20|Linked List, Depth-first Search|
 |127|[Word Ladder](/order/Word_Ladder.md)|2018.1.20|Breadth-first Search|
+|130|[Surrounded Regions](/order/Surrounded_Regions.md)|2018.1.21|Breadth-first Search, Depth-first Search|
+|133|[Clone Graph](/order/Clone_Graph.md)|2018.1.21|Breadth-first Search, Depth-first Search, Graph|
+|134|[Gas Station](/order/Gas_Station.md)|2018.1.21|Greedy|
+|137|[Single Number II](/order/Single_Number_II.md)|2018.1.21|Bit Manipulation|
+|141|[Linked List Cycle](/order/Linked_List_Cycle.md)|2018.1.21|Linked List, Two Pointers|
 
+## Leetcode Contest
+
+|Number|Name|Date|
+|:---:|:---:|:---:|
+|Weekly Contest 68|[766. Toeplitz Matrix](/contest/Toeplitz_Matrix.md)|2018.1.21|
+|-|[767. Reorganize String](/contest/Reorganize_String.md)|2018.1.21|
+|-|[769. Max Chunks To Make Sorted](/contest/Max_Chunks_To_Make_Sorted.md)|2018.1.21|
+|-|[768. Max Chunks To Make Sorted II](/contest/Max_Chunks_To_Make_Sorted_II.md)|2018.1.21|

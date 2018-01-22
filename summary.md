@@ -627,4 +627,13 @@ multiple pointers。
 中结点，recursion。
 - [127: Word Ladder](/order/Word_Ladder.md)
 set up dict to compare difference。
-
+- [130: Surrounded Regions](/order/Surrounded_Regions.md)
+将边位O改为S，然后bfs/dfs将相邻区域均改为S，最后S区域改为O，其余X。
+- [133: Clone Graph](/order/Clone_Graph.md)
+bfs/dfs, {node: node.copy}。
+- [134: Gas Station](/order/Gas_Station.md)
+leftSum, curSum。
+- [137: Single Number II](/order/Single_Number_II.md)
+bit manipulation, 画转换图。
+- [141: Linked List Cycle](/order/Linked_List_Cycle.md)
+fast and slow。
