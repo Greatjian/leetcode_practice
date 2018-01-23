@@ -382,6 +382,8 @@ dummy.next=head
 return dummy.next
 ```
 
+- fast and slow (cycle, mid node)
+
 |Number|Name|Date|Topics|
 |:---:|:---:|:---:|:---:|
 |019|[Remove Nth Node From End of List](/order/Remove_Nth_Node_From_End_of_List.md)|2018.1.16|Linked List, Two Pointers|
@@ -399,6 +401,9 @@ return dummy.next
 |134|[Gas Station](/order/Gas_Station.md)|2018.1.21|Greedy|
 |137|[Single Number II](/order/Single_Number_II.md)|2018.1.21|Bit Manipulation|
 |141|[Linked List Cycle](/order/Linked_List_Cycle.md)|2018.1.21|Linked List, Two Pointers|
+|142|[Linked List Cycle II](/order/Linked_List_Cycle_II.md)|2018.1.22|Linked List, Two Pointers|
+|206|[Reverse Linked List](/order/Remove_Duplicates_from_Sorted_List.md)|2018.1.22|Linked List|
+|143|[Reorder List](/order/Reorder_List.md)|2018.1.22|Linked List|
 
 ## Leetcode Contest
 

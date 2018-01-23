@@ -637,3 +637,10 @@ leftSum, curSum。
 bit manipulation, 画转换图。
 - [141: Linked List Cycle](/order/Linked_List_Cycle.md)
 fast and slow。
+- [142: Linked List Cycle II](/order/Linked_List_Cycle_II.md)
+fast and slow。
+- [206: Reverse Linked List](/order/Remove_Duplicates_from_Sorted_List.md)
+iterative and recursive。
+- [143: Reorder List](/order/Reorder_List.md)
+find middle, reverse second half, reorder。
+
