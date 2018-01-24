@@ -332,6 +332,16 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 
 ## Math
 
+- Division
+
+```
+if token=='/':
+    if t2/t1<0 and t2%t1:
+        val=str(t2/t1+1)
+    else:
+        val=str(t2/t1)
+```
+
 |Number|Name|Date|
 |:---:|:---:|:---:|
 |002|[Add Two Numbers](/math/Add_Two_Numbers.md)|2017.11.30|
@@ -393,7 +403,7 @@ return dummy.next
 |082|[Remove Duplicates from Sorted List II](/order/Remove_Duplicates_from_Sorted_List_II.md)|2018.1.19|Linked List|
 |083|[Remove Duplicates from Sorted List](/order/Remove_Duplicates_from_Sorted_List.md)|2018.1.19|Linked List|
 |086|[Partition List](/order/Partition_List.md)|2018.1.19|Linked List, Two Pointers|
-|092|[Reverse Linked List II](/order/Reverse_Linked_List_II.md)|2018.1.19|Linked List|
+|*092|[Reverse Linked List II](/order/Reverse_Linked_List_II.md)|2018.1.19|Linked List|
 |109|[Convert Sorted List to Binary Search Tree](/order/Convert_Sorted_List_to_Binary_Search_Tree.md)|2018.1.20|Linked List, Depth-first Search|
 |127|[Word Ladder](/order/Word_Ladder.md)|2018.1.20|Breadth-first Search|
 |130|[Surrounded Regions](/order/Surrounded_Regions.md)|2018.1.21|Breadth-first Search, Depth-first Search|
@@ -404,6 +414,13 @@ return dummy.next
 |142|[Linked List Cycle II](/order/Linked_List_Cycle_II.md)|2018.1.22|Linked List, Two Pointers|
 |206|[Reverse Linked List](/order/Remove_Duplicates_from_Sorted_List.md)|2018.1.22|Linked List|
 |143|[Reorder List](/order/Reorder_List.md)|2018.1.22|Linked List|
+|147|[Insertion Sort List](/order/Insertion_Sort_List.md)|2018.1.23|Linked List, Sort|
+|148|[Sort List](/order/Sort_List.md)|2018.1.23|Linked List, Sort|
+|150|[Evaluate Reverse Polish Notation](/order/Evaluate_Reverse_Polish_Notation.md)|2018.1.23|Stack|
+|155|[Min Stack](/order/Min_Stack.md)|2018.1.23|Stack, Design|
+|*156|[Binary Tree Upside Down](/order/Binary_Tree_Upside_Down.md)|2018.1.23|Tree|
+|157|[Read N Characters Given Read4](/order/Read_N_Characters_Given_Read4.md)|2018.1.23|String|
+|160|[Intersection of Two Linked Lists](/order/Intersection_of_Two_Linked_Lists.md)|2018.1.23|Linked List|
 
 ## Leetcode Contest
 

@@ -643,4 +643,13 @@ fast and slow。
 iterative and recursive。
 - [143: Reorder List](/order/Reorder_List.md)
 find middle, reverse second half, reorder。
-
+- [147: Insertion Sort List](/order/Insertion_Sort_List.md)
+- [148: Sort List](/order/Sort_List.md)
+- [150: Evaluate Reverse Polish Notation](/order/Evaluate_Reverse_Polish_Notation.md)
+- [155: Min Stack](/order/Min_Stack.md)
+因为最小数可能被pop出，所以append需要额外存储次小数。
+- [156: Binary Tree Upside Down](/order/Binary_Tree_Upside_Down.md)
+Think about how you can save the tree information you need before changing the tree structure。
+- [157: ead N Characters Given Read4](/order/Read_N_Characters_Given_Read4.md)
+- [160: Intersection of Two Linked Lists](/order/Intersection_of_Two_Linked_Lists.md)
+首尾相接。
