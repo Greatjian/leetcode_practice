@@ -653,3 +653,18 @@ Think about how you can save the tree information you need before changing the t
 - [157: ead N Characters Given Read4](/order/Read_N_Characters_Given_Read4.md)
 - [160: Intersection of Two Linked Lists](/order/Intersection_of_Two_Linked_Lists.md)
 首尾相接。
+- [161: One Edit Distance](/order/One_Edit_Distance.md)
+三种情况，逐位比较。
+- [163: Missing Ranges](/order/Missing_Ranges.md)
+- [170: Two Sum III - Data structure design](/order/Two_Sum_III_-_Data_structure_design.md)
+Trade-off between these two functions, should ask the interviewer first。
+- [184: Reverse Words in a String II](/order/Reverse_Words_in_a_String_II.md)
+reverse the whole and reverse separately。
+- [190: Reverse Bits](order/Reverse_Bits.md)
+similar to reverse an integer。
+- [191: Number of 1 Bits](/order/Number_of_1_Bits.md)
+- [200: Number of Islands](/order/Number_of_Islands.md)
+- [201: Bitwise AND of Numbers Range](/order/Bitwise_AND_of_Numbers_Range.md)
+- [203: Remove Linked List Elements](/order/Remove_Linked_List_Elements.md)
+- [207: Course Schedule](/order/Course_Schedule.md)
+topological sort, bfs/dfs。

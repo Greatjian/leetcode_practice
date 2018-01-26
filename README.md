@@ -393,6 +393,22 @@ return dummy.next
 ```
 
 - fast and slow (cycle, mid node)
+- int(binary string, 2)
+- bin(int) -> string
+- dfs and bfs iteration:
+
+```
+while stack:
+    x, y=stack.pop()
+    for (dx, dy) in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
+        if x+dx>=0 and x+dx<m and y+dy>=0 and y+dy<n and grid[x+dx][y+dy]=='1':
+            grid[x+dx][y+dy]='0'
+            stack.append((x+dx, y+dy))  
+```
+- bit manipulation
+```
+n&=n-1
+```
 
 |Number|Name|Date|Topics|
 |:---:|:---:|:---:|:---:|
@@ -421,12 +437,22 @@ return dummy.next
 |*156|[Binary Tree Upside Down](/order/Binary_Tree_Upside_Down.md)|2018.1.23|Tree|
 |157|[Read N Characters Given Read4](/order/Read_N_Characters_Given_Read4.md)|2018.1.23|String|
 |160|[Intersection of Two Linked Lists](/order/Intersection_of_Two_Linked_Lists.md)|2018.1.23|Linked List|
+|161|[One Edit Distance](/order/One_Edit_Distance.md)|2018.1.24|String|
+|163|[Missing Ranges](/order/Missing_Ranges.md)|2018.1.24|Array|
+|170|[Two Sum III - Data structure design](/order/Two_Sum_III_-_Data_structure_design.md)|2018.1.24|Hash Table, Design|
+|186|[Reverse Words in a String II](/order/Reverse_Words_in_a_String_II.md)|2018.1.24|String|
+|190|[Reverse Bits](order/Reverse_Bits.md)|2018.1.25|Bit Manipulation|
+|191|[Number of 1 Bits](/order/Number_of_1_Bits.md)|2018.1.25|Bit Manipulation|
+|200|[Number of Islands](/order/Number_of_Islands.md)|2018.1.25|Breadth-first Search, Depth-first Search|
+|201|[Bitwise AND of Numbers Range](/order/Bitwise_AND_of_Numbers_Range.md)|2018.1.25|Bit Manipulation|
+|203|[Remove Linked List Elements](/order/Remove_Linked_List_Elements.md)|2018.1.25|Linked List|
+|207|[Course Schedule](/order/Course_Schedule.md)|2018.1.25|Breadth-first Search, Depth-first Search, Graph, Topological Sort|
 
 ## Leetcode Contest
 
-|Number|Name|Date|
-|:---:|:---:|:---:|
-|Weekly Contest 68|[766. Toeplitz Matrix](/contest/Toeplitz_Matrix.md)|2018.1.21|
-|-|[767. Reorganize String](/contest/Reorganize_String.md)|2018.1.21|
-|-|[769. Max Chunks To Make Sorted](/contest/Max_Chunks_To_Make_Sorted.md)|2018.1.21|
-|-|[768. Max Chunks To Make Sorted II](/contest/Max_Chunks_To_Make_Sorted_II.md)|2018.1.21|
+|Number|Name|Date|Topics|
+|:---:|:---:|:---:|:---:|
+|Weekly Contest 68|[766. Toeplitz Matrix](/contest/Toeplitz_Matrix.md)|2018.1.21|Array|
+|-|[767. Reorganize String](/contest/Reorganize_String.md)|2018.1.21|String, Heap, Greedy, Sort|
+|-|[769. Max Chunks To Make Sorted](/contest/Max_Chunks_To_Make_Sorted.md)|2018.1.21|Array|
+|-|[768. Max Chunks To Make Sorted II](/contest/Max_Chunks_To_Make_Sorted_II.md)|2018.1.21|Array|

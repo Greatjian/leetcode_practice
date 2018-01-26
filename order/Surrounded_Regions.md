@@ -42,27 +42,18 @@ bfs:
                         deque.append((i,j))
                  
             while deque:
-                for _ in range(len(deque)):
-                    i, j=deque.popleft()
-                    if i!=0 and board[i-1][j]=='O':
-                        board[i-1][j]='S'
-                        deque.append((i-1,j))
-                    if i!=m-1 and board[i+1][j]=='O':
-                        board[i+1][j]='S'
-                        deque.append((i+1,j))
-                    if j!=0 and board[i][j-1]=='O':
-                        board[i][j-1]='S'
-                        deque.append((i,j-1))
-                    if j!=n-1 and board[i][j+1]=='O':
-                        board[i][j+1]='S'
-                        deque.append((i,j+1))
-                        
+                i, j=deque.popleft()
+                for (di, dj) in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
+                    if i+di>=0 and i+di<m and j+dj>=0 and j+dj<n and board[i+di][j+dj]=='O':
+                        board[i+di][j+dj]='S'
+                        deque.append((i+di, j+dj))
+                
             for i in range(m):
                 for j in range(n):
                     if board[i][j]!='S':
                         board[i][j]='X'
                     else:
-                        board[i][j]='O'
+                        board[i][j]='O'                       
                         
 dfs:
 
