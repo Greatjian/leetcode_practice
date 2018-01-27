@@ -668,3 +668,7 @@ similar to reverse an integer。
 - [203: Remove Linked List Elements](/order/Remove_Linked_List_Elements.md)
 - [207: Course Schedule](/order/Course_Schedule.md)
 topological sort, bfs/dfs。
+- [208: Implement Trie (Prefix Tree)](/order/Implement_Trie_(Prefix_Tree).md)
+- [210: Course Schedule II](/order/Course_Schedule_II.md)
+- [211: Add and Search Word - Data structure design](/order/Add_and_Search_Word_-_Data_structure_design.md)
+dfs/key=len, dict(list)。

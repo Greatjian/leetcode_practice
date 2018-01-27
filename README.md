@@ -447,6 +447,9 @@ n&=n-1
 |201|[Bitwise AND of Numbers Range](/order/Bitwise_AND_of_Numbers_Range.md)|2018.1.25|Bit Manipulation|
 |203|[Remove Linked List Elements](/order/Remove_Linked_List_Elements.md)|2018.1.25|Linked List|
 |207|[Course Schedule](/order/Course_Schedule.md)|2018.1.25|Breadth-first Search, Depth-first Search, Graph, Topological Sort|
+|208|[Implement Trie (Prefix Tree)](/order/Implement_Trie_(Prefix_Tree).md)|2018.1.26|Design, Trie|
+|210|[Course Schedule II](/order/Course_Schedule_II.md)|2018.1.26|Breadth-first Search, Depth-first Search, Graph, Topological Sort|
+|211|[Add and Search Word - Data structure design](/order/Add_and_Search_Word_-_Data_structure_design.md)|2018.1.26|Design, Trie|
 
 ## Leetcode Contest
 
