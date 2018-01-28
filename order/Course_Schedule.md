@@ -73,7 +73,7 @@ dfs, unvisited:0, visiting:1, visited:2
                     return False
                 visited[i]=1
                 for j in graph[i]:
-                    if hasCycle(j):
+                    if visited[i]==0 and hasCycle(j):
                         return True
                 visited[i]=2
                 return False

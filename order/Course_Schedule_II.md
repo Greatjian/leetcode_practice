@@ -65,21 +65,21 @@ dfs:
                 graph[pre].append(course)
             res=[]
             
-            def dfs(i):
+            def hasCycle(i):
                 if visited[i]==1:
-                    return False
-                if visited[i]==2:
                     return True
+                if visited[i]==2:
+                    return False
                 visited[i]=1
                 for j in graph[i]:
-                    if not dfs(j):
-                        return False
+                    if hasCycle(j):
+                        return True
                 visited[i]=2
                 res.append(i)
-                return True
+                return False
             
             for i in range(numCourses):
-                if not dfs(i):
+                if visited[i]==0 and hasCycle(i):
                     return []
             return res[::-1]
             

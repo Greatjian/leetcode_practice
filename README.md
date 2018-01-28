@@ -450,6 +450,7 @@ n&=n-1
 |208|[Implement Trie (Prefix Tree)](/order/Implement_Trie_(Prefix_Tree).md)|2018.1.26|Design, Trie|
 |210|[Course Schedule II](/order/Course_Schedule_II.md)|2018.1.26|Breadth-first Search, Depth-first Search, Graph, Topological Sort|
 |211|[Add and Search Word - Data structure design](/order/Add_and_Search_Word_-_Data_structure_design.md)|2018.1.26|Design, Trie|
+|215|[Kth Largest Element in an Array](/order/Kth_Largest_Element_in_an_Array.md)|2018.1.27|Divide and Conquer, Heap|
 
 ## Leetcode Contest
 
