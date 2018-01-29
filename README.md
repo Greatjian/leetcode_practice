@@ -392,7 +392,7 @@ dummy.next=head
 return dummy.next
 ```
 
-- fast and slow (cycle, mid node)
+- fast and slow(prev) (cycle, mid node)
 - int(binary string, 2)
 - bin(int) -> string
 - dfs and bfs iteration:
@@ -405,10 +405,11 @@ while stack:
             grid[x+dx][y+dy]='0'
             stack.append((x+dx, y+dy))  
 ```
-- bit manipulation
+- bit manipulation:
 ```
 n&=n-1
 ```
+- Design trade-off between functions
 
 |Number|Name|Date|Topics|
 |:---:|:---:|:---:|:---:|
@@ -451,6 +452,10 @@ n&=n-1
 |210|[Course Schedule II](/order/Course_Schedule_II.md)|2018.1.26|Breadth-first Search, Depth-first Search, Graph, Topological Sort|
 |211|[Add and Search Word - Data structure design](/order/Add_and_Search_Word_-_Data_structure_design.md)|2018.1.26|Design, Trie|
 |215|[Kth Largest Element in an Array](/order/Kth_Largest_Element_in_an_Array.md)|2018.1.27|Divide and Conquer, Heap|
+|220|[Contains Duplicate III](/order/Contains_Duplicate_III.md)|2018.1.28|Binary Search Tree|
+|225|[Implement Stack using Queues](/order/Implement_Stack_using_Queues.md)|2018.1.28|Stack, Design|
+|232|[Implement Queue using Stacks](/order/Implement_Queue_using_Stacks.md)|2018.1.28|Stack, Design|
+|234|[Palindrome Linked List](/order/Palindrome_Linked_List.md)|2018.1.28|Linked List, Two Pointers|
 
 ## Leetcode Contest
 
@@ -460,3 +465,6 @@ n&=n-1
 |-|[767. Reorganize String](/contest/Reorganize_String.md)|2018.1.21|String, Heap, Greedy, Sort|
 |-|[769. Max Chunks To Make Sorted](/contest/Max_Chunks_To_Make_Sorted.md)|2018.1.21|Array|
 |-|[768. Max Chunks To Make Sorted II](/contest/Max_Chunks_To_Make_Sorted_II.md)|2018.1.21|Array|
+|Weekly Contest 69|[771. Jewels and Stones](/contest/Jewels_and_Stones.md)|2018.1.28|Hash Table|
+|-|[775. Global and Local Inversions](/contest/Global_and_Local_Inversions.md)|2018.1.28|Array, Math|
+|773|[Sliding Puzzle](/contest/Sliding_Puzzle.md)|2018.1.28|Breadth-first Search|

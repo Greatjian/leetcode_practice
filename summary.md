@@ -674,3 +674,11 @@ topological sort, bfs/dfs。
 dfs/key=len, dict(list)。
 - [215: Kth Largest Element in an Array](/order/Kth_Largest_Element_in_an_Array.md)
 heap, quicksort。
+- [220: Contains Duplicate III](/order/Contains_Duplicate_III.md)
+bucket sort。
+- [225: Implement Stack using Queues](/order/Implement_Stack_using_Queues.md)
+pop(), push() O(n) and O(1) trade-off。
+- [232: Implement Queue using Stacks](/order/Implement_Queue_using_Stacks.md)
+same as above。
+- [234:Palindrome Linked List](/order/Palindrome_Linked_List.md)
+reverse and check。
