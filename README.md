@@ -456,6 +456,8 @@ n&=n-1
 |225|[Implement Stack using Queues](/order/Implement_Stack_using_Queues.md)|2018.1.28|Stack, Design|
 |232|[Implement Queue using Stacks](/order/Implement_Queue_using_Stacks.md)|2018.1.28|Stack, Design|
 |234|[Palindrome Linked List](/order/Palindrome_Linked_List.md)|2018.1.28|Linked List, Two Pointers|
+|237|[Delete Node in a Linked List](/order/Delete_Node_in_a_Linked_List.md)|2018.1.29|Linked List|
+|240|[Search a 2D Matrix II](/order/Search_a_2D_Matrix_II.md)|2018.1.29|Binary Search, Divide and Conquer|
 
 ## Leetcode Contest
 

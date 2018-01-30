@@ -682,3 +682,7 @@ pop(), push() O(n) and O(1) trade-off。
 same as above。
 - [234:Palindrome Linked List](/order/Palindrome_Linked_List.md)
 reverse and check。
+- [237: Delete Node in a Linked List](/order/Delete_Node_in_a_Linked_List.md)
+You can't delete a node without having the prev access。
+- [240: Search a 2D Matrix II](/order/Search_a_2D_Matrix_II.md)
+start from leftdown point。
