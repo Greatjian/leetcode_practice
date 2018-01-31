@@ -686,3 +686,7 @@ reverse and check。
 You can't delete a node without having the prev access。
 - [240: Search a 2D Matrix II](/order/Search_a_2D_Matrix_II.md)
 start from leftdown point。
+- [243: Shortest Word Distance](/order/Shortest_Word_Distance.md)
+- [244: Shortest Word Distance II](/order/Shortest_Word_Distance_II.md)
+better algo if list is sorted。
+- [245: Shortest Word Distance III](/order/Shortest_Word_Distance_III.md)

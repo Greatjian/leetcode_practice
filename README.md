@@ -458,6 +458,10 @@ n&=n-1
 |234|[Palindrome Linked List](/order/Palindrome_Linked_List.md)|2018.1.28|Linked List, Two Pointers|
 |237|[Delete Node in a Linked List](/order/Delete_Node_in_a_Linked_List.md)|2018.1.29|Linked List|
 |240|[Search a 2D Matrix II](/order/Search_a_2D_Matrix_II.md)|2018.1.29|Binary Search, Divide and Conquer|
+|241|[Different Ways to Add Parentheses](/order/Different_Ways_to_Add_Parentheses.md)|2018.1.30|Divide and Conquer|
+|243|[Shortest Word Distance](/order/Shortest_Word_Distance.md)|2018.1.30|Array|
+|244|[Shortest Word Distance II](/order/Shortest_Word_Distance_II.md)|2018.1.30|Hash Table, Design|
+|245|[Shortest Word Distance III](/order/Shortest_Word_Distance_III.md)|2018.1.30|Array|
 
 ## Leetcode Contest
 
@@ -469,4 +473,4 @@ n&=n-1
 |-|[768. Max Chunks To Make Sorted II](/contest/Max_Chunks_To_Make_Sorted_II.md)|2018.1.21|Array|
 |Weekly Contest 69|[771. Jewels and Stones](/contest/Jewels_and_Stones.md)|2018.1.28|Hash Table|
 |-|[775. Global and Local Inversions](/contest/Global_and_Local_Inversions.md)|2018.1.28|Array, Math|
-|773|[Sliding Puzzle](/contest/Sliding_Puzzle.md)|2018.1.28|Breadth-first Search|
+|-|[773. Sliding Puzzle](/contest/Sliding_Puzzle.md)|2018.1.28|Breadth-first Search|
