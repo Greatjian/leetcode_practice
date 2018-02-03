@@ -64,7 +64,7 @@ using deque:
             """
             res = []
             level = collections.deque([root])
-            while root and level:
+            while level:
                 local = []
                 for _ in range(len(level)):
                     t = level.popleft()

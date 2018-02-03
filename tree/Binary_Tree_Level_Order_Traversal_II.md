@@ -50,6 +50,7 @@ list:
                         nlevel.append(node.right)
                 level=nlevel
             return res[::-1]
+
 deque:
 
     # Definition for a binary tree node.

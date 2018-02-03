@@ -462,6 +462,17 @@ n&=n-1
 |243|[Shortest Word Distance](/order/Shortest_Word_Distance.md)|2018.1.30|Array|
 |244|[Shortest Word Distance II](/order/Shortest_Word_Distance_II.md)|2018.1.30|Hash Table, Design|
 |245|[Shortest Word Distance III](/order/Shortest_Word_Distance_III.md)|2018.1.30|Array|
+|246|[Strobogrammatic Number](/order/Strobogrammatic_Number.md)|2018.1.31|Hash Table, Math|
+|247|[Strobogrammatic Number II](/order/Strobogrammatic_Number_II.md)|2018.1.31|Recursion, Math|
+|249|[Group Shifted Strings](/order/Group_Shifted_Strings.md)|2018.2.1|Hash Table, String|
+|250|[Count Univalue Subtrees](/order/Count_Univalue_Subtrees.md)|2018.2.1|Tree|
+|251|[Flatten 2D Vector](/order/Flatten_2D_Vector.md)|2018.2.1|Design|
+|252|[Meeting Rooms](/order/Meeting_Rooms.md)|2018.2.1|Sort|
+|253|[Meeting Rooms II](/order/Meeting_Rooms_II.md)|2018.2.1|Heap, Greedy, Sort|
+|254|[Factor Combinations](/order/Factor_Combinations.md)|2018.2.1|Backtracking|
+|*255|[Verify Preorder Sequence in Binary Search Tree](/order/Verify_Preorder_Sequence_in_Binary_Search_Tree.md)|2018.2.2|Stack, Tree|
+|256|[Paint House](/order/Paint_House.md)|2018.2.2|Dynamic Programming|
+|265|[Paint House II](/order/Paint_House_II.md)|2018.2.2|Dynamic Programming|
 
 ## Leetcode Contest
 

@@ -45,6 +45,37 @@ bfs using queue:
                 res.append(level[0])
             return res
             
+二刷：
+            
+    # Definition for a binary tree node.
+    # class TreeNode(object):
+    #     def __init__(self, x):
+    #         self.val = x
+    #         self.left = None
+    #         self.right = None
+    
+    class Solution(object):
+        def rightSideView(self, root):
+            """
+            :type root: TreeNode
+            :rtype: List[int]
+            """
+            if not root:
+                return []
+            res=[]
+            queue=collections.deque([[root, 0]])
+            depth=-1
+            while queue:
+                root, d=queue.popleft()
+                depth=max(depth, d)
+                if d==len(res):
+                    res.append(root.val)
+                if root.right:
+                    queue.append([root.right, d+1])
+                if root.left:
+                    queue.append([root.left, d+1])
+            return res
+            
 ## Solution:
 
 dfs+depth->bfs:

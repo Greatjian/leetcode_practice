@@ -690,3 +690,23 @@ start from leftdown point。
 - [244: Shortest Word Distance II](/order/Shortest_Word_Distance_II.md)
 better algo if list is sorted。
 - [245: Shortest Word Distance III](/order/Shortest_Word_Distance_III.md)
+- [246: Strobogrammatic Number](/order/Strobogrammatic_Number.md)
+- [247: Strobogrammatic Number II](/order/Strobogrammatic_Number_II.md)
+recursion, path+res.append/return []+for path in res。
+- [249: Group Shifted Strings](/order/Group_Shifted_Strings.md)
+% for key。
+- [250: Count Univalue Subtrees](/order/Count_Univalue_Subtrees.md)
+helper boolean function + count。
+- [251: Flatten 2D Vector](/order/Flatten_2D_Vector.md)
+pointers。
+- [252: Meeting Rooms](/order/Meeting_Rooms.md)
+sort。
+- [253: Meeting Rooms II](/order/Meeting_Rooms_II.md)
+sort, heap。
+- [254: Factor Combinations](/order/Factor_Combinations.md)
+backtracking。
+- [255: Verify Preorder Sequence in Binary Search Tree](/order/Verify_Preorder_Sequence_in_Binary_Search_Tree.md)
+stack。
+- [256: Paint House](/order/Paint_House.md)
+- [265: Paint House II](/order/Paint_House_II.md)
+min1 and min2。

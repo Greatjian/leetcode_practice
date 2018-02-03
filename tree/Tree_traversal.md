@@ -1,9 +1,20 @@
 # Tree traversal
 
-## Preorder
+## Iterative
 
-iteration dfs, using stack:
+Using stack:
+- preorder(olr)
+- inorder(lor)
+- postorder(lro)
 
+
+    # Definition for a binary tree node.
+    # class TreeNode(object):
+    #     def __init__(self, x):
+    #         self.val = x
+    #         self.left = None
+    #         self.right = None
+    
     class Solution(object):
         def preorderTraversal(self, root):
             """
@@ -11,17 +22,20 @@ iteration dfs, using stack:
             :rtype: List[int]
             """
             res=[]
-            stack=[root]
-            while stack and root:
-                node=stack.pop()
-                res.append(node.val)
-                if node.right:
-                    stack.append(node.right)
-                if node.left:
-                    stack.append(node.left)
+            stack=[[root, 0]] // 0: visit, 1: print
+            while stack:
+                root, i=stack.pop()
+                if not root:
+                    continue
+                if i==1:
+                    res.append(root.val)
+                elif i==0:
+                    stack.append([root.right, 0])
+                    stack.append([root.left, 0])
+                    stack.append([root, 1])
             return res
-            
-recursion:
+
+## Recursive
 
     class Solution(object):
         def preorderTraversal(self, root):
@@ -39,85 +53,6 @@ recursion:
             self.l.append(root.val)
             self.helper(root.left)
             self.helper(root.right)
-            
-## Inorder
-
-iteration dfs, using stack:
-
-    class Solution(object):
-        def inorderTraversal(self, root):
-            """
-            :type root: TreeNode
-            :rtype: List[int]
-            """
-            ans=[]
-            stack=[]
-            while stack or root:
-                while root:
-                    stack.append(root)
-                    root=root.left
-                root=stack.pop()
-                ans.append(root.val)
-                root=root.right
-            return ans
-            
-recursion:
-
-    class Solution(object):
-        def inorderTraversal(self, root):
-            """
-            :type root: TreeNode
-            :rtype: List[int]
-            """
-            def helper(root):
-                if root:
-                    helper(root.left)
-                    self.l.append(root.val)
-                    helper(root.right)
-                        
-            self.l=[]
-            helper(root)
-            return self.l
-            
-## Postorder:
-
-iteration dfs, using stack, reversed preorder with reversed appending sequence:
-
-    class Solution(object):
-        def postorderTraversal(self, root):
-            """
-            :type root: TreeNode
-            :rtype: List[int]
-            """
-            ans=[]
-            stack=[root]
-            while stack and root:
-                node=stack.pop()
-                ans.append(node.val)
-                if node.left:
-                    stack.append(node.left)
-                if node.right:    
-                    stack.append(node.right)
-            return ans[::-1]
-            
-recursion:
-
-    class Solution(object):
-        def postorderTraversal(self, root):
-            """
-            :type root: TreeNode
-            :rtype: List[int]
-            """
-            self.res=[]
-            self.helper(root)
-            return self.res
-        
-        def helper(self, root):
-            if not root:
-                return
-            self.helper(root.left)
-            self.helper(root.right)
-            self.res.append(root.val)
             
 ## Level order
 
@@ -150,7 +85,7 @@ iteration, using queue:
                 res.append(level)
             return res
             
-recursion, dfs+depth(需要特定条件):
+recursion, dfs(root, depth):
 
 - [Binary Tree Level Order Traversal](/tree/Binary_Tree_Level_Order_Traversal.md)
 - [Binary Tree Right Side View](/tree/Binary_Tree_Right_Side_View.md)
