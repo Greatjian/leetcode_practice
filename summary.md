@@ -8,6 +8,7 @@
 - [String](#string)
 - [Hash Table](#hash-table)
 - [Math](#math)
+- [Divide and Conquer](#divide-and-conquer)
 - [Order](#order)
 
 ## Array
@@ -608,6 +609,17 @@ math。
 - [754: Reach a Number](/math/Reach_a_Number.md)
 求和后改符号。
 
+## Divide and Conquer
+
+- [327: Count of Range Sum](/divide_and_conquer/Count_of_Range_Sum.md)
+rangeSum is the substraction of two preSums, mergesort and count。
+- [084: Largest Rectangle in Histogram](/divide_and_conquer/Largest_Rectangle_in_Histogram.md)
+stack。
+- [493: Reverse Pairs](/divide_and_conquer/Reverse_Pairs.md)
+mergesort and count。
+- [315: Count of Smaller Numbers After Self](/divide_and_conquer/Count_of_Smaller_Numbers_After_Self.md)
+mergesort ad count, keep track of index/binary indexed tree。
+
 ## Order
 
 - [019: Remove Nth Node From End of List](/order/Remove_Nth_Node_From_End_of_List.md)
@@ -710,3 +722,5 @@ stack。
 - [256: Paint House](/order/Paint_House.md)
 - [265: Paint House II](/order/Paint_House_II.md)
 min1 and min2。
+- [126: Word Ladder II](/order/Word_Ladder_II.md)
+bfs+dfs+dict。

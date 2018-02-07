@@ -63,3 +63,34 @@ little manipulation saving space:
                 if k==0:
                     return root.val
                 root=root.right
+                
+## Solution:
+
+二刷：
+
+    # Definition for a binary tree node.
+    # class TreeNode(object):
+    #     def __init__(self, x):
+    #         self.val = x
+    #         self.left = None
+    #         self.right = None
+    
+    class Solution(object):
+        def kthSmallest(self, root, k):
+            """
+            :type root: TreeNode
+            :type k: int
+            :rtype: int
+            """
+            def countNodes(n):
+                if not n:
+                    return 0
+                return 1 + countNodes(n.left) + countNodes(n.right)
+            
+            count = countNodes(root.left)
+            if k <= count:
+                return self.kthSmallest(root.left, k)
+            elif k > count + 1:
+                return self.kthSmallest(root.right, k-1-count)
+            return root.val
+        

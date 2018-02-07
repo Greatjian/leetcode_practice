@@ -22,6 +22,7 @@ My harvests for each practice are summarized [here](/summary.md).
 - [String](#string)
 - [Hash Table](#hash-table)
 - [Math](#math)
+- [Divide and Conquer](#divide-and-conquer)
 - [Order](#order)
 - [Leetcode Contest](#leetcode-contest)
 
@@ -380,6 +381,18 @@ if token=='/':
 |728|[Self Dividing Numbers](/math/Self_Dividing_Numbers.md)|2018.1.16|
 |754|[Reach a Number](/math/Reach_a_Number.md)|2018.1.16|
 
+## Divide and Conquer
+
+- binary search
+- mergesort and count/Binary indexed tree(bisect.bisect_right(s, num))
+
+|Number|Name|Date|
+|:---:|:---:|:---:|
+|327|[Count of Range Sum](/divide_and_conquer/Count_of_Range_Sum.md)|2018.2.5|
+|084|[Largest Rectangle in Histogram](/divide_and_conquer/Largest_Rectangle_in_Histogram.md)|2018.2.5|
+|493|[Reverse Pairs](/divide_and_conquer/Reverse_Pairs.md)|2018.2.5|
+|315|[Count of Smaller Numbers After Self](/divide_and_conquer/Count_of_Smaller_Numbers_After_Self.md)|2018.2.5|
+
 ## Order
 
 - dummy node: 
@@ -473,6 +486,7 @@ n&=n-1
 |*255|[Verify Preorder Sequence in Binary Search Tree](/order/Verify_Preorder_Sequence_in_Binary_Search_Tree.md)|2018.2.2|Stack, Tree|
 |256|[Paint House](/order/Paint_House.md)|2018.2.2|Dynamic Programming|
 |265|[Paint House II](/order/Paint_House_II.md)|2018.2.2|Dynamic Programming|
+|*126|[Word Ladder II](/order/Word_Ladder_II.md)|2018.2.3|Array, String, Backtracking, Breadth-first Search|
 
 ## Leetcode Contest
 
@@ -485,3 +499,7 @@ n&=n-1
 |Weekly Contest 69|[771. Jewels and Stones](/contest/Jewels_and_Stones.md)|2018.1.28|Hash Table|
 |-|[775. Global and Local Inversions](/contest/Global_and_Local_Inversions.md)|2018.1.28|Array, Math|
 |-|[773. Sliding Puzzle](/contest/Sliding_Puzzle.md)|2018.1.28|Breadth-first Search|
+|Weekly Contest 70|[779. K-th Symbol in Grammar](/contest/K-th_Symbol_in_Grammar.md)|2018.2.4|Recursion|
+|-|[777. Swap Adjacent in LR String](/order/Swap_Nodes_in_Pairs.md)|2018.2.4|Brainteaser|
+|-|[776. Split BST](/contest/Split_BST.md)|2018.2.4|Binary Search Tree|
+|-|[778. Swim in Rising Water](/contest/Swim_in_Rising_Water.md)|2018.2.4|Binary Search, Heap, Depth-first Search|
