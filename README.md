@@ -392,6 +392,8 @@ if token=='/':
 |084|[Largest Rectangle in Histogram](/divide_and_conquer/Largest_Rectangle_in_Histogram.md)|2018.2.5|
 |493|[Reverse Pairs](/divide_and_conquer/Reverse_Pairs.md)|2018.2.5|
 |315|[Count of Smaller Numbers After Self](/divide_and_conquer/Count_of_Smaller_Numbers_After_Self.md)|2018.2.5|
+|004|[Median of Two Sorted Arrays](/divide_and_conquer/Median_of_Two_Sorted_Arrays.md)|2018.2.7|
+|023|[Merge k Sorted Lists](/divide_and_conquer/Merge_k_Sorted_Lists.md)|2018.2.7|
 
 ## Order
 

@@ -619,6 +619,10 @@ stack。
 mergesort and count。
 - [315: Count of Smaller Numbers After Self](/divide_and_conquer/Count_of_Smaller_Numbers_After_Self.md)
 mergesort ad count, keep track of index/binary indexed tree。
+- [004: Median of Two Sorted Arrays](/divide_and_conquer/Median_of_Two_Sorted_Arrays.md)
+top K。
+- [023: Merge k Sorted Lists](/divide_and_conquer/Merge_k_Sorted_Lists.md)
+heap, divide and conquer。
 
 ## Order
 
