@@ -623,6 +623,11 @@ mergesort ad count, keep track of index/binary indexed tree。
 top K。
 - [023: Merge k Sorted Lists](/divide_and_conquer/Merge_k_Sorted_Lists.md)
 heap, divide and conquer。
+- [218: The Skyline Problem](/divide_and_conquer/The_Skyline_Problem.md)
+while loop manipulates better; adding an eternal end point; edge cases consideration;
+defensive coding (if not hp or hp[0].../while hp...hp.pop())。
+- [312: Burst Balloons](/divide_and_conquer/Burst_Balloons.md)
+bottom up dp or top down divide and conquer with memorization。
 
 ## Order
 
@@ -728,3 +733,11 @@ stack。
 min1 and min2。
 - [126: Word Ladder II](/order/Word_Ladder_II.md)
 bfs+dfs+dict。
+- [259: 3Sum Smaller](/order/3Sum_Smaller.md)
+O(n^2) means two pointers or three pointers with two meet in the middle。
+- [266: Palindrome Permutation](/order/Palindrome_Permutation.md)
+- [267: Palindrome Permutation II](/order/Palindrome_Permutation_II.md)
+- [270: Closest Binary Search Tree Value](/order/Closest_Binary_Search_Tree_Value.md)
+res=min(root.val, res, key=lambda i: abs(i-target))。
+- [272: Closest Binary Search Tree Value II](/order/Closest_Binary_Search_Tree_Value_II.md)
+two stacks for small and large, getPrev() and getNext()。

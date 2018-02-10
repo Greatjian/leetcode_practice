@@ -385,6 +385,15 @@ if token=='/':
 
 - binary search
 - mergesort and count/Binary indexed tree(bisect.bisect_right(s, num))
+- defensive coding:
+```
+if not hp or hp[0]:
+    ...
+    
+while hp:
+    hp.pop()
+    ...
+```
 
 |Number|Name|Date|
 |:---:|:---:|:---:|
@@ -394,6 +403,8 @@ if token=='/':
 |315|[Count of Smaller Numbers After Self](/divide_and_conquer/Count_of_Smaller_Numbers_After_Self.md)|2018.2.5|
 |004|[Median of Two Sorted Arrays](/divide_and_conquer/Median_of_Two_Sorted_Arrays.md)|2018.2.7|
 |023|[Merge k Sorted Lists](/divide_and_conquer/Merge_k_Sorted_Lists.md)|2018.2.7|
+|218|[The Skyline Problem](/divide_and_conquer/The_Skyline_Problem.md)|2018.2.9|
+|312|[Burst Balloons](/divide_and_conquer/Burst_Balloons.md)|2018.2.9|
 
 ## Order
 
@@ -489,6 +500,11 @@ n&=n-1
 |256|[Paint House](/order/Paint_House.md)|2018.2.2|Dynamic Programming|
 |265|[Paint House II](/order/Paint_House_II.md)|2018.2.2|Dynamic Programming|
 |*126|[Word Ladder II](/order/Word_Ladder_II.md)|2018.2.3|Array, String, Backtracking, Breadth-first Search|
+|259|[3Sum Smaller](/order/3Sum_Smaller.md)|2018.2.8|Array, Two Pointers|
+|266|[Palindrome Permutation](/order/Palindrome_Permutation.md)|2018.2.8|Hash Table|
+|267|[Palindrome Permutation II](/order/Palindrome_Permutation_II.md)|2018.2.8|Backtracking|
+|270|[Closest Binary Search Tree Value](/order/Closest_Binary_Search_Tree_Value.md)|2018.2.8|Binary Search, Tree|
+|272|[Closest Binary Search Tree Value II](/order/Closest_Binary_Search_Tree_Value_II.md)|2018.2.8|Stack, Tree|
 
 ## Leetcode Contest
 
