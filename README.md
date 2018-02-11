@@ -521,3 +521,7 @@ n&=n-1
 |-|[777. Swap Adjacent in LR String](/order/Swap_Nodes_in_Pairs.md)|2018.2.4|Brainteaser|
 |-|[776. Split BST](/contest/Split_BST.md)|2018.2.4|Binary Search Tree|
 |-|[778. Swim in Rising Water](/contest/Swim_in_Rising_Water.md)|2018.2.4|Binary Search, Heap, Depth-first Search|
+|Weekly Contest 71|[783. Minimum Distance Between BST Nodes](/contest/Minimum_Distance_Between_BST_Nodes.md)|2018.2.10|Binary Search Tree|
+|-|[781. Rabbits in Forest](/contest/Rabbits_in_Forest.md)|2018.2.10|
+|-|[780. Reaching Points](/contest/Reaching_Points.md)|2018.2.10|
+|-|[782. Transform to Chessboard](/contest/Transform_to_Chessboard.md)|2018.2.10|
