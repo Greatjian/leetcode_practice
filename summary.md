@@ -741,3 +741,14 @@ O(n^2) means two pointers or three pointers with two meet in the middle。
 res=min(root.val, res, key=lambda i: abs(i-target))。
 - [272: Closest Binary Search Tree Value II](/order/Closest_Binary_Search_Tree_Value_II.md)
 two stacks for small and large, getPrev() and getNext()。
+- [010: Regular Expression Matching](/order/Regular_Expression_Matching.md)
+dp，注意base case and 0/1 index。
+- [085: Maximal Rectangle](/order/Maximal_Rectangle.md)
+stack and height。
+- [072: Edit Distance](/order/Edit_Distance.md)
+zero and base case。
+- [115: Distinct Subsequences](/order/Distinct_Subsequences.md)
+- [378: Kth Smallest Element in a Sorted Matrix](/order/Kth_Smallest_Element_in_a_Sorted_Matrix.md)
+binary search, heap。
+- [719: Find K-th Smallest Pair Distance](/order/Find_K-th_Smallest_Pair_Distance.md)
+binary search, heap。

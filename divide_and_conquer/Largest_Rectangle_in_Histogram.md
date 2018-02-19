@@ -63,13 +63,13 @@ stack, O(n):
             :type heights: List[int]
             :rtype: int
             """
-            stack=[-1]
             heights.append(0)
+            stack=[]
             mh=0
             for i in range(len(heights)):
-                while heights[stack[-1]]>heights[i]:
+                while stack and heights[stack[-1]]>heights[i]:
                     j=stack.pop()
-                    area=(i-stack[-1]-1)*heights[j]
+                    area=(i-stack[-1]-1 if stack else i)*heights[j]
                     mh=max(mh, area)
                 stack.append(i)
             return mh

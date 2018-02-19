@@ -28,6 +28,10 @@ My harvests for each practice are summarized [here](/summary.md).
 
 ## Array
 
+```
+set(zip(*board)), set(map(tuple, board))
+```
+
 |Number|Name|Date|
 |:---:|:---:|:---:|
 |001|[two sum](/array/two_sum.md)|2017.07.10|
@@ -120,6 +124,9 @@ My harvests for each practice are summarized [here](/summary.md).
 |526|[Beautiful Arrangement](/backtracking/Beautiful_Arrangement.md)|2017.8.16|
 
 ## Dynamic Programming
+
+- zero
+- base case
 
 |Number|Name|Date|
 |:---:|:---:|:---:|
@@ -433,6 +440,7 @@ while stack:
 ```
 - bit manipulation:
 ```
+delete the last zero:
 n&=n-1
 ```
 - Design trade-off between functions
@@ -505,6 +513,12 @@ n&=n-1
 |267|[Palindrome Permutation II](/order/Palindrome_Permutation_II.md)|2018.2.8|Backtracking|
 |270|[Closest Binary Search Tree Value](/order/Closest_Binary_Search_Tree_Value.md)|2018.2.8|Binary Search, Tree|
 |272|[Closest Binary Search Tree Value II](/order/Closest_Binary_Search_Tree_Value_II.md)|2018.2.8|Stack, Tree|
+|010|[Regular Expression Matching](/order/Regular_Expression_Matching.md)|2018.2.14|Dynamic Programming, String, Backtracking|
+|085|[Maximal Rectangle](/order/Maximal_Rectangle.md)|2018.2.14|Dynamic Programming, Array, Hash Table, Stack|
+|072|[Edit Distance](/order/Edit_Distance.md)|2018.2.14|Dynamic Programming, String|
+|115|[Distinct Subsequences](/order/Distinct_Subsequences.md)|2018.2.18|Dynamic Programming, String|
+|378|[Kth Smallest Element in a Sorted Matrix](/order/Kth_Smallest_Element_in_a_Sorted_Matrix.md)|2018.2.18|Binary Search, Heap|
+|719|[Find K-th Smallest Pair Distance](/order/Find_K-th_Smallest_Pair_Distance.md)|2018.2.18|Binary Search, Heap|
 
 ## Leetcode Contest
 
@@ -525,3 +539,7 @@ n&=n-1
 |-|[781. Rabbits in Forest](/contest/Rabbits_in_Forest.md)|2018.2.10|
 |-|[780. Reaching Points](/contest/Reaching_Points.md)|2018.2.10|
 |-|[782. Transform to Chessboard](/contest/Transform_to_Chessboard.md)|2018.2.10|
+|Weekly Contest 72|[784. Letter Case Permutation](/contest/Letter_Case_Permutation.md)|2018.2.18|Backtracking|
+|-|[785. Is Graph Bipartite?](/contest/Is_Graph_Bipartite%3F.md)|2018.2.18|Stack|
+|-|[787. Cheapest Flights Within K Stops](/contest/Cheapest_Flights_Within_K_Stops.md)|2018.2.18|Heap, Breadth-first Search|
+|-|[786. K-th Smallest Prime Fraction](/contest/K-th_Smallest_Prime_Fraction.md)|2018.2.18|Heap, Binary Search|

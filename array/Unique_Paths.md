@@ -25,4 +25,38 @@ How many possible unique paths are there?
                 for j in range(1,n):
                     a[i][j]=a[i-1][j]+a[i][j-1]
             return a[m-1][n-1]
-                    
+            
+## Solution:
+
+O(n) space:
+
+    class Solution(object):
+        def uniquePaths(self, m, n):
+            """
+            :type m: int
+            :type n: int
+            :rtype: int
+            """
+            dp=[1]*(n)
+            for i in range(1, m):
+                for j in range(1, n):
+                    dp[j]+=dp[j-1]
+            return dp[-1]
+
+combination:
+
+    class Solution(object):
+        def uniquePaths(self, m, n):
+            """
+            :type m: int
+            :type n: int
+            :rtype: int
+            """
+            N = n+m-2
+            k = m-1
+            return self.factorial(N)/(self.factorial(k)*self.factorial(N-k))
+        
+        def factorial(self, n):
+            if n==1 or not n:
+                return 1
+            return n*self.factorial(n-1)
