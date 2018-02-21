@@ -9,6 +9,7 @@
 - [Hash Table](#hash-table)
 - [Math](#math)
 - [Divide and Conquer](#divide-and-conquer)
+- [Design](#design)
 - [Order](#order)
 
 ## Array
@@ -628,6 +629,13 @@ while loop manipulates better; adding an eternal end point; edge cases considera
 defensive coding (if not hp or hp[0].../while hp...hp.pop())。
 - [312: Burst Balloons](/divide_and_conquer/Burst_Balloons.md)
 bottom up dp or top down divide and conquer with memorization。
+
+## Design
+
+- [146: LRU Cache](/design/LRU_Cache.md)
+doubly linked list + dict。
+- [297: Serialize and Deserialize Binary Tree](/design/Serialize_and_Deserialize_Binary_Tree.md)
+preorder + queue。
 
 ## Order
 

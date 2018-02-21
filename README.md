@@ -23,6 +23,7 @@ My harvests for each practice are summarized [here](/summary.md).
 - [Hash Table](#hash-table)
 - [Math](#math)
 - [Divide and Conquer](#divide-and-conquer)
+- [Design](#design)
 - [Order](#order)
 - [Leetcode Contest](#leetcode-contest)
 
@@ -412,6 +413,13 @@ while hp:
 |023|[Merge k Sorted Lists](/divide_and_conquer/Merge_k_Sorted_Lists.md)|2018.2.7|
 |218|[The Skyline Problem](/divide_and_conquer/The_Skyline_Problem.md)|2018.2.9|
 |312|[Burst Balloons](/divide_and_conquer/Burst_Balloons.md)|2018.2.9|
+
+## Design
+
+|Number|Name|Date|
+|:---:|:---:|:---:|
+|146|[LRU Cache](/design/LRU_Cache.md)|2018.2.20|
+|297|[Serialize and Deserialize Binary Tree](/design/Serialize_and_Deserialize_Binary_Tree.md)|2018.2.20|
 
 ## Order
 
