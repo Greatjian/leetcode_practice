@@ -63,7 +63,7 @@ dfs:
                     return word[i] in cur and helper(cur[word[i]], i+1)
                 else:
                     for j in cur:
-                        if len(j)==1 and helper(cur[j], i+1):
+                        if j!="has_word" and helper(cur[j], i+1):
                             return True
                 return False
                         

@@ -96,7 +96,7 @@ Note:
             """
             cur=self.root
             for letter in word:
-                if cur.get(letter)==None:
+                if letter not in cur:
                     return False
                 cur=cur[letter]
             return "is_word" in cur
@@ -110,7 +110,7 @@ Note:
             """
             cur=self.root
             for letter in prefix:
-                if cur.get(letter)==None:
+                if letter not in cur:
                     return False
                 cur=cur[letter]
             return True

@@ -636,6 +636,10 @@ bottom up dp or top down divide and conquer with memorization。
 doubly linked list + dict。
 - [297: Serialize and Deserialize Binary Tree](/design/Serialize_and_Deserialize_Binary_Tree.md)
 preorder + queue。
+- [341: Flatten Nested List Iterator](/design/Flatten_Nested_List_Iterator.md)
+stack。
+- [295: Find Median from Data Stream](/design/Find_Median_from_Data_Stream.md)
+minheap and maxheap。
 
 ## Order
 

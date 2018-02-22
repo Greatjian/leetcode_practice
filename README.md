@@ -416,10 +416,22 @@ while hp:
 
 ## Design
 
+- trade-off between functions
+
 |Number|Name|Date|
 |:---:|:---:|:---:|
+|155|[Min Stack](/order/Min_Stack.md)|2018.1.23|
+|170|[Two Sum III - Data structure design](/order/Two_Sum_III_-_Data_structure_design.md)|2018.1.24|
+|208|[Implement Trie (Prefix Tree)](/order/Implement_Trie_(Prefix_Tree).md)|2018.1.26|
+|211|[Add and Search Word - Data structure design](/order/Add_and_Search_Word_-_Data_structure_design.md)|2018.1.26|
+|225|[Implement Stack using Queues](/order/Implement_Stack_using_Queues.md)|2018.1.28|
+|232|[Implement Queue using Stacks](/order/Implement_Queue_using_Stacks.md)|2018.1.28|
+|244|[Shortest Word Distance II](/order/Shortest_Word_Distance_II.md)|2018.1.30|
+|251|[Flatten 2D Vector](/order/Flatten_2D_Vector.md)|2018.2.1|
 |146|[LRU Cache](/design/LRU_Cache.md)|2018.2.20|
 |297|[Serialize and Deserialize Binary Tree](/design/Serialize_and_Deserialize_Binary_Tree.md)|2018.2.20|
+|341|[Flatten Nested List Iterator](/design/Flatten_Nested_List_Iterator.md)|2018.2.21|
+|295|[Find Median from Data Stream](/design/Find_Median_from_Data_Stream.md)|2018.2.21|
 
 ## Order
 
@@ -451,7 +463,6 @@ while stack:
 delete the last zero:
 n&=n-1
 ```
-- Design trade-off between functions
 
 |Number|Name|Date|Topics|
 |:---:|:---:|:---:|:---:|
@@ -476,13 +487,11 @@ n&=n-1
 |147|[Insertion Sort List](/order/Insertion_Sort_List.md)|2018.1.23|Linked List, Sort|
 |148|[Sort List](/order/Sort_List.md)|2018.1.23|Linked List, Sort|
 |150|[Evaluate Reverse Polish Notation](/order/Evaluate_Reverse_Polish_Notation.md)|2018.1.23|Stack|
-|155|[Min Stack](/order/Min_Stack.md)|2018.1.23|Stack, Design|
 |*156|[Binary Tree Upside Down](/order/Binary_Tree_Upside_Down.md)|2018.1.23|Tree|
 |157|[Read N Characters Given Read4](/order/Read_N_Characters_Given_Read4.md)|2018.1.23|String|
 |160|[Intersection of Two Linked Lists](/order/Intersection_of_Two_Linked_Lists.md)|2018.1.23|Linked List|
 |161|[One Edit Distance](/order/One_Edit_Distance.md)|2018.1.24|String|
 |163|[Missing Ranges](/order/Missing_Ranges.md)|2018.1.24|Array|
-|170|[Two Sum III - Data structure design](/order/Two_Sum_III_-_Data_structure_design.md)|2018.1.24|Hash Table, Design|
 |186|[Reverse Words in a String II](/order/Reverse_Words_in_a_String_II.md)|2018.1.24|String|
 |190|[Reverse Bits](order/Reverse_Bits.md)|2018.1.25|Bit Manipulation|
 |191|[Number of 1 Bits](/order/Number_of_1_Bits.md)|2018.1.25|Bit Manipulation|
@@ -490,25 +499,19 @@ n&=n-1
 |201|[Bitwise AND of Numbers Range](/order/Bitwise_AND_of_Numbers_Range.md)|2018.1.25|Bit Manipulation|
 |203|[Remove Linked List Elements](/order/Remove_Linked_List_Elements.md)|2018.1.25|Linked List|
 |207|[Course Schedule](/order/Course_Schedule.md)|2018.1.25|Breadth-first Search, Depth-first Search, Graph, Topological Sort|
-|208|[Implement Trie (Prefix Tree)](/order/Implement_Trie_(Prefix_Tree).md)|2018.1.26|Design, Trie|
 |210|[Course Schedule II](/order/Course_Schedule_II.md)|2018.1.26|Breadth-first Search, Depth-first Search, Graph, Topological Sort|
-|211|[Add and Search Word - Data structure design](/order/Add_and_Search_Word_-_Data_structure_design.md)|2018.1.26|Design, Trie|
 |215|[Kth Largest Element in an Array](/order/Kth_Largest_Element_in_an_Array.md)|2018.1.27|Divide and Conquer, Heap|
 |220|[Contains Duplicate III](/order/Contains_Duplicate_III.md)|2018.1.28|Binary Search Tree|
-|225|[Implement Stack using Queues](/order/Implement_Stack_using_Queues.md)|2018.1.28|Stack, Design|
-|232|[Implement Queue using Stacks](/order/Implement_Queue_using_Stacks.md)|2018.1.28|Stack, Design|
 |234|[Palindrome Linked List](/order/Palindrome_Linked_List.md)|2018.1.28|Linked List, Two Pointers|
 |237|[Delete Node in a Linked List](/order/Delete_Node_in_a_Linked_List.md)|2018.1.29|Linked List|
 |240|[Search a 2D Matrix II](/order/Search_a_2D_Matrix_II.md)|2018.1.29|Binary Search, Divide and Conquer|
 |241|[Different Ways to Add Parentheses](/order/Different_Ways_to_Add_Parentheses.md)|2018.1.30|Divide and Conquer|
 |243|[Shortest Word Distance](/order/Shortest_Word_Distance.md)|2018.1.30|Array|
-|244|[Shortest Word Distance II](/order/Shortest_Word_Distance_II.md)|2018.1.30|Hash Table, Design|
 |245|[Shortest Word Distance III](/order/Shortest_Word_Distance_III.md)|2018.1.30|Array|
 |246|[Strobogrammatic Number](/order/Strobogrammatic_Number.md)|2018.1.31|Hash Table, Math|
 |247|[Strobogrammatic Number II](/order/Strobogrammatic_Number_II.md)|2018.1.31|Recursion, Math|
 |249|[Group Shifted Strings](/order/Group_Shifted_Strings.md)|2018.2.1|Hash Table, String|
 |250|[Count Univalue Subtrees](/order/Count_Univalue_Subtrees.md)|2018.2.1|Tree|
-|251|[Flatten 2D Vector](/order/Flatten_2D_Vector.md)|2018.2.1|Design|
 |252|[Meeting Rooms](/order/Meeting_Rooms.md)|2018.2.1|Sort|
 |253|[Meeting Rooms II](/order/Meeting_Rooms_II.md)|2018.2.1|Heap, Greedy, Sort|
 |254|[Factor Combinations](/order/Factor_Combinations.md)|2018.2.1|Backtracking|
