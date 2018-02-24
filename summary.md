@@ -156,6 +156,8 @@ dictionary 与 tuple 的使用。
 贪心法，直接从最多任务元素开始排列。
 - [628: Maximum Product of Three Numbers](/array/Maximum_Product_of_Three_Numbers.md)
 最大三数和为数组最大三数乘积或最大数乘两最小数值。float('inf')，float('-inf')/None。
+- [644: Maximum Average Subarray II](/array/Maximum_Average_Subarray_II.md)
+preSum + binary search。
 - [697: Degree of an Array](/array/Degree_of_an_Array.md)
 出现次数最多元素的idx差值。
 - [717. 1-bit and 2-bit Characters](/array/1-bit_and_2-bit_Characters.md)

@@ -35,21 +35,36 @@ The number of ways decoding "12" is 2.
                     return 0
     
             return dp[len(s)]
-```           
-class Solution(object):
-    def numDecodings(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        if not s:return 0
-        dp=[0]*(len(s)+1)
-        dp[0]=1
-        
-        for i in range(1,len(s)+1):
-            if s[i-1]!='0':
-                dp[i]+=dp[i-1]
-            if i!=1 and '09'<s[i-2:i]<'27':
-                dp[i]+=dp[i-2]
-        return dp[-1]
-```
+
+二刷:
+
+    class Solution(object):
+        def numDecodings(self, s):
+            """
+            :type s: str
+            :rtype: int
+            """
+            dp=[1]*(len(s)+1)
+            for i in range(len(s)-1, -1, -1):
+                if s[i]=='0':
+                    dp[i]=0
+                elif i!=len(s)-1 and int(s[i:i+2])<=26:
+                    dp[i]=dp[i+1]+dp[i+2]
+                else:
+                    dp[i]=dp[i+1]
+            return dp[0] if s else 0
+         
+            
+    class Solution(object):
+        def numDecodings(self, s):
+            """
+            :type s: str
+            :rtype: int
+            """
+            e0, e1, e2=1, 0, 0
+            for i in s:
+                a, b, c=e0, e1, e2
+                e0=(i>'0')*a+b+(i<='6')*c
+                e1=(i=='1')*a
+                e2=(i=='2')*a
+            return e0 if s else 0

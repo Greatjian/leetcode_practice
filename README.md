@@ -32,6 +32,7 @@ My harvests for each practice are summarized [here](/summary.md).
 ```
 set(zip(*board)), set(map(tuple, board))
 ```
+- contiguous subarray: preSum
 
 |Number|Name|Date|
 |:---:|:---:|:---:|
@@ -106,6 +107,7 @@ set(zip(*board)), set(map(tuple, board))
 |621|[Task Scheduler](/array/Task_Scheduler.md)|2017.8.8|
 |628|[Maximum Product of Three Numbers](/array/Maximum_Product_of_Three_Numbers.md)|2017.8.8|
 |643|[Maximum Average Subarray I](/array/Maximum_Average_Subarray_I.md)|2017.8.8|
+|644|[Maximum Average Subarray II](/array/Maximum_Average_Subarray_II.md)|2018.2.23|
 |697|[Degree of an Array](/array/Degree_of_an_Array.md)|2018.1.15|
 |717|[1-bit and 2-bit Characters](/array/1-bit_and_2-bit_Characters.md)|2017.12.13|
 
@@ -161,6 +163,7 @@ set(zip(*board)), set(map(tuple, board))
 |523|[Continuous Subarray Sum](/DynamicProgramming/Continuous_Subarray_Sum.md)|2017.9.19|
 |576|[Out of Boundary Paths](/DynamicProgramming/Out_of_Boundary_Paths.md)|2017.9.20|
 |638|[Shopping Offers](/DynamicProgramming/Shopping_Offers.md)|2017.9.26|
+|639|[Decode Ways II](/DynamicProgramming/Decode_Ways_II.md)|2017.2.23|
 |646|[Maximum Length of Pair Chain](/DynamicProgramming/Maximum_Length_of_Pair_Chain.md)|2017.9.27|
 |647|[Palindromic Substrings](DynamicProgramming/Palindromic_Substrings.md)|2017.9.28|
 |650|[2 Keys Keyboard](/DynamicProgramming/2_Keys_Keyboard.md)|2017.9.29|

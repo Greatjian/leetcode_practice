@@ -45,3 +45,20 @@ Note:
                 if x >= k: sums -= nums[x - k]
                 if x >= k - 1: ans = max(ans, 1.0 * sums / k)
             return ans
+            
+二刷preSum:
+
+    class Solution(object):
+        def findMaxAverage(self, nums, k):
+            """
+            :type nums: List[int]
+            :type k: int
+            :rtype: float
+            """
+            preSum=[0]
+            for i in range(len(nums)):
+                preSum.append(preSum[-1]+nums[i])
+            res=float('-inf')
+            for i in range(k, len(preSum)):
+                res=max(res, (preSum[i]-preSum[i-k])*1.0/k)
+            return res
