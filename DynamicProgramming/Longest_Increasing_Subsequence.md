@@ -27,6 +27,7 @@ O(n*n): dp状态转移方程：dp[x] = max(dp[x], dp[y] + 1) 其中 y < x 并且
                     if nums[i]>nums[j]:
                         dp[i]=max(dp[i],dp[j]+1)
             return max(dp) if dp else 0
+            
 ## Solution:
 nlogn:二分法
 
@@ -71,4 +72,21 @@ nlogn:二分法
                     dp.append(nums[x])
                 else:
                     dp[low] = nums[x]
+            return len(dp)
+            
+            
+    class Solution(object):
+        def lengthOfLIS(self, nums):
+            """
+            :type nums: List[int]
+            :rtype: int
+            """
+            dp=[]
+            for num in nums:
+                lo, hi=0, len(dp)-1
+                idx=bisect.bisect_left(dp, num)
+                if idx==len(dp):
+                    dp.append(num)
+                else:
+                    dp[idx]=num
             return len(dp)

@@ -46,5 +46,9 @@ Note: Length of the given array will be not exceed 2000 and the answer is guaran
 最后一部分还可以这样写：
 
     return sum(y for x,y in zip(dp,count) if x==max(dp))
+    
+二刷：
+
+    return sum(cnt[i] for i in range(len(dp)) if dp[i]==max(dp)) if nums else 0
 
                         

@@ -163,11 +163,12 @@ set(zip(*board)), set(map(tuple, board))
 |523|[Continuous Subarray Sum](/DynamicProgramming/Continuous_Subarray_Sum.md)|2017.9.19|
 |576|[Out of Boundary Paths](/DynamicProgramming/Out_of_Boundary_Paths.md)|2017.9.20|
 |638|[Shopping Offers](/DynamicProgramming/Shopping_Offers.md)|2017.9.26|
-|639|[Decode Ways II](/DynamicProgramming/Decode_Ways_II.md)|2017.2.23|
+|639|[Decode Ways II](/DynamicProgramming/Decode_Ways_II.md)|2018.2.23|
 |646|[Maximum Length of Pair Chain](/DynamicProgramming/Maximum_Length_of_Pair_Chain.md)|2017.9.27|
 |647|[Palindromic Substrings](DynamicProgramming/Palindromic_Substrings.md)|2017.9.28|
 |650|[2 Keys Keyboard](/DynamicProgramming/2_Keys_Keyboard.md)|2017.9.29|
 |673|[Number of Longest Increasing Subsequence](/DynamicProgramming/Number_of_Longest_Increasing_Subsequence.md)|2017.9.30|
+|727|[Minimum Window Subsequence](/DynamicProgramming/Minimum_Window_Subsequence.md)|2018.2.25|
 
 ## Tree
 
@@ -260,6 +261,7 @@ sorted(iterable, key=len/lambda..., reverse=True)
 |058|[Length of Last Word](/string/Length_of_Last_Word.md)|2017.11.3|
 |067|[Add Binary](/string/Add_Binary.md)|2017.11.3|
 |071|[Simplify Path](/string/Simplify_Path.md)|2017.11.3|
+|076|[Minimum Window Substring](/string/Minimum_Window_Substring.md)|2018.2.25|
 |125|[Valid Palindrome](/string/Valid_Palindrome.md)|2017.11.3|
 |151|[Reverse Words in a String](/string/Reverse_Words_in_a_String.md)|2017.11.3|
 |165|[Compare Version Numbers](/string/Compare_Version_Numbers.md)|2017.11.3|
@@ -557,3 +559,7 @@ n&=n-1
 |-|[785. Is Graph Bipartite?](/contest/Is_Graph_Bipartite%3F.md)|2018.2.18|Stack|
 |-|[787. Cheapest Flights Within K Stops](/contest/Cheapest_Flights_Within_K_Stops.md)|2018.2.18|Heap, Breadth-first Search|
 |-|[786. K-th Smallest Prime Fraction](/contest/K-th_Smallest_Prime_Fraction.md)|2018.2.18|Heap, Binary Search|
+|Weekly Contest 73|[788. Rotated Digits](/contest/Rotated_Digits.md)|2018.2.25|
+|-|[789. Escape The Ghosts](/contest/Escape_The_Ghosts.md)|2018.2.25|
+|791|[Custom Sort String](/contest/Custom_Sort_String.md)|2018.2.25|
+|790|[Domino and Tromino Tiling](/contest/Domino_and_Tromino_Tiling.md)|2018.2.25|
