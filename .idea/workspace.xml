@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/Minimum_Window_Subsequence.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Custom_Sort_String.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Domino_and_Tromino_Tiling.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Escape_The_Ghosts.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Rotated_Digits.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/Minimum_Window_Substring.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/Interleaving_String.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order/Range_Sum_Query-Mutable.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order/Range_Sum_Query_2D-Mutable.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DynamicProgramming/Longest_Increasing_Subsequence.md" afterPath="$PROJECT_DIR$/DynamicProgramming/Longest_Increasing_Subsequence.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DynamicProgramming/Number_of_Longest_Increasing_Subsequence.md" afterPath="$PROJECT_DIR$/DynamicProgramming/Number_of_Longest_Increasing_Subsequence.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DynamicProgramming/Range_Sum_Query_2D_Immutable.md" afterPath="$PROJECT_DIR$/DynamicProgramming/Range_Sum_Query_2D_Immutable.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DynamicProgramming/Range_Sum_Query_Immutable.md" afterPath="$PROJECT_DIR$/DynamicProgramming/Range_Sum_Query_Immutable.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,38 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="398">
-                <caret line="564" column="31" lean-forward="false" selection-start-line="564" selection-start-column="31" selection-end-line="564" selection-end-column="31" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Domino_and_Tromino_Tiling.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/contest/Domino_and_Tromino_Tiling.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="188">
-                <caret line="55" column="49" lean-forward="false" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Custom_Sort_String.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contest/Custom_Sort_String.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <first_editor relative-caret-position="338">
+                <caret line="564" column="71" lean-forward="true" selection-start-line="564" selection-start-column="71" selection-end-line="564" selection-end-column="71" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -104,11 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/divide_and_conquer/Count_of_Range_Sum.md" />
-        <option value="$PROJECT_DIR$/divide_and_conquer/Reverse_Pairs.md" />
-        <option value="$PROJECT_DIR$/divide_and_conquer/Count_of_Smaller_Numbers_After_Self.md" />
-        <option value="$PROJECT_DIR$/divide_and_conquer/Median_of_Two_Sorted_Arrays.md" />
-        <option value="$PROJECT_DIR$/divide_and_conquer/Merge_k_Sorted_Lists.md" />
         <option value="$PROJECT_DIR$/order/3Sum_Smaller.md" />
         <option value="$PROJECT_DIR$/order/Palindrome_Permutation.md" />
         <option value="$PROJECT_DIR$/order/Palindrome_Permutation_II.md" />
@@ -153,8 +119,13 @@
         <option value="$PROJECT_DIR$/contest/Rotated_Digits.md" />
         <option value="$PROJECT_DIR$/contest/Escape_The_Ghosts.md" />
         <option value="$PROJECT_DIR$/contest/Custom_Sort_String.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/contest/Domino_and_Tromino_Tiling.md" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/Range_Sum_Query_Immutable.md" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/Range_Sum_Query_2D_Immutable.md" />
+        <option value="$PROJECT_DIR$/order/Range_Sum_Query-Mutable.md" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/Interleaving_String.md" />
+        <option value="$PROJECT_DIR$/order/Range_Sum_Query_2D-Mutable.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -209,13 +180,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="contest" />
+              <option name="myItemId" value="order" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -230,6 +200,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -529,12 +500,13 @@
       <workItem from="1519374862466" duration="599000" />
       <workItem from="1519432224199" duration="1172000" />
       <workItem from="1519438521966" duration="296000" />
-      <workItem from="1519591240918" duration="3481000" />
+      <workItem from="1519591240918" duration="3523000" />
+      <workItem from="1519691890586" duration="3267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="346365000" />
+    <option name="totallyTimeSpent" value="349674000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -546,7 +518,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13423352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -602,56 +574,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/divide_and_conquer/Merge_k_Sorted_Lists.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/divide_and_conquer/Median_of_Two_Sorted_Arrays.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order/Palindrome_Permutation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order/Palindrome_Permutation_II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order/Closest_Binary_Search_Tree_Value.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="683">
-            <caret line="55" column="67" lean-forward="true" selection-start-line="55" selection-start-column="67" selection-end-line="55" selection-end-column="67" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/order/Closest_Binary_Search_Tree_Value_II.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1028,7 +950,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1039,7 +960,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="188">
             <caret line="74" column="26" lean-forward="true" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1050,7 +970,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="660">
             <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1061,7 +980,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
             <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1072,7 +990,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1083,7 +1000,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1094,6 +1010,70 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
             <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/Domino_and_Tromino_Tiling.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Range_Sum_Query_Immutable.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="326">
+            <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Range_Sum_Query_2D_Immutable.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-552">
+            <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/Range_Sum_Query-Mutable.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="419">
+            <caret line="53" column="4" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Interleaving_String.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="188">
+            <caret line="47" column="41" lean-forward="false" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/Range_Sum_Query_2D-Mutable.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1103,19 +1083,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="398">
-            <caret line="564" column="31" lean-forward="false" selection-start-line="564" selection-start-column="31" selection-end-line="564" selection-end-column="31" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/Domino_and_Tromino_Tiling.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="188">
-            <caret line="55" column="49" lean-forward="false" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
+          <first_editor relative-caret-position="338">
+            <caret line="564" column="71" lean-forward="true" selection-start-line="564" selection-start-column="71" selection-end-line="564" selection-end-column="71" />
             <folding />
           </first_editor>
           <second_editor />

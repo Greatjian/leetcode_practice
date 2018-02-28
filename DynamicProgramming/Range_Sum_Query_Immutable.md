@@ -15,7 +15,7 @@ There are many calls to sumRange function.
 
 ## Method:
 
-time limit exceeded:
+二刷preSum:
 
     class NumArray(object):
     
@@ -23,74 +23,17 @@ time limit exceeded:
             """
             :type nums: List[int]
             """
-            self.nums=nums
-    
-        def sumRange(self, i, j):
-            """
-            :type i: int
-            :type j: int
-            :rtype: int
-            """
-            s=0
-            while i<j:
-                s+=self.nums[i]
-            return s
-    
-    
-    # Your NumArray object will be instantiated and called as such:
-    # obj = NumArray(nums)
-    # param_1 = obj.sumRange(i,j)
-    
-慢：
-
-    class NumArray(object):
-    
-        def __init__(self, nums):
-            """
-            :type nums: List[int]
-            """
-            self.sum=[0]*(len(nums)+1)
-            for i in range(len(nums)):
-                self.sum[i+1]=self.sum[i]+nums[i]
-    
-        def sumRange(self, i, j):
-            """
-            :type i: int
-            :type j: int
-            :rtype: int
-            """
-            return self.sum[j+1]-self.sum[i]
+            self.preSum=[0]
+            for num in nums:
+                self.preSum.append(self.preSum[-1]+num)
             
-    
-    
-    # Your NumArray object will be instantiated and called as such:
-    # obj = NumArray(nums)
-    # param_1 = obj.sumRange(i,j)
-    
-## Solution:
-遍历求和计算部分在init内完成，可减少每次调用函数所需时间。
-
-最后做差可以增加一空间：
-
-    class NumArray(object):
-    
-        def __init__(self, nums):
-            """
-            :type nums: List[int]
-            """
-            self.sum=[0]*(len(nums)+1)
-            for i in range(len(nums)):
-                self.sum[i+1]=self.sum[i]+nums[i]
-    
         def sumRange(self, i, j):
             """
             :type i: int
             :type j: int
             :rtype: int
             """
-            return self.sum[j+1]-self.sum[i]
-            
-    
+            return self.preSum[j+1]-self.preSum[i]
     
     # Your NumArray object will be instantiated and called as such:
     # obj = NumArray(nums)
