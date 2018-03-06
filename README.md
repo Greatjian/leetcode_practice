@@ -564,5 +564,9 @@ n&=n-1
 |-|[786. K-th Smallest Prime Fraction](/contest/K-th_Smallest_Prime_Fraction.md)|2018.2.18|Heap, Binary Search|
 |Weekly Contest 73|[788. Rotated Digits](/contest/Rotated_Digits.md)|2018.2.25|
 |-|[789. Escape The Ghosts](/contest/Escape_The_Ghosts.md)|2018.2.25|
-|791|[Custom Sort String](/contest/Custom_Sort_String.md)|2018.2.25|
-|790|[Domino and Tromino Tiling](/contest/Domino_and_Tromino_Tiling.md)|2018.2.25|
+|-|[791. Custom Sort String](/contest/Custom_Sort_String.md)|2018.2.25|
+|-|[790. Domino and Tromino Tiling](/contest/Domino_and_Tromino_Tiling.md)|2018.2.25|
+|Weekly Contest 74|[794. Valid Tic-Tac-Toe State](/contest/Valid_Tic-Tac-Toe_State.md)|2018.3.6|Math, Recursion|
+|-|[792. Number of Matching Subsequences](/contest/Number_of_Matching_Subsequences.md)|2018.3.6|Array|
+|-|[795. Number of Subarrays with Bounded Maximum](/contest/Number_of_Subarrays_with_Bounded_Maximum.md)|2018.3.6|Array|
+|-|[793. Preimage Size of Factorial Zeroes Function](/contest/Preimage_Size_of_Factorial_Zeroes_Function.md)|2018.3.6|Binary Search|
