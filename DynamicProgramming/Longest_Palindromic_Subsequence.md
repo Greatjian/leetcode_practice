@@ -52,6 +52,7 @@ dfs超时：
                 self.dfs(path+[s[i]], s[:i]+s[i+1:])
                 
 ## Solution:
+
 dp，注意i,j次序，确保dp[0][l-1]最后被更新：
 
     class Solution(object):
@@ -71,7 +72,7 @@ dp，注意i,j次序，确保dp[0][l-1]最后被更新：
                         dp[i][j]=max(dp[i+1][j],dp[i][j-1])
             return dp[0][l-1]
 
-将dp改为一维数组，ndp不断更新下一轮：
+将dp改为一维数组，cur不断更新下一轮：
 
     class Solution(object):
         def longestPalindromeSubseq(self, s):
@@ -81,14 +82,14 @@ dp，注意i,j次序，确保dp[0][l-1]最后被更新：
             """
             l=len(s)
             dp=[0]*l
-            for i in range(l-1,-1,-1):
-                ndp=dp[:]
-                ndp[i]=1
-                for j in range(i+1,l):
+            for i in range(l-1, -1, -1):
+                cur=[0]*l
+                cur[i]=1
+                for j in range(i+1, l):
                     if s[i]==s[j]:
-                        ndp[j]=2+dp[j-1]
+                        cur[j]=dp[j-1]+2
                     else:
-                        ndp[j]=max(dp[j],ndp[j-1])
-                dp=ndp
-            return dp[l-1]
+                        cur[j]=max(dp[j], cur[j-1])
+                dp=cur
+            return dp[-1]
             

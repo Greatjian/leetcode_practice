@@ -570,3 +570,7 @@ n&=n-1
 |-|[792. Number of Matching Subsequences](/contest/Number_of_Matching_Subsequences.md)|2018.3.6|Array|
 |-|[795. Number of Subarrays with Bounded Maximum](/contest/Number_of_Subarrays_with_Bounded_Maximum.md)|2018.3.6|Array|
 |-|[793. Preimage Size of Factorial Zeroes Function](/contest/Preimage_Size_of_Factorial_Zeroes_Function.md)|2018.3.6|Binary Search|
+|Weekly Contest 75|[796. Rotate String](/contest/Rotate_String.md)|2018.3.12|
+|-|[797. All Paths From Source to Target](/contest/All_Paths_From_Source_to_Target.md)|2018.3.12|
+|-|[799. Champagne Tower](/contest/Champagne_Tower.md)|2018.3.12|
+|-|[798. Smallest Rotation with Highest Score](/contest/Smallest_Rotation_with_Highest_Score.md)|2018.3.12|
