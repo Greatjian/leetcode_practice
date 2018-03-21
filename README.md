@@ -574,3 +574,6 @@ n&=n-1
 |-|[797. All Paths From Source to Target](/contest/All_Paths_From_Source_to_Target.md)|2018.3.12|
 |-|[799. Champagne Tower](/contest/Champagne_Tower.md)|2018.3.12|
 |-|[798. Smallest Rotation with Highest Score](/contest/Smallest_Rotation_with_Highest_Score.md)|2018.3.12|
+|Weekly Contest 76|[800. Similar RGB Color](/contest/Similar_RGB_Color.md)|2018.3.19|String, Math|
+|-|[801. Minimum Swaps To Make Sequences Increasing](/contest/Minimum_Swaps_To_Make_Sequences_Increasing.md)|2018.3.19|Dynamic Programming|
+|-|[802. Find Eventual Safe States](/contest/Find_Eventual_Safe_States.md)|2018.3.19|Depth-first Search, Graph|
