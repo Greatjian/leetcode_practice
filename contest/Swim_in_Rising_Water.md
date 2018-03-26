@@ -108,7 +108,7 @@ tle2:
 
 O(n^2logn):
 
-min-heap:
+Dijkstra's algorithm:
 
     class Solution(object):
         def swimInWater(self, grid):
@@ -119,16 +119,17 @@ min-heap:
             m, n=len(grid), len(grid[0])
             hp=[[grid[0][0], 0, 0]]
             res=-1
-            s=set([(0, 0)])
+            s=set()
             while hp:
                 v, i, j=heapq.heappop(hp)
                 res=max(res, v)
                 if i==m-1 and j==n-1:
                     return res
-                for di, dj in [[-1, 0], [1, 0], [0, -1], [0, 1]]:
-                    if 0<=i+di<m and 0<=j+dj<n and (i+di, j+dj) not in s:
-                        s.add((i+di, j+dj))
-                        heapq.heappush(hp, [grid[i+di][j+dj], i+di, j+dj])
+                if (i, j) not in s:
+                    s.add((i, j))
+                    for di, dj in [[-1, 0], [1, 0], [0, -1], [0, 1]]:
+                        if 0<=i+di<m and 0<=j+dj<n:
+                            heapq.heappush(hp, [grid[i+di][j+dj], i+di, j+dj])
                         
 bfs/dfs(faster)+binary search:
 

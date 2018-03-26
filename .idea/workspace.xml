@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Find_Eventual_Safe_States.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Minimum_Swaps_To_Make_Sequences_Increasing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Similar_RGB_Color.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order/Number_of_Connected_Components_in_an_Undirected_Graph.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/Array_Partition_I.md" afterPath="$PROJECT_DIR$/array/Array_Partition_I.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/container_with_most_water.md" afterPath="$PROJECT_DIR$/array/container_with_most_water.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/two_sum.md" afterPath="$PROJECT_DIR$/array/two_sum.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contest/Swim_in_Rising_Water.md" afterPath="$PROJECT_DIR$/contest/Swim_in_Rising_Water.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,12 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="393">
-                <caret line="578" column="3" lean-forward="false" selection-start-line="578" selection-start-column="3" selection-end-line="578" selection-end-column="3" />
+              <first_editor relative-caret-position="15">
+                <caret line="540" column="184" lean-forward="false" selection-start-line="540" selection-start-column="184" selection-end-line="540" selection-end-column="184" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -38,12 +40,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Find_Eventual_Safe_States.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contest/Find_Eventual_Safe_States.md">
+      <file leaf-file-name="Swim_in_Rising_Water.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contest/Swim_in_Rising_Water.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <first_editor relative-caret-position="434">
+                <caret line="119" column="35" lean-forward="true" selection-start-line="119" selection-start-column="35" selection-end-line="119" selection-end-column="35" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Number_of_Connected_Components_in_an_Undirected_Graph.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order/Number_of_Connected_Components_in_an_Undirected_Graph.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -86,11 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/divide_and_conquer/Largest_Rectangle_in_Histogram.md" />
-        <option value="$PROJECT_DIR$/order/Maximal_Rectangle.md" />
-        <option value="$PROJECT_DIR$/order/Edit_Distance.md" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/Perfect_Squares.md" />
-        <option value="$PROJECT_DIR$/array/Unique_Paths.md" />
         <option value="$PROJECT_DIR$/array/Sort_Colors.md" />
         <option value="$PROJECT_DIR$/order/Distinct_Subsequences.md" />
         <option value="$PROJECT_DIR$/contest/Letter_Case_Permutation.md" />
@@ -136,7 +146,12 @@
         <option value="$PROJECT_DIR$/contest/Similar_RGB_Color.md" />
         <option value="$PROJECT_DIR$/contest/Minimum_Swaps_To_Make_Sequences_Increasing.md" />
         <option value="$PROJECT_DIR$/contest/Find_Eventual_Safe_States.md" />
+        <option value="$PROJECT_DIR$/array/two_sum.md" />
+        <option value="$PROJECT_DIR$/array/container_with_most_water.md" />
+        <option value="$PROJECT_DIR$/array/Array_Partition_I.md" />
+        <option value="$PROJECT_DIR$/order/Number_of_Connected_Components_in_an_Undirected_Graph.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/contest/Swim_in_Rising_Water.md" />
       </list>
     </option>
   </component>
@@ -516,12 +531,15 @@
       <workItem from="1520315836151" duration="1990000" />
       <workItem from="1520421596991" duration="333000" />
       <workItem from="1520858243779" duration="900000" />
-      <workItem from="1521464532702" duration="2041000" />
+      <workItem from="1521464532702" duration="2185000" />
+      <workItem from="1521619997487" duration="1450000" />
+      <workItem from="1521727793389" duration="872000" />
+      <workItem from="1522041369645" duration="72000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="355008000" />
+    <option name="totallyTimeSpent" value="357546000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -534,7 +552,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13423352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -544,7 +561,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10696921" sideWeight="0.49722" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10696921" sideWeight="0.49722" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -589,56 +606,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Unique_Substrings_in_Wraparound_String.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/Unique_Paths.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="406">
-            <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/Sort_Colors.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="457">
-            <caret line="79" column="25" lean-forward="false" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order/Distinct_Subsequences.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/Letter_Case_Permutation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contest/Is_Graph_Bipartite?.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1065,7 +1032,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
             <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1076,7 +1042,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
             <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1086,7 +1051,47 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
-            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/two_sum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="900">
+            <caret line="60" column="8" lean-forward="false" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/container_with_most_water.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="900">
+            <caret line="60" column="1" lean-forward="false" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/Array_Partition_I.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="660">
+            <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/Number_of_Connected_Components_in_an_Undirected_Graph.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1096,8 +1101,19 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="393">
-            <caret line="578" column="3" lean-forward="false" selection-start-line="578" selection-start-column="3" selection-end-line="578" selection-end-column="3" />
+          <first_editor relative-caret-position="15">
+            <caret line="540" column="184" lean-forward="false" selection-start-line="540" selection-start-column="184" selection-end-line="540" selection-end-column="184" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/Swim_in_Rising_Water.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="434">
+            <caret line="119" column="35" lean-forward="true" selection-start-line="119" selection-start-column="35" selection-end-line="119" selection-end-column="35" />
             <folding />
           </first_editor>
           <second_editor />

@@ -19,7 +19,6 @@ first try:
 
 ```
 class Solution(object):
-class Solution(object):
     def twoSum(self, nums, target):
         """
         :type nums: List[int]
@@ -53,12 +52,11 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        hash = {}
-        #循环nums数值，并添加映射
+        d={}
         for i in range(len(nums)):
-            if target - nums[i] in hash:
-                return [hash[target - nums[i]], i]
-            hash[nums[i]] = i
-        #无解的情况
-        return [-1, -1]      
+            if target-nums[i] in d:
+                return [d[target-nums[i]], i]
+            d[nums[i]]=i
+        return [-1, -1]
+             
 ```

@@ -538,6 +538,7 @@ n&=n-1
 |719|[Find K-th Smallest Pair Distance](/order/Find_K-th_Smallest_Pair_Distance.md)|2018.2.18|Binary Search, Heap|
 |307|[Range Sum Query - Mutable](/order/Range_Sum_Query-Mutable.md)|2018.2.26|Binary Indexed Tree|
 |308|[Range Sum Query 2D - Mutable](/order/Range_Sum_Query_2D-Mutable.md)|2018.2.27|Binary Indexed Tree|
+|323|[Number of Connected Components in an Undirected Graph](/order/Number_of_Connected_Components_in_an_Undirected_Graph.md)|2018.3.22|Breadth-first Search, Depth-first Search, Graph|
 
 ## Leetcode Contest
 

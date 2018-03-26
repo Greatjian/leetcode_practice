@@ -29,6 +29,32 @@ Note:
             for i in range(0,len(nums)-1,2):
                 ans+=nums[i]
             return ans
-或者  
+or: 
 
-            return sum(sorted(nums)[::2])
+            nums.sort()
+            return sum(nums[i] for i in range(0, len(nums)-1, 2))
+            
+counting sort when elements are in certain ranges:
+
+    class Solution(object):
+        def arrayPairSum(self, nums):
+            """
+            :type nums: List[int]
+            :rtype: int
+            """
+            cnt=[0]*20001
+            for i in range(len(nums)):
+                cnt[nums[i]+10000]+=1
+            res, flag=0, 0
+            i=0
+            while i<len(cnt):
+                if cnt[i]>0 and flag==0:
+                    res+=i-10000
+                    cnt[i]-=1
+                    flag=1
+                elif cnt[i]>0 and flag==1:
+                    cnt[i]-=1
+                    flag=0
+                else:
+                    i+=1
+            return res
