@@ -578,3 +578,7 @@ n&=n-1
 |Weekly Contest 76|[800. Similar RGB Color](/contest/Similar_RGB_Color.md)|2018.3.19|String, Math|
 |-|[801. Minimum Swaps To Make Sequences Increasing](/contest/Minimum_Swaps_To_Make_Sequences_Increasing.md)|2018.3.19|Dynamic Programming|
 |-|[802. Find Eventual Safe States](/contest/Find_Eventual_Safe_States.md)|2018.3.19|Depth-first Search, Graph|
+|Weekly Contest 77|[804. Unique Morse Code Words](/contest/Unique_Morse_Code_Words.md)|2018.3.26|
+|-|[806. Number of Lines To Write String](/contest/Number_of_Lines_To_Write_String.md)|2018.3.26|
+|-|[807. Max Increase to Keep City Skyline](/contest/Max_Increase_to_Keep_City_Skyline.md)|2018.3.26|
+|-|[805. Split Array With Same Average](/contest/Split_Array_With_Same_Average.md)|2018.3.26|
