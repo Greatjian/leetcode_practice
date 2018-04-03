@@ -49,6 +49,8 @@ set(zip(*board)), set(map(tuple, board))
 |035|[Search Insert Position](array/Search_Insert_Position.md)|2017.07.18|
 |039|[Combination Sum](/array/Combination_Sum.md)|2017.07.19|
 |040|[Combination Sum II](/array/Combination_Sum_II.md)|2017.07.19|
+|041|[First Missing Positive](/array/First_Missing_Positive.md)|2018.3.27|
+|042|[Trapping Rain Water](/array/Trapping_Rain_Water.md)|2018.3.27|
 |048|[Rotate Image](/array/Rotate_Image.md)|2017.07.20|
 |053|[Maximum Subarray](/array/Maximum_Subarray.md)|2017.07.20|
 |054|[Spiral Matrix](/array/Spiral_Matrix.md)|2017.07.20|
@@ -73,6 +75,7 @@ set(zip(*board)), set(map(tuple, board))
 |120|[Triangle](/array/Triangle.md)|2017.07.26|
 |121|[Best Time to Buy and Sell Stock](/array/Best_Time_to_Buy_and_Sell_Stock.md)|2017.07.26|
 |122|[Best Time to Buy and Sell Stock II](/array/Best_Time_to_Buy_and_Sell_Stock_II.md)|2017.07.26|
+|128|[Longest Consecutive Sequence](/array/Longest_Consecutive%20_Sequence.md)|2018.3.27|
 |152|[Maximum Product Subarray](/array/Maximum_Product_Subarray.md)|2017.07.26|
 |153|[Find Minimum in Rotated Sorted Array](/array/Find_Minimum_in_Rotated_Sorted_Array.md)|2017.07.26|
 |162|[Find Peak Element](/array/Find_Peak_Element.md)|2017.07.27|
@@ -117,6 +120,7 @@ set(zip(*board)), set(map(tuple, board))
 |:---:|:---:|:---:|
 |017|[Letter Combinations of a Phone Number](/backtracking/Letter_Combinations_of_a_Phone_Number.md)|2017.8.9|
 |022|[Generate Parentheses](/backtracking/Generate_Parentheses.md)|2017.8.9|
+|051|[N-Queens](/backtracking/N-Queens.md)|2018.3.27|
 |060|[Permutation Sequence](/backtracking/Permutation_Sequence.md)|2017.8.10|
 |077|[Combinations](/backtracking/Combinations.md)|2017.8.10|
 |089|[Gray Code](/backtracking/Gray_Code.md)|2017.8.10|
@@ -582,3 +586,7 @@ n&=n-1
 |-|[806. Number of Lines To Write String](/contest/Number_of_Lines_To_Write_String.md)|2018.3.26|
 |-|[807. Max Increase to Keep City Skyline](/contest/Max_Increase_to_Keep_City_Skyline.md)|2018.3.26|
 |-|[805. Split Array With Same Average](/contest/Split_Array_With_Same_Average.md)|2018.3.26|
+|Weekly Contest 78|[811. Subdomain Visit Count](/contest/Subdomain_Visit_Count.md)|2018.4.3|String|
+|-|[809. Expressive Words](/contest/Expressive_Words.md)|2018.4.3|String|
+|-|[808. Soup Servings](/contest/Soup_Servings.md)|2018.4.3|Dynamic Programming|
+|-|[810. Chalkboard XOR Game](/contest/Chalkboard_XOR_Game.md)|2018.4.3|Math|
