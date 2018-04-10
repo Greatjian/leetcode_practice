@@ -348,6 +348,7 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 |718|[Maximum Length of Repeated Subarray](/hash/Maximum_Length_of_Repeated_Subarray.md)|2017.11.28|
 |720|[Longest Word in Dictionary](/hash/Longest_Word_in_Dictionary.md)|2017.11.29|
 |734|[Sentence Similarity](/hash/Sentence_Similarity.md)|2017.11.30|
+|760|[Find Anagram Mappings](/hash/Find_Anagram_Mappings.md)|2018.4.4|
 
 ## Math
 
@@ -543,6 +544,9 @@ n&=n-1
 |307|[Range Sum Query - Mutable](/order/Range_Sum_Query-Mutable.md)|2018.2.26|Binary Indexed Tree|
 |308|[Range Sum Query 2D - Mutable](/order/Range_Sum_Query_2D-Mutable.md)|2018.2.27|Binary Indexed Tree|
 |323|[Number of Connected Components in an Undirected Graph](/order/Number_of_Connected_Components_in_an_Undirected_Graph.md)|2018.3.22|Breadth-first Search, Depth-first Search, Graph|
+|292|[Nim Game](/order/Nim_Game.md)|2018.4.4|Brainteaser|
+|461|[Hamming Distance](/order/Hamming_Distance.md)|2018.4.4|Bit Manipulation|
+|477|[Total Hamming Distance](/order/Total_Hamming_Distance.md)|2018.4.4|Bit Manipulation|
 
 ## Leetcode Contest
 
@@ -590,3 +594,7 @@ n&=n-1
 |-|[809. Expressive Words](/contest/Expressive_Words.md)|2018.4.3|String|
 |-|[808. Soup Servings](/contest/Soup_Servings.md)|2018.4.3|Dynamic Programming|
 |-|[810. Chalkboard XOR Game](/contest/Chalkboard_XOR_Game.md)|2018.4.3|Math|
+|Weekly Contest 79|[812. Largest Triangle Area](/contest/Largest_Triangle_Area.md)|2018.4.9|Math|
+|-|[814. Binary Tree Pruning](/contest/Binary_Tree_Pruning.md)|2018.4.9|Tree|
+|-|[813. Largest Sum of Averages](/contest/Largest_Sum_of_Averages.md)|2018.4.9|Dynamic Programming|
+|-|[815. Bus Routes](/contest/Bus_Routes.md)|2018.4.9|Breadth-first Search|
