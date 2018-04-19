@@ -113,6 +113,7 @@ set(zip(*board)), set(map(tuple, board))
 |644|[Maximum Average Subarray II](/array/Maximum_Average_Subarray_II.md)|2018.2.23|
 |697|[Degree of an Array](/array/Degree_of_an_Array.md)|2018.1.15|
 |717|[1-bit and 2-bit Characters](/array/1-bit_and_2-bit_Characters.md)|2017.12.13|
+|724|[Find Pivot Index](/array/Find_Pivot_Index.md)|2018.4.10|
 
 ## Backtracking
 
@@ -598,3 +599,7 @@ n&=n-1
 |-|[814. Binary Tree Pruning](/contest/Binary_Tree_Pruning.md)|2018.4.9|Tree|
 |-|[813. Largest Sum of Averages](/contest/Largest_Sum_of_Averages.md)|2018.4.9|Dynamic Programming|
 |-|[815. Bus Routes](/contest/Bus_Routes.md)|2018.4.9|Breadth-first Search|
+|Weekly Contest 80|[819. Most Common Word](/contest/Most_Common_Word.md)|2018.4.18|String|
+|-|[817. Linked List Components](/contest/Linked_List_Components.md)|2018.4.18|Linked List|
+|-|[816. Ambiguous Coordinates](/contest/Ambiguous_Coordinates.md)|2018.4.18|String|
+|-|[818. Race Car](/contest/Race_Car.md)|2018.4.18|Dynamic Programming|
