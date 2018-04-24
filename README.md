@@ -603,3 +603,7 @@ n&=n-1
 |-|[817. Linked List Components](/contest/Linked_List_Components.md)|2018.4.18|Linked List|
 |-|[816. Ambiguous Coordinates](/contest/Ambiguous_Coordinates.md)|2018.4.18|String|
 |-|[818. Race Car](/contest/Race_Car.md)|2018.4.18|Dynamic Programming|
+|Weekly Contest 81|[821. Shortest Distance to a Character](/contest/Shortest_Distance_to_a_Character.md)|2018.4.24|
+|-|[822. Card Flipping Game](/contest/Card_Flipping_Game.md)|2018.4.24|
+|-|[820. Short Encoding of Words](/contest/Short_Encoding_of_Words.md)|2018.4.24|
+|-|[823. Binary Trees With Factors](/contest/Binary_Trees_With_Factors.md)|2018.4.24|
