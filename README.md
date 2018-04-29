@@ -607,3 +607,7 @@ n&=n-1
 |-|[822. Card Flipping Game](/contest/Card_Flipping_Game.md)|2018.4.24|
 |-|[820. Short Encoding of Words](/contest/Short_Encoding_of_Words.md)|2018.4.24|
 |-|[823. Binary Trees With Factors](/contest/Binary_Trees_With_Factors.md)|2018.4.24|
+|Weekly Contest 82|[824. Goat Latin](/contest/Goat_Latin.md)|2018.4.28|
+|-|[825. Friends Of Appropriate Ages](/contest/Friends_Of_Appropriate_Ages.md)|2018.4.28|
+|-|[826. Most Profit Assigning Work](/contest/Most_Profit_Assigning_Work.md)|2018.4.28|
+|-|[827. Making A Large Island](/contest/Making_A_Large_Island.md)|2018.4.28|
