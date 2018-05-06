@@ -117,38 +117,44 @@ another idea, calculate the grid only once, O(n^2):
             
 ## Solution:
 
-grid[][]: index
+grid[][]: id
 area: {index: area}
 
     class Solution(object):
         def largestIsland(self, grid):
-            N = len(grid)
-    
-            def neighbors(r, c):
-                for nr, nc in ((r-1, c), (r+1, c), (r, c-1), (r, c+1)):
-                    if 0 <= nr < N and 0 <= nc < N:
-                        yield nr, nc
-    
-            def dfs(r, c, index):
-                ans = 1
-                grid[r][c] = index
-                for nr, nc in neighbors(r, c):
-                    if grid[nr][nc] == 1:
-                        ans += dfs(nr, nc, index)
+            """
+            :type grid: List[List[int]]
+            :rtype: int
+            """
+            m, n=len(grid), len(grid[0])
+            area=collections.defaultdict(int)
+            
+            def dfs(i, j, id):
+                ans=1
+                grid[i][j]=id
+                for nx, ny in neighbor(i, j):
+                    if grid[nx][ny]==1:
+                        ans+=dfs(nx, ny, id)
                 return ans
-    
-            area = {}
-            index = 2
-            for r in xrange(N):
-                for c in xrange(N):
-                    if grid[r][c] == 1:
-                        area[index] = dfs(r, c, index)
-                        index += 1
-    
-            ans = max(area.values() or [0])
-            for r in xrange(N):
-                for c in xrange(N):
-                    if grid[r][c] == 0:
-                        seen = {grid[nr][nc] for nr, nc in neighbors(r, c) if grid[nr][nc] > 1}
-                        ans = max(ans, 1 + sum(area[i] for i in seen))
-            return ans
+            
+            def neighbor(i, j):
+                res=[]
+                for di, dj in [[1,0],[-1,0],[0,1],[0,-1]]:
+                    if 0<=i+di<m and 0<=j+dj<n:
+                        res.append((i+di, j+dj))
+                return res
+            
+            id=2
+            for i in range(m):
+                for j in range(n):
+                    if grid[i][j]==1:
+                        area[id]=dfs(i, j, id)
+                        id+=1
+            
+            res=0
+            for i in range(m):
+                for j in range(n):
+                    if grid[i][j]==0:
+                        s=set(grid[x][y] for x, y in neighbor(i, j))
+                        res=max(res, 1+sum(area[k] for k in s))
+            return res if res!=0 else m*n

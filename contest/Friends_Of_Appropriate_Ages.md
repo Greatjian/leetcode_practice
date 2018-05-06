@@ -59,6 +59,8 @@ rangeSum -> preSum:
             
 ## Solution:
 
+space:
+
     class Solution(object):
         def numFriendRequests(self, ages):
             """
@@ -74,4 +76,25 @@ rangeSum -> preSum:
                     cnt+=dp[i]*dp[j]
                     if i==j:
                         cnt-=dp[j]
+            return cnt
+            
+use pointers to save space, O(logn):
+
+    class Solution(object):
+        def numFriendRequests(self, ages):
+            """
+            :type ages: List[int]
+            :rtype: int
+            """
+            cnt=0
+            ages.sort()
+            i, j=0, 0
+            while i<len(ages):
+                k=i+1
+                while k<len(ages) and ages[k]==ages[i]:
+                    k+=1
+                while j<len(ages) and ages[j]<=ages[i]/2+7:
+                    j+=1
+                cnt+=(k-i)*max(k-j-1, 0)
+                i=k
             return cnt

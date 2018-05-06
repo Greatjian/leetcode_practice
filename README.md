@@ -554,27 +554,27 @@ n&=n-1
 |Number|Name|Date|Topics|
 |:---:|:---:|:---:|:---:|
 |Weekly Contest 68|[766. Toeplitz Matrix](/contest/Toeplitz_Matrix.md)|2018.1.21|Array|
-|-|[767. Reorganize String](/contest/Reorganize_String.md)|2018.1.21|String, Heap, Greedy, Sort|
-|-|[769. Max Chunks To Make Sorted](/contest/Max_Chunks_To_Make_Sorted.md)|2018.1.21|Array|
+|Rank: 471/2592|[767. Reorganize String](/contest/Reorganize_String.md)|2018.1.21|String, Heap, Greedy, Sort|
+|Rating: 1763|[769. Max Chunks To Make Sorted](/contest/Max_Chunks_To_Make_Sorted.md)|2018.1.21|Array|
 |-|[768. Max Chunks To Make Sorted II](/contest/Max_Chunks_To_Make_Sorted_II.md)|2018.1.21|Array|
 |Weekly Contest 69|[771. Jewels and Stones](/contest/Jewels_and_Stones.md)|2018.1.28|Hash Table|
 |-|[775. Global and Local Inversions](/contest/Global_and_Local_Inversions.md)|2018.1.28|Array, Math|
 |-|[773. Sliding Puzzle](/contest/Sliding_Puzzle.md)|2018.1.28|Breadth-first Search|
 |Weekly Contest 70|[779. K-th Symbol in Grammar](/contest/K-th_Symbol_in_Grammar.md)|2018.2.4|Recursion|
-|-|[777. Swap Adjacent in LR String](/order/Swap_Nodes_in_Pairs.md)|2018.2.4|Brainteaser|
-|-|[776. Split BST](/contest/Split_BST.md)|2018.2.4|Binary Search Tree|
+|Rank: 249/2555|[777. Swap Adjacent in LR String](/order/Swap_Nodes_in_Pairs.md)|2018.2.4|Brainteaser|
+|Rating: 1856|[776. Split BST](/contest/Split_BST.md)|2018.2.4|Binary Search Tree|
 |-|[778. Swim in Rising Water](/contest/Swim_in_Rising_Water.md)|2018.2.4|Binary Search, Heap, Depth-first Search|
 |Weekly Contest 71|[783. Minimum Distance Between BST Nodes](/contest/Minimum_Distance_Between_BST_Nodes.md)|2018.2.10|Binary Search Tree|
-|-|[781. Rabbits in Forest](/contest/Rabbits_in_Forest.md)|2018.2.10|
-|-|[780. Reaching Points](/contest/Reaching_Points.md)|2018.2.10|
+|Rank: 383/2475|[781. Rabbits in Forest](/contest/Rabbits_in_Forest.md)|2018.2.10|
+|Rating: 1885|[780. Reaching Points](/contest/Reaching_Points.md)|2018.2.10|
 |-|[782. Transform to Chessboard](/contest/Transform_to_Chessboard.md)|2018.2.10|
 |Weekly Contest 72|[784. Letter Case Permutation](/contest/Letter_Case_Permutation.md)|2018.2.18|Backtracking|
-|-|[785. Is Graph Bipartite?](/contest/Is_Graph_Bipartite%3F.md)|2018.2.18|Stack|
-|-|[787. Cheapest Flights Within K Stops](/contest/Cheapest_Flights_Within_K_Stops.md)|2018.2.18|Heap, Breadth-first Search|
+|Rank: 302/2382|[785. Is Graph Bipartite?](/contest/Is_Graph_Bipartite%3F.md)|2018.2.18|Stack|
+|Rating: 1908|[787. Cheapest Flights Within K Stops](/contest/Cheapest_Flights_Within_K_Stops.md)|2018.2.18|Heap, Breadth-first Search|
 |-|[786. K-th Smallest Prime Fraction](/contest/K-th_Smallest_Prime_Fraction.md)|2018.2.18|Heap, Binary Search|
 |Weekly Contest 73|[788. Rotated Digits](/contest/Rotated_Digits.md)|2018.2.25|
-|-|[789. Escape The Ghosts](/contest/Escape_The_Ghosts.md)|2018.2.25|
-|-|[791. Custom Sort String](/contest/Custom_Sort_String.md)|2018.2.25|
+|Rank: 102/2533|[789. Escape The Ghosts](/contest/Escape_The_Ghosts.md)|2018.2.25|
+|Rating: 1946|[791. Custom Sort String](/contest/Custom_Sort_String.md)|2018.2.25|
 |-|[790. Domino and Tromino Tiling](/contest/Domino_and_Tromino_Tiling.md)|2018.2.25|
 |Weekly Contest 74|[794. Valid Tic-Tac-Toe State](/contest/Valid_Tic-Tac-Toe_State.md)|2018.3.6|Math, Recursion|
 |-|[792. Number of Matching Subsequences](/contest/Number_of_Matching_Subsequences.md)|2018.3.6|Array|
@@ -596,18 +596,22 @@ n&=n-1
 |-|[808. Soup Servings](/contest/Soup_Servings.md)|2018.4.3|Dynamic Programming|
 |-|[810. Chalkboard XOR Game](/contest/Chalkboard_XOR_Game.md)|2018.4.3|Math|
 |Weekly Contest 79|[812. Largest Triangle Area](/contest/Largest_Triangle_Area.md)|2018.4.9|Math|
-|-|[814. Binary Tree Pruning](/contest/Binary_Tree_Pruning.md)|2018.4.9|Tree|
-|-|[813. Largest Sum of Averages](/contest/Largest_Sum_of_Averages.md)|2018.4.9|Dynamic Programming|
+|Rank: 525/2485|[814. Binary Tree Pruning](/contest/Binary_Tree_Pruning.md)|2018.4.9|Tree|
+|Rating: 1944|[813. Largest Sum of Averages](/contest/Largest_Sum_of_Averages.md)|2018.4.9|Dynamic Programming|
 |-|[815. Bus Routes](/contest/Bus_Routes.md)|2018.4.9|Breadth-first Search|
 |Weekly Contest 80|[819. Most Common Word](/contest/Most_Common_Word.md)|2018.4.18|String|
-|-|[817. Linked List Components](/contest/Linked_List_Components.md)|2018.4.18|Linked List|
-|-|[816. Ambiguous Coordinates](/contest/Ambiguous_Coordinates.md)|2018.4.18|String|
+|Rank: 142/2570|[817. Linked List Components](/contest/Linked_List_Components.md)|2018.4.18|Linked List|
+|Rating: 1969|[816. Ambiguous Coordinates](/contest/Ambiguous_Coordinates.md)|2018.4.18|String|
 |-|[818. Race Car](/contest/Race_Car.md)|2018.4.18|Dynamic Programming|
 |Weekly Contest 81|[821. Shortest Distance to a Character](/contest/Shortest_Distance_to_a_Character.md)|2018.4.24|
-|-|[822. Card Flipping Game](/contest/Card_Flipping_Game.md)|2018.4.24|
-|-|[820. Short Encoding of Words](/contest/Short_Encoding_of_Words.md)|2018.4.24|
+|Rank: 271/2797|[822. Card Flipping Game](/contest/Card_Flipping_Game.md)|2018.4.24|
+|Rating: 1982|[820. Short Encoding of Words](/contest/Short_Encoding_of_Words.md)|2018.4.24|
 |-|[823. Binary Trees With Factors](/contest/Binary_Trees_With_Factors.md)|2018.4.24|
 |Weekly Contest 82|[824. Goat Latin](/contest/Goat_Latin.md)|2018.4.28|
-|-|[825. Friends Of Appropriate Ages](/contest/Friends_Of_Appropriate_Ages.md)|2018.4.28|
-|-|[826. Most Profit Assigning Work](/contest/Most_Profit_Assigning_Work.md)|2018.4.28|
+|Rank: 194/2564|[825. Friends Of Appropriate Ages](/contest/Friends_Of_Appropriate_Ages.md)|2018.4.28|
+|Rating: 1996|[826. Most Profit Assigning Work](/contest/Most_Profit_Assigning_Work.md)|2018.4.28|
 |-|[827. Making A Large Island](/contest/Making_A_Large_Island.md)|2018.4.28|
+|Weekly Contest 83|[830. Positions of Large Groups](/contest/Positions_of_Large_Groups.md)|2018.5.6|Array|
+|Rank: 178/2744|[831. Masking Personal Information](/contest/Masking_Personal_Information.md)|2018.5.6|String|
+|-|[829. Consecutive Numbers Sum](/contest/Consecutive_Numbers_Sum.md)|2018.5.6|Math|
+|-|[828. Unique Letter String](/contest/Unique_Letter_String.md)|2018.5.6|Two Pointers|
