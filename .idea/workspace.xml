@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Consecutive_Numbers_Sum.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Masking_Personal_Information.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Positions_of_Large_Groups.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Unique_Letter_String.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/Min_Cost_Climbing_Stairs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order/First_Unique_Character_in_a_String.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order/Partition_Labels.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order/Queue_Reconstruction_by_Height.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order/Remove_Duplicate_Letters.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contest/Friends_Of_Appropriate_Ages.md" afterPath="$PROJECT_DIR$/contest/Friends_Of_Appropriate_Ages.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contest/Making_A_Large_Island.md" afterPath="$PROJECT_DIR$/contest/Making_A_Large_Island.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="383">
-                <caret line="616" column="6" lean-forward="true" selection-start-line="616" selection-start-column="6" selection-end-line="616" selection-end-column="6" />
+              <first_editor relative-caret-position="397">
+                <caret line="620" column="13" lean-forward="false" selection-start-line="620" selection-start-column="13" selection-end-line="620" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -63,11 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/contest/Rotate_String.md" />
-        <option value="$PROJECT_DIR$/contest/All_Paths_From_Source_to_Target.md" />
-        <option value="$PROJECT_DIR$/contest/Champagne_Tower.md" />
-        <option value="$PROJECT_DIR$/contest/Smallest_Rotation_with_Highest_Score.md" />
-        <option value="$PROJECT_DIR$/contest/Similar_RGB_Color.md" />
         <option value="$PROJECT_DIR$/contest/Minimum_Swaps_To_Make_Sequences_Increasing.md" />
         <option value="$PROJECT_DIR$/contest/Find_Eventual_Safe_States.md" />
         <option value="$PROJECT_DIR$/array/two_sum.md" />
@@ -113,6 +107,11 @@
         <option value="$PROJECT_DIR$/contest/Masking_Personal_Information.md" />
         <option value="$PROJECT_DIR$/contest/Consecutive_Numbers_Sum.md" />
         <option value="$PROJECT_DIR$/contest/Unique_Letter_String.md" />
+        <option value="$PROJECT_DIR$/order/Partition_Labels.md" />
+        <option value="$PROJECT_DIR$/order/First_Unique_Character_in_a_String.md" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/Min_Cost_Climbing_Stairs.md" />
+        <option value="$PROJECT_DIR$/order/Queue_Reconstruction_by_Height.md" />
+        <option value="$PROJECT_DIR$/order/Remove_Duplicate_Letters.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -158,23 +157,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -189,6 +173,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -512,12 +497,14 @@
       <workItem from="1524604834978" duration="623000" />
       <workItem from="1524978356580" duration="1890000" />
       <workItem from="1525128362583" duration="676000" />
-      <workItem from="1525643883564" duration="1821000" />
+      <workItem from="1525643883564" duration="1861000" />
+      <workItem from="1525741274698" duration="3055000" />
+      <workItem from="1525800938891" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="375410000" />
+    <option name="totallyTimeSpent" value="378566000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -585,56 +572,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/contest/All_Paths_From_Source_to_Target.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/Champagne_Tower.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/Smallest_Rotation_with_Highest_Score.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="173">
-            <caret line="59" column="4" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/Similar_RGB_Color.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/Minimum_Swaps_To_Make_Sequences_Increasing.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contest/Find_Eventual_Safe_States.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1040,7 +977,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="275">
             <caret line="150" column="46" lean-forward="true" selection-start-line="150" selection-start-column="46" selection-end-line="150" selection-end-column="46" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1051,7 +987,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1062,7 +997,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1073,7 +1007,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="30" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1084,7 +1017,56 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="165">
             <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/Partition_Labels.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/First_Unique_Character_in_a_String.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/Min_Cost_Climbing_Stairs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/Queue_Reconstruction_by_Height.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/Remove_Duplicate_Letters.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
@@ -1093,8 +1075,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="383">
-            <caret line="616" column="6" lean-forward="true" selection-start-line="616" selection-start-column="6" selection-end-line="616" selection-end-column="6" />
+          <first_editor relative-caret-position="397">
+            <caret line="620" column="13" lean-forward="false" selection-start-line="620" selection-start-column="13" selection-end-line="620" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />

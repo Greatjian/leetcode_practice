@@ -175,6 +175,7 @@ set(zip(*board)), set(map(tuple, board))
 |650|[2 Keys Keyboard](/DynamicProgramming/2_Keys_Keyboard.md)|2017.9.29|
 |673|[Number of Longest Increasing Subsequence](/DynamicProgramming/Number_of_Longest_Increasing_Subsequence.md)|2017.9.30|
 |727|[Minimum Window Subsequence](/DynamicProgramming/Minimum_Window_Subsequence.md)|2018.2.25|
+|746|[Min Cost Climbing Stairs](/DynamicProgramming/Min_Cost_Climbing_Stairs.md)|2018.5.7|
 
 ## Tree
 
@@ -548,6 +549,10 @@ n&=n-1
 |292|[Nim Game](/order/Nim_Game.md)|2018.4.4|Brainteaser|
 |461|[Hamming Distance](/order/Hamming_Distance.md)|2018.4.4|Bit Manipulation|
 |477|[Total Hamming Distance](/order/Total_Hamming_Distance.md)|2018.4.4|Bit Manipulation|
+|763|[Partition Labels](/order/Partition_Labels.md)|2018.5.7|Two Pointers, Greedy|
+|387|[First Unique Character in a String](/order/First_Unique_Character_in_a_String.md)|2018.5.7|Hash Table, String|
+|406|[Queue Reconstruction by Height](/order/Queue_Reconstruction_by_Height.md)|2018.5.7|Greedy|
+|316|[Remove Duplicate Letters](/order/Remove_Duplicate_Letters.md)|2018.5.7|Stack, Greedy|
 
 ## Leetcode Contest
 
@@ -613,5 +618,5 @@ n&=n-1
 |-|[827. Making A Large Island](/contest/Making_A_Large_Island.md)|2018.4.28|
 |Weekly Contest 83|[830. Positions of Large Groups](/contest/Positions_of_Large_Groups.md)|2018.5.6|Array|
 |Rank: 178/2744|[831. Masking Personal Information](/contest/Masking_Personal_Information.md)|2018.5.6|String|
-|-|[829. Consecutive Numbers Sum](/contest/Consecutive_Numbers_Sum.md)|2018.5.6|Math|
+|Rating: 2010|[829. Consecutive Numbers Sum](/contest/Consecutive_Numbers_Sum.md)|2018.5.6|Math|
 |-|[828. Unique Letter String](/contest/Unique_Letter_String.md)|2018.5.6|Two Pointers|
