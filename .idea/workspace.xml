@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98613f8d-b477-41dd-9142-eb54a2e6f279" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/Min_Cost_Climbing_Stairs.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order/First_Unique_Character_in_a_String.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order/Partition_Labels.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order/Queue_Reconstruction_by_Height.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order/Remove_Duplicate_Letters.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Find_And_Replace_in_String.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Flipping_an_Image.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Image_Overlap.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contest/Sum_of_Distances_in_Tree.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -31,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="397">
-                <caret line="620" column="13" lean-forward="false" selection-start-line="620" selection-start-column="13" selection-end-line="620" selection-end-column="13" />
+              <first_editor relative-caret-position="383">
+                <caret line="625" column="3" lean-forward="false" selection-start-line="625" selection-start-column="3" selection-end-line="625" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -62,10 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/contest/Minimum_Swaps_To_Make_Sequences_Increasing.md" />
-        <option value="$PROJECT_DIR$/contest/Find_Eventual_Safe_States.md" />
-        <option value="$PROJECT_DIR$/array/two_sum.md" />
-        <option value="$PROJECT_DIR$/array/container_with_most_water.md" />
         <option value="$PROJECT_DIR$/array/Array_Partition_I.md" />
         <option value="$PROJECT_DIR$/order/Number_of_Connected_Components_in_an_Undirected_Graph.md" />
         <option value="$PROJECT_DIR$/contest/Swim_in_Rising_Water.md" />
@@ -112,6 +107,10 @@
         <option value="$PROJECT_DIR$/DynamicProgramming/Min_Cost_Climbing_Stairs.md" />
         <option value="$PROJECT_DIR$/order/Queue_Reconstruction_by_Height.md" />
         <option value="$PROJECT_DIR$/order/Remove_Duplicate_Letters.md" />
+        <option value="$PROJECT_DIR$/contest/Flipping_an_Image.md" />
+        <option value="$PROJECT_DIR$/contest/Find_And_Replace_in_String.md" />
+        <option value="$PROJECT_DIR$/contest/Image_Overlap.md" />
+        <option value="$PROJECT_DIR$/contest/Sum_of_Distances_in_Tree.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -145,20 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -173,7 +159,34 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -499,12 +512,13 @@
       <workItem from="1525128362583" duration="676000" />
       <workItem from="1525643883564" duration="1861000" />
       <workItem from="1525741274698" duration="3055000" />
-      <workItem from="1525800938891" duration="61000" />
+      <workItem from="1525800938891" duration="248000" />
+      <workItem from="1526256728985" duration="1126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="378566000" />
+    <option name="totallyTimeSpent" value="379879000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -572,46 +586,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/contest/Find_Eventual_Safe_States.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/two_sum.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="900">
-            <caret line="60" column="8" lean-forward="false" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/container_with_most_water.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="900">
-            <caret line="60" column="1" lean-forward="false" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/Array_Partition_I.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="660">
-            <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contest/Swim_in_Rising_Water.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1072,11 +1046,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/contest/Flipping_an_Image.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/Find_And_Replace_in_String.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-37">
+            <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/Image_Overlap.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/Sum_of_Distances_in_Tree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="397">
-            <caret line="620" column="13" lean-forward="false" selection-start-line="620" selection-start-column="13" selection-end-line="620" selection-end-column="13" />
+          <first_editor relative-caret-position="383">
+            <caret line="625" column="3" lean-forward="false" selection-start-line="625" selection-start-column="3" selection-end-line="625" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
