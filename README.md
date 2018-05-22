@@ -33,6 +33,7 @@ My harvests for each practice are summarized [here](/summary.md).
 set(zip(*board)), set(map(tuple, board))
 ```
 - contiguous subarray: preSum
+- sum of same length: sliding window 
 
 |Number|Name|Date|
 |:---:|:---:|:---:|
@@ -121,6 +122,7 @@ set(zip(*board)), set(map(tuple, board))
 |:---:|:---:|:---:|
 |017|[Letter Combinations of a Phone Number](/backtracking/Letter_Combinations_of_a_Phone_Number.md)|2017.8.9|
 |022|[Generate Parentheses](/backtracking/Generate_Parentheses.md)|2017.8.9|
+|037|[Sudoku Solver](/backtracking/Sudoku_Solver.md)|2018.5.15|
 |051|[N-Queens](/backtracking/N-Queens.md)|2018.3.27|
 |060|[Permutation Sequence](/backtracking/Permutation_Sequence.md)|2017.8.10|
 |077|[Combinations](/backtracking/Combinations.md)|2017.8.10|
@@ -313,6 +315,7 @@ sorted(d.keys(), key=lambda i: (-d[i], i))[:k]
 
 |Number|Name|Date|
 |:---:|:---:|:---:|
+|030|[Substring with Concatenation of All Words](/hash/Substring_with_Concatenation_of_All_Words.md)|2018.5.15|
 |036|[Valid Sudoku](hash/Valid_Sudoku.md)|2017.11.19|
 |136|[Single Number](/hash/Single_Number.md)|2017.11.19|
 |138|[Copy List with Random Pointer](/hash/Copy_List_with_Random_Pointer.md)|2017.11.19|
@@ -624,3 +627,7 @@ n&=n-1
 |-|[833. Find And Replace in String](/contest/Find_And_Replace_in_String.md)|2018.5.13|
 |-|[835. Image Overlap](/contest/Image_Overlap.md)|2018.5.13|
 |-|[834. Sum of Distances in Tree](/contest/Sum_of_Distances_in_Tree.md)|2018.5.13|
+|Weekly Contest 85|[836. Rectangle Overlap](/contest/Rectangle_Overlap.md)|2018.5.21|Math|
+|-|[838. Push Dominoes](/contest/Push_Dominoes.md)|2018.5.21|Two Pointers, Dynamic Programming|
+|-|[837. New 21 Game](/contest/New_21_Game.md)|2018.5.21|Dynamic Programming|
+|-|[839. Similar String Groups](/contest/Similar_String_Groups.md)|2018.5.21|Graph, Union Find|
