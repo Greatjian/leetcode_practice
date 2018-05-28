@@ -631,3 +631,7 @@ n&=n-1
 |-|[838. Push Dominoes](/contest/Push_Dominoes.md)|2018.5.21|Two Pointers, Dynamic Programming|
 |-|[837. New 21 Game](/contest/New_21_Game.md)|2018.5.21|Dynamic Programming|
 |-|[839. Similar String Groups](/contest/Similar_String_Groups.md)|2018.5.21|Graph, Union Find|
+|Weekly Contest 86|[840. Magic Squares In Grid](/contest/Magic_Squares_In_Grid.md)|2018.5.28|Array|
+|-|[841. Keys and Rooms](/contest/Keys_and_Rooms.md)|2018.5.28|Depth-first Search, Graph|
+|-|[842. Split Array into Fibonacci Sequence](/contest/Split_Array_into_Fibonacci_Sequence.md)|2018.5.28|String, Greedy|
+|-|[843. Guess the Word](/contest/Guess_the_Word.md)|2018.5.28|Minimax|
