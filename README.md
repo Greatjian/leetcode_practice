@@ -568,6 +568,7 @@ n&=n-1
 |Weekly Contest 69|[771. Jewels and Stones](/contest/Jewels_and_Stones.md)|2018.1.28|Hash Table|
 |-|[775. Global and Local Inversions](/contest/Global_and_Local_Inversions.md)|2018.1.28|Array, Math|
 |-|[773. Sliding Puzzle](/contest/Sliding_Puzzle.md)|2018.1.28|Breadth-first Search|
+|-|[774. Minimize Max Distance to Gas Station](/contest/Minimize_Max_Distance_to_Gas_Station.md)|2018.1.28|Binary Search|
 |Weekly Contest 70|[779. K-th Symbol in Grammar](/contest/K-th_Symbol_in_Grammar.md)|2018.2.4|Recursion|
 |-|[777. Swap Adjacent in LR String](/order/Swap_Nodes_in_Pairs.md)|2018.2.4|Brainteaser|
 |-|[776. Split BST](/contest/Split_BST.md)|2018.2.4|Binary Search Tree|
@@ -635,3 +636,7 @@ n&=n-1
 |-|[841. Keys and Rooms](/contest/Keys_and_Rooms.md)|2018.5.28|Depth-first Search, Graph|
 |-|[842. Split Array into Fibonacci Sequence](/contest/Split_Array_into_Fibonacci_Sequence.md)|2018.5.28|String, Greedy|
 |-|[843. Guess the Word](/contest/Guess_the_Word.md)|2018.5.28|Minimax|
+|Weekly Contest 87|[844. Backspace String Compare](/contest/Backspace_String_Compare.md)|2018.6.2|Two Pointers, Stack|
+|-|[845. Longest Mountain in Array](/contest/Longest_Mountain_in_Array.md)|2018.6.2|Two Pointers|
+|-|[846. Hand of Straights](/contest/Hand_of_Straights.md)|2018.6.2|Hash Table|
+|-|[847. Shortest Path Visiting All Nodes](/contest/Shortest_Path_Visiting_All_Nodes.md)|2018.6.2|Dynamic Programming, Breadth-first Search|
