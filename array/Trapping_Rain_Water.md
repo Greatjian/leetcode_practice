@@ -29,3 +29,24 @@ two pointers:
                     area+=maxRight-height[right]
                     right-=1
             return area
+            
+dp (easier to understand):
+
+    class Solution(object):
+        def trap(self, height):
+            """
+            :type height: List[int]
+            :rtype: int
+            """
+            l=len(height)
+            maxLeft=maxRight=float('-inf')
+            left, right=[0]*l, [0]*l
+            for i in range(l):
+                if height[i]>maxLeft:
+                    maxLeft=height[i]
+                left[i]=maxLeft
+            for i in range(l-1, -1, -1):
+                if height[i]>maxRight:
+                    maxRight=height[i]
+                right[i]=maxRight
+            return sum(min(left[i], right[i])-height[i] for i in range(l))

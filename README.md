@@ -1,15 +1,21 @@
 # LeetCode Practice
 
 This is where I save and share my [LeetCode](https://leetcode.com/) practice works. 
-First step of being a coder.
+First step of being a software engineer.
 
-The practice is listed based on different topics. 
-The order of appearances is from easy to medium
-(I'll try to get rid of hard problems in the end). 
-It's also listed chronologically.
+The practice is listed based on different topics. I start from easy to medium, finally trying to 
+get rid of the hard problems. The problems in each topic are listed in numerical order.
 
-Python is used for each answer. Final solution is taken from [九章算法](http://www.jiuzhang.com/solution/) and [书影博客](http://bookshadow.com/leetcode/),
-the codes from which are laconic and inspiring. Highly recommended:)
+I use python to solve each answer. As the saying goes:
+
+> Life is short. you need python.
+
+You can see my attempts in the `Method` section, as well as final solution in the `Solution` part.
+Final solutions are mostly inspired from the discussion forum in the LeetCode platform, with small
+modifications based my understanding coding style. 
+
+I think self-implementation is as important as coming up with great ideas for each problem. Therefore it's highly recommended
+to write your own version of solutions instead of simply copying the codes. Coding style is another part to pay attention to :)
 
 My harvests for each practice are summarized [here](/summary.md).
 
@@ -248,6 +254,8 @@ set(zip(*board)), set(map(tuple, board))
 ''.join(s)
 s.split()
 map(str/int/function, iterable)
+ord(), chr()
+string.upper()/lower()
 zip()/zipped(*)
 any()/all()
 sorted(iterable, key=len/lambda..., reverse=True)
@@ -640,3 +648,7 @@ n&=n-1
 |-|[845. Longest Mountain in Array](/contest/Longest_Mountain_in_Array.md)|2018.6.2|Two Pointers|
 |-|[846. Hand of Straights](/contest/Hand_of_Straights.md)|2018.6.2|Hash Table|
 |-|[847. Shortest Path Visiting All Nodes](/contest/Shortest_Path_Visiting_All_Nodes.md)|2018.6.2|Dynamic Programming, Breadth-first Search|
+|Weekly Contest 88|[848. Shifting Letters](/contest/Shifting_Letters.md)|2018.6.2|String|
+|-|[849. Maximize Distance to Closest Person](/contest/Maximize_Distance_to_Closest_Person.md)|2018.6.2|Array|
+|-|[851. Loud and Rich](/contest/Loud_and_Rich.md)|2018.6.2|Depth-first Search|
+|-|[850. Rectangle Area II](/contest/Rectangle_Area_II.md)|2018.6.2|Segment Tree|
