@@ -1,21 +1,22 @@
 # LeetCode Practice
 
-This is where I save and share my [LeetCode](https://leetcode.com/) practice works. 
-First step of being a software engineer.
+This is the repository to record and share my [LeetCode](https://leetcode.com/) practice. 
+It's the first step for me to become a software engineer.
 
 The practice is listed based on different topics. I start from easy to medium, finally trying to 
 get rid of the hard problems. The problems in each topic are listed in numerical order.
 
-I use python to solve each answer. As the saying goes:
+I use python to solve each answer. As the popular saying goes:
 
-> Life is short. you need python.
+> Life is short, you need python.
 
-You can see my attempts in the `Method` section, as well as final solution in the `Solution` part.
-Final solutions are mostly inspired from the discussion forum in the LeetCode platform, with small
-modifications based my understanding coding style. 
+You can see my attempts for each problem in the `Method` section, as well as the final solution in `Solution` part.
+Final solutions are mostly inspired from the discussion at LeetCode platform, with small
+modifications based on my understanding and coding style. 
 
-I think self-implementation is as important as coming up with great ideas for each problem. Therefore it's highly recommended
-to write your own version of solutions instead of simply copying the codes. Coding style is another part to pay attention to :)
+I believe self-implementation is as important as coming up with great ideas in terms of solving a problem. 
+Therefore it's highly recommended to write your own version of solutions instead of simply copying the codes. 
+Coding style is another essential part to focus on :)
 
 My harvests for each practice are summarized [here](/summary.md).
 
