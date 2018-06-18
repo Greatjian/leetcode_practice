@@ -563,6 +563,7 @@ n&=n-1
 |477|[Total Hamming Distance](/order/Total_Hamming_Distance.md)|2018.4.4|Bit Manipulation|
 |763|[Partition Labels](/order/Partition_Labels.md)|2018.5.7|Two Pointers, Greedy|
 |387|[First Unique Character in a String](/order/First_Unique_Character_in_a_String.md)|2018.5.7|Hash Table, String|
+|402|[Remove K Digits](/order/Remove_K_Digits.md)|2018.6.17|Stack, Greedy|
 |406|[Queue Reconstruction by Height](/order/Queue_Reconstruction_by_Height.md)|2018.5.7|Greedy|
 |316|[Remove Duplicate Letters](/order/Remove_Duplicate_Letters.md)|2018.5.7|Stack, Greedy|
 
@@ -649,7 +650,11 @@ n&=n-1
 |-|[845. Longest Mountain in Array](/contest/Longest_Mountain_in_Array.md)|2018.6.2|Two Pointers|
 |-|[846. Hand of Straights](/contest/Hand_of_Straights.md)|2018.6.2|Hash Table|
 |-|[847. Shortest Path Visiting All Nodes](/contest/Shortest_Path_Visiting_All_Nodes.md)|2018.6.2|Dynamic Programming, Breadth-first Search|
-|Weekly Contest 88|[848. Shifting Letters](/contest/Shifting_Letters.md)|2018.6.2|String|
-|-|[849. Maximize Distance to Closest Person](/contest/Maximize_Distance_to_Closest_Person.md)|2018.6.2|Array|
-|-|[851. Loud and Rich](/contest/Loud_and_Rich.md)|2018.6.2|Depth-first Search|
-|-|[850. Rectangle Area II](/contest/Rectangle_Area_II.md)|2018.6.2|Segment Tree|
+|Weekly Contest 88|[848. Shifting Letters](/contest/Shifting_Letters.md)|2018.6.10|String|
+|-|[849. Maximize Distance to Closest Person](/contest/Maximize_Distance_to_Closest_Person.md)|2018.6.10|Array|
+|-|[851. Loud and Rich](/contest/Loud_and_Rich.md)|2018.6.10|Depth-first Search|
+|-|[850. Rectangle Area II](/contest/Rectangle_Area_II.md)|2018.6.10|Segment Tree|
+|Weekly Contest 89|[852. Peak Index in a Mountain Array](/contest/Peak_Index_in_a_Mountain_Array.md)|2018.6.17|Binary Search|
+|-|[853. Car Fleet](/contest/Car_Fleet.md)|2018.6.17|Stack|
+|-|[855. Exam Room](/contest/Exam_Room.md)|2018.6.17|Map|
+|-|[854. K-Similar Strings](/contest/K-Similar_Strings.md)|2018.6.17|Breadth-first Search, Graph|
