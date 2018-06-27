@@ -658,3 +658,7 @@ n&=n-1
 |-|[853. Car Fleet](/contest/Car_Fleet.md)|2018.6.17|Stack|
 |-|[855. Exam Room](/contest/Exam_Room.md)|2018.6.17|Map|
 |-|[854. K-Similar Strings](/contest/K-Similar_Strings.md)|2018.6.17|Breadth-first Search, Graph|
+|Weekly Contest 90|[859. Buddy Strings](/contest/Buddy_Strings.md)|2018.6.27|String|
+|-|[856. Score of Parentheses](/contest/Score_of_Parentheses.md)|2018.6.27|String, Stack|
+|-|[858. Mirror Reflection](/contest/Mirror_Reflection.md)|2018.6.27|Math|
+|-|[857. Minimum Cost to Hire K Workers](/contest/Minimum_Cost_to_Hire_K_Workers.md)|2018.6.27|Heap|
