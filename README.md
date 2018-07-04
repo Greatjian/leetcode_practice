@@ -662,3 +662,7 @@ n&=n-1
 |-|[856. Score of Parentheses](/contest/Score_of_Parentheses.md)|2018.6.27|String, Stack|
 |-|[858. Mirror Reflection](/contest/Mirror_Reflection.md)|2018.6.27|Math|
 |-|[857. Minimum Cost to Hire K Workers](/contest/Minimum_Cost_to_Hire_K_Workers.md)|2018.6.27|Heap|
+|Weekly Contest 91|[860. Lemonade Change](/contest/Lemonade_Change.md)|2018.7.3|Greedy|
+|-|[863. All Nodes Distance K in Binary Tree](/contest/All_Nodes_Distance_K_in_Binary_Tree.md)|2018.7.3|Tree, Depth-first Search, Breadth-first Search|
+|-|[861. Score After Flipping Matrix](/contest/Score_After_Flipping_Matrix.md)|2018.7.3|Greedy|
+|-|[862. Shortest Subarray with Sum at Least K](/contest/Shortest_Subarray_with_Sum_at_Least_K.md)|2018.7.3|Deque|

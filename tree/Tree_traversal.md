@@ -3,9 +3,11 @@
 ## Iterative
 
 Using stack:
+
 - preorder(olr)
 - inorder(lor)
 - postorder(lro)
+
 
 
     # Definition for a binary tree node.
