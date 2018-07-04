@@ -8,6 +8,7 @@ Using stack:
 - inorder(lor)
 - postorder(lro)
 
+code:
 
 
     # Definition for a binary tree node.

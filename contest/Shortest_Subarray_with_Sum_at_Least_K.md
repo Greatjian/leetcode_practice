@@ -92,6 +92,8 @@ one pass using deque:
 - i<j, preSum[i]>preSum[j], i is not optimal, pop from right
 - preSum[j]-preSum[i]>=k, compute the shortest distance j-i, then i is not optimal, pop from left
 
+code:
+
 
     class Solution(object):
         def shortestSubarray(self, A, K):
