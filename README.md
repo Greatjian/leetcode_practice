@@ -491,15 +491,20 @@ n&=n-1
 
 |Number|Name|Date|Topics|
 |:---:|:---:|:---:|:---:|
+|010|[Regular Expression Matching](/order/Regular_Expression_Matching.md)|2018.2.14|Dynamic Programming, String, Backtracking|
 |019|[Remove Nth Node From End of List](/order/Remove_Nth_Node_From_End_of_List.md)|2018.1.16|Linked List, Two Pointers|
 |021|[Merge Two Sorted Lists](/order/Merge_Two_Sorted_Lists.md)|2018.1.17|Linked List|
 |024|[Swap Nodes in Pairs](/order/Swap_Nodes_in_Pairs.md)|2018.1.17|Linked List|
 |061|[Rotate List](/order/Rotate_List.md)|2018.1.16|Linked List, Two Pointers|
+|072|[Edit Distance](/order/Edit_Distance.md)|2018.2.14|Dynamic Programming, String|
 |082|[Remove Duplicates from Sorted List II](/order/Remove_Duplicates_from_Sorted_List_II.md)|2018.1.19|Linked List|
 |083|[Remove Duplicates from Sorted List](/order/Remove_Duplicates_from_Sorted_List.md)|2018.1.19|Linked List|
+|085|[Maximal Rectangle](/order/Maximal_Rectangle.md)|2018.2.14|Dynamic Programming, Array, Hash Table, Stack|
 |086|[Partition List](/order/Partition_List.md)|2018.1.19|Linked List, Two Pointers|
 |*092|[Reverse Linked List II](/order/Reverse_Linked_List_II.md)|2018.1.19|Linked List|
 |109|[Convert Sorted List to Binary Search Tree](/order/Convert_Sorted_List_to_Binary_Search_Tree.md)|2018.1.20|Linked List, Depth-first Search|
+|115|[Distinct Subsequences](/order/Distinct_Subsequences.md)|2018.2.18|Dynamic Programming, String|
+|*126|[Word Ladder II](/order/Word_Ladder_II.md)|2018.2.3|Array, String, Backtracking, Breadth-first Search|
 |127|[Word Ladder](/order/Word_Ladder.md)|2018.1.20|Breadth-first Search|
 |130|[Surrounded Regions](/order/Surrounded_Regions.md)|2018.1.21|Breadth-first Search, Depth-first Search|
 |133|[Clone Graph](/order/Clone_Graph.md)|2018.1.21|Breadth-first Search, Depth-first Search, Graph|
@@ -507,7 +512,6 @@ n&=n-1
 |137|[Single Number II](/order/Single_Number_II.md)|2018.1.21|Bit Manipulation|
 |141|[Linked List Cycle](/order/Linked_List_Cycle.md)|2018.1.21|Linked List, Two Pointers|
 |142|[Linked List Cycle II](/order/Linked_List_Cycle_II.md)|2018.1.22|Linked List, Two Pointers|
-|206|[Reverse Linked List](/order/Remove_Duplicates_from_Sorted_List.md)|2018.1.22|Linked List|
 |143|[Reorder List](/order/Reorder_List.md)|2018.1.22|Linked List|
 |147|[Insertion Sort List](/order/Insertion_Sort_List.md)|2018.1.23|Linked List, Sort|
 |148|[Sort List](/order/Sort_List.md)|2018.1.23|Linked List, Sort|
@@ -523,6 +527,7 @@ n&=n-1
 |200|[Number of Islands](/order/Number_of_Islands.md)|2018.1.25|Breadth-first Search, Depth-first Search|
 |201|[Bitwise AND of Numbers Range](/order/Bitwise_AND_of_Numbers_Range.md)|2018.1.25|Bit Manipulation|
 |203|[Remove Linked List Elements](/order/Remove_Linked_List_Elements.md)|2018.1.25|Linked List|
+|206|[Reverse Linked List](/order/Remove_Duplicates_from_Sorted_List.md)|2018.1.22|Linked List|
 |207|[Course Schedule](/order/Course_Schedule.md)|2018.1.25|Breadth-first Search, Depth-first Search, Graph, Topological Sort|
 |210|[Course Schedule II](/order/Course_Schedule_II.md)|2018.1.26|Breadth-first Search, Depth-first Search, Graph, Topological Sort|
 |215|[Kth Largest Element in an Array](/order/Kth_Largest_Element_in_an_Array.md)|2018.1.27|Divide and Conquer, Heap|
@@ -542,30 +547,27 @@ n&=n-1
 |254|[Factor Combinations](/order/Factor_Combinations.md)|2018.2.1|Backtracking|
 |*255|[Verify Preorder Sequence in Binary Search Tree](/order/Verify_Preorder_Sequence_in_Binary_Search_Tree.md)|2018.2.2|Stack, Tree|
 |256|[Paint House](/order/Paint_House.md)|2018.2.2|Dynamic Programming|
-|265|[Paint House II](/order/Paint_House_II.md)|2018.2.2|Dynamic Programming|
-|*126|[Word Ladder II](/order/Word_Ladder_II.md)|2018.2.3|Array, String, Backtracking, Breadth-first Search|
 |259|[3Sum Smaller](/order/3Sum_Smaller.md)|2018.2.8|Array, Two Pointers|
+|265|[Paint House II](/order/Paint_House_II.md)|2018.2.2|Dynamic Programming|
 |266|[Palindrome Permutation](/order/Palindrome_Permutation.md)|2018.2.8|Hash Table|
 |267|[Palindrome Permutation II](/order/Palindrome_Permutation_II.md)|2018.2.8|Backtracking|
 |270|[Closest Binary Search Tree Value](/order/Closest_Binary_Search_Tree_Value.md)|2018.2.8|Binary Search, Tree|
 |272|[Closest Binary Search Tree Value II](/order/Closest_Binary_Search_Tree_Value_II.md)|2018.2.8|Stack, Tree|
-|010|[Regular Expression Matching](/order/Regular_Expression_Matching.md)|2018.2.14|Dynamic Programming, String, Backtracking|
-|085|[Maximal Rectangle](/order/Maximal_Rectangle.md)|2018.2.14|Dynamic Programming, Array, Hash Table, Stack|
-|072|[Edit Distance](/order/Edit_Distance.md)|2018.2.14|Dynamic Programming, String|
-|115|[Distinct Subsequences](/order/Distinct_Subsequences.md)|2018.2.18|Dynamic Programming, String|
-|378|[Kth Smallest Element in a Sorted Matrix](/order/Kth_Smallest_Element_in_a_Sorted_Matrix.md)|2018.2.18|Binary Search, Heap|
-|719|[Find K-th Smallest Pair Distance](/order/Find_K-th_Smallest_Pair_Distance.md)|2018.2.18|Binary Search, Heap|
+|292|[Nim Game](/order/Nim_Game.md)|2018.4.4|Brainteaser|
 |307|[Range Sum Query - Mutable](/order/Range_Sum_Query-Mutable.md)|2018.2.26|Binary Indexed Tree|
 |308|[Range Sum Query 2D - Mutable](/order/Range_Sum_Query_2D-Mutable.md)|2018.2.27|Binary Indexed Tree|
+|316|[Remove Duplicate Letters](/order/Remove_Duplicate_Letters.md)|2018.5.7|Stack, Greedy|
 |323|[Number of Connected Components in an Undirected Graph](/order/Number_of_Connected_Components_in_an_Undirected_Graph.md)|2018.3.22|Breadth-first Search, Depth-first Search, Graph|
-|292|[Nim Game](/order/Nim_Game.md)|2018.4.4|Brainteaser|
-|461|[Hamming Distance](/order/Hamming_Distance.md)|2018.4.4|Bit Manipulation|
-|477|[Total Hamming Distance](/order/Total_Hamming_Distance.md)|2018.4.4|Bit Manipulation|
-|763|[Partition Labels](/order/Partition_Labels.md)|2018.5.7|Two Pointers, Greedy|
+|378|[Kth Smallest Element in a Sorted Matrix](/order/Kth_Smallest_Element_in_a_Sorted_Matrix.md)|2018.2.18|Binary Search, Heap|
 |387|[First Unique Character in a String](/order/First_Unique_Character_in_a_String.md)|2018.5.7|Hash Table, String|
+|398|[Random Pick Index](/order/Random_Pick_Index.md)|2018.7.8|Reservoir Sampling|
 |402|[Remove K Digits](/order/Remove_K_Digits.md)|2018.6.17|Stack, Greedy|
 |406|[Queue Reconstruction by Height](/order/Queue_Reconstruction_by_Height.md)|2018.5.7|Greedy|
-|316|[Remove Duplicate Letters](/order/Remove_Duplicate_Letters.md)|2018.5.7|Stack, Greedy|
+|461|[Hamming Distance](/order/Hamming_Distance.md)|2018.4.4|Bit Manipulation|
+|477|[Total Hamming Distance](/order/Total_Hamming_Distance.md)|2018.4.4|Bit Manipulation|
+|719|[Find K-th Smallest Pair Distance](/order/Find_K-th_Smallest_Pair_Distance.md)|2018.2.18|Binary Search, Heap|
+|763|[Partition Labels](/order/Partition_Labels.md)|2018.5.7|Two Pointers, Greedy|
+|864|[Random Pick with Blacklist](/order/Random_Pick_with_Blacklist.md)|2018.7.8|Hash Table, Random|
 
 ## Leetcode Contest
 
@@ -666,3 +668,7 @@ n&=n-1
 |-|[863. All Nodes Distance K in Binary Tree](/contest/All_Nodes_Distance_K_in_Binary_Tree.md)|2018.7.3|Tree, Depth-first Search, Breadth-first Search|
 |-|[861. Score After Flipping Matrix](/contest/Score_After_Flipping_Matrix.md)|2018.7.3|Greedy|
 |-|[862. Shortest Subarray with Sum at Least K](/contest/Shortest_Subarray_with_Sum_at_Least_K.md)|2018.7.3|Deque|
+|Weekly Contest 92|[868. Transpose Matrix](/contest/Transpose_Matrix.md)|2018.7.8|Array|
+|-|[866. Smallest Subtree with all the Deepest Nodes](/contest/Smallest_Subtree_with_all_the_Deepest_Nodes.md)|2018.7.8|Tree|
+|-|[867. Prime Palindrome](/contest/Prime_Palindrome.md)|2018.7.8|Math|
+|-|[865. Shortest Path to Get All Keys](/contest/Shortest_Path_to_Get_All_Keys.md)|2018.7.8|Heap, Breadth-first Search|
