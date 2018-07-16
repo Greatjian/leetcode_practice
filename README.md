@@ -515,6 +515,7 @@ n&=n-1
 |143|[Reorder List](/order/Reorder_List.md)|2018.1.22|Linked List|
 |147|[Insertion Sort List](/order/Insertion_Sort_List.md)|2018.1.23|Linked List, Sort|
 |148|[Sort List](/order/Sort_List.md)|2018.1.23|Linked List, Sort|
+|149|[Max Points on a Line](/order/Max_Points_on_a_Line.md)|2018.7.16|Hash Table, Math|
 |150|[Evaluate Reverse Polish Notation](/order/Evaluate_Reverse_Polish_Notation.md)|2018.1.23|Stack|
 |*156|[Binary Tree Upside Down](/order/Binary_Tree_Upside_Down.md)|2018.1.23|Tree|
 |157|[Read N Characters Given Read4](/order/Read_N_Characters_Given_Read4.md)|2018.1.23|String|
@@ -558,6 +559,7 @@ n&=n-1
 |308|[Range Sum Query 2D - Mutable](/order/Range_Sum_Query_2D-Mutable.md)|2018.2.27|Binary Indexed Tree|
 |316|[Remove Duplicate Letters](/order/Remove_Duplicate_Letters.md)|2018.5.7|Stack, Greedy|
 |323|[Number of Connected Components in an Undirected Graph](/order/Number_of_Connected_Components_in_an_Undirected_Graph.md)|2018.3.22|Breadth-first Search, Depth-first Search, Graph|
+|356|[Line Reflection](/order/Line_Reflection.md)|2018.7.16|Hash Table, Math|
 |378|[Kth Smallest Element in a Sorted Matrix](/order/Kth_Smallest_Element_in_a_Sorted_Matrix.md)|2018.2.18|Binary Search, Heap|
 |387|[First Unique Character in a String](/order/First_Unique_Character_in_a_String.md)|2018.5.7|Hash Table, String|
 |398|[Random Pick Index](/order/Random_Pick_Index.md)|2018.7.8|Reservoir Sampling|
@@ -668,7 +670,11 @@ n&=n-1
 |-|[863. All Nodes Distance K in Binary Tree](/contest/All_Nodes_Distance_K_in_Binary_Tree.md)|2018.7.3|Tree, Depth-first Search, Breadth-first Search|
 |-|[861. Score After Flipping Matrix](/contest/Score_After_Flipping_Matrix.md)|2018.7.3|Greedy|
 |-|[862. Shortest Subarray with Sum at Least K](/contest/Shortest_Subarray_with_Sum_at_Least_K.md)|2018.7.3|Deque|
-|Weekly Contest 92|[868. Transpose Matrix](/contest/Transpose_Matrix.md)|2018.7.8|Array|
-|-|[866. Smallest Subtree with all the Deepest Nodes](/contest/Smallest_Subtree_with_all_the_Deepest_Nodes.md)|2018.7.8|Tree|
-|-|[867. Prime Palindrome](/contest/Prime_Palindrome.md)|2018.7.8|Math|
-|-|[865. Shortest Path to Get All Keys](/contest/Shortest_Path_to_Get_All_Keys.md)|2018.7.8|Heap, Breadth-first Search|
+|Weekly Contest 92|[867. Transpose Matrix](/contest/Transpose_Matrix.md)|2018.7.8|Array|
+|-|[865. Smallest Subtree with all the Deepest Nodes](/contest/Smallest_Subtree_with_all_the_Deepest_Nodes.md)|2018.7.8|Tree|
+|-|[866. Prime Palindrome](/contest/Prime_Palindrome.md)|2018.7.8|Math|
+|-|[864. Shortest Path to Get All Keys](/contest/Shortest_Path_to_Get_All_Keys.md)|2018.7.8|Heap, Breadth-first Search|
+|Weekly Contest 93|[868. Binary Gap](/contest/Binary_Gap.md)|2018.7.16|Math|
+|-|[869. Reordered Power of 2](/contest/Reordered_Power_of_2.md)|2018.7.16|Math|
+|-|[870. Advantage Shuffle](/contest/Advantage_Shuffle.md)|2018.7.16|Array, Greedy|
+|-|[871. Minimum Number of Refueling Stops](/contest/Minimum_Number_of_Refueling_Stops.md)|2018.7.16|Dynamic Programming, Heap|
