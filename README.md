@@ -39,6 +39,18 @@ My harvests for each practice are summarized [here](/summary.md).
 ```
 set(zip(*board)), set(map(tuple, board))
 ```
+
+- binary search:
+```
+lo, hi=0, len(nums)-1
+while lo<hi:
+    mid=(lo+hi)/2
+    if condition...:
+        lo=mid+1
+    else:
+        hi=mid
+return lo
+```
 - contiguous subarray: preSum
 - sum of same length: sliding window 
 
@@ -678,3 +690,7 @@ n&=n-1
 |-|[869. Reordered Power of 2](/contest/Reordered_Power_of_2.md)|2018.7.16|Math|
 |-|[870. Advantage Shuffle](/contest/Advantage_Shuffle.md)|2018.7.16|Array, Greedy|
 |-|[871. Minimum Number of Refueling Stops](/contest/Minimum_Number_of_Refueling_Stops.md)|2018.7.16|Dynamic Programming, Heap|
+|Weekly Contest 94|[872. Leaf-Similar Trees](/contest/Leaf-Similar_Trees.md)|2018.7.22|
+|-|[874. Walking Robot Simulation](/contest/Walking_Robot_Simulation.md)|2018.7.22|
+|-|[875. Koko Eating Bananas](/contest/Koko_Eating_Bananas.md)|2018.7.22|
+|-|[873. Length of Longest Fibonacci Subsequence](/contest/Length_of_Longest_Fibonacci_Subsequence.md)|2018.7.22|

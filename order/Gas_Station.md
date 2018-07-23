@@ -25,7 +25,7 @@ nice try, but wrong [3, -7, 2, -1, 3]:
             
 ## Solution:
 
-leftSum, curSum:
+greedy:
 
     class Solution(object):
         def canCompleteCircuit(self, gas, cost):
@@ -34,13 +34,32 @@ leftSum, curSum:
             :type cost: List[int]
             :rtype: int
             """
-            leftSum=0
-            curSum=0
+            extraCost, curGas=0, 0
             res=0
             for i in range(len(gas)):
-                curSum+=gas[i]-cost[i]
-                if curSum<0:
+                curGas+=gas[i]-cost[i]
+                if curGas<0:
                     res=i+1
-                    leftSum+=curSum
-                    curSum=0
-            return res if curSum+leftSum>=0 else -1
+                    extraCost+=curGas
+                    curGas=0
+            return res if curGas+extraCost>=0 else -1
+            
+two pointers:
+
+    class Solution(object):
+        def canCompleteCircuit(self, gas, cost):
+            """
+            :type gas: List[int]
+            :type cost: List[int]
+            :rtype: int
+            """
+            start, end = len(cost)-1, 0
+            s = gas[start]-cost[start]
+            while end < start:
+                if s>=0:
+                    s += gas[end]-cost[end]
+                    end += 1
+                else:
+                    start -= 1
+                    s += gas[start]-cost[start]
+            return start if s>=0 else -1
