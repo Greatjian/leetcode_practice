@@ -590,6 +590,7 @@ n&=n-1
 |503|[Next Greater Element II](/order/Next_Greater_Element_II.md)|2018.7.23|Stack|
 |505|[The Maze II](/order/The_Maze_II.md)|2018.7.23|Breadth-first Search, Depth-first Search|
 |684|[Redundant Connection](/order/Redundant_Connection.md)|2018.7.23|Union Find|
+|685|[Redundant Connection II](/order/Redundant_Connection_II.md)|2018.7.23|Union Find|
 |719|[Find K-th Smallest Pair Distance](/order/Find_K-th_Smallest_Pair_Distance.md)|2018.2.18|Binary Search, Heap|
 |753|[Cracking the Safe](/order/Cracking_the_Safe.md)|2018.7.23|Depth-first Search|
 |763|[Partition Labels](/order/Partition_Labels.md)|2018.5.7|Two Pointers, Greedy|

@@ -85,6 +85,8 @@ bfs+memo, tle(43/45):
             
 ## Solution:
 
+record bus in set instead of nodes, save time:
+
     class Solution(object):
         def numBusesToDestination(self, routes, S, T):
             """
@@ -93,31 +95,22 @@ bfs+memo, tle(43/45):
             :type T: int
             :rtype: int
             """
-            if S==T:
-                return 0
-            routes = map(set, routes)
             d=collections.defaultdict(set)
-            for i in range(len(routes)):
-                for j in range(i+1, len(routes)):
-                    if any (bus in routes[j] for bus in routes[i]):
-                        d[i].add(j)
-                        d[j].add(i)
-            
-            start, end=set(), set()
-            queue=collections.deque()
-            for i in range(len(routes)):
-                if S in routes[i]:
-                    start.add(i)
-                    queue.append([i, 1])
-                if T in routes[i]:
-                    end.add(i)
-                    
+            for i, v in enumerate(routes):
+                for route in v:
+                    d[route].add(i)
+            s=set()
+            res=0
+            queue=collections.deque([S])
             while queue:
-                node, depth=queue.popleft()
-                if node in end:
-                    return depth
-                for n in d[node]:
-                    if n not in start:
-                        start.add(n)
-                        queue.append([n, depth+1])
+                for _ in range(len(queue)):
+                    node=queue.popleft()
+                    if node==T:
+                        return res
+                    for bus in d[node]:
+                        if bus not in s:
+                            s.add(bus)
+                            for n in routes[bus]:
+                                queue.append(n)
+                res+=1
             return -1
