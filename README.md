@@ -571,14 +571,21 @@ n&=n-1
 |308|[Range Sum Query 2D - Mutable](/order/Range_Sum_Query_2D-Mutable.md)|2018.2.27|Binary Indexed Tree|
 |316|[Remove Duplicate Letters](/order/Remove_Duplicate_Letters.md)|2018.5.7|Stack, Greedy|
 |323|[Number of Connected Components in an Undirected Graph](/order/Number_of_Connected_Components_in_an_Undirected_Graph.md)|2018.3.22|Breadth-first Search, Depth-first Search, Graph|
+|340|[Longest Substring with At Most K Distinct Characters](/order/Longest_Substring_with_At_Most_K_Distinct_Characters.md)|2018.7.23|Hash Table, String|
 |356|[Line Reflection](/order/Line_Reflection.md)|2018.7.16|Hash Table, Math|
+|359|[Logger Rate Limiter](/order/Logger_Rate_Limiter.md)|2018.7.23|Hash Table, Design|
 |378|[Kth Smallest Element in a Sorted Matrix](/order/Kth_Smallest_Element_in_a_Sorted_Matrix.md)|2018.2.18|Binary Search, Heap|
 |387|[First Unique Character in a String](/order/First_Unique_Character_in_a_String.md)|2018.5.7|Hash Table, String|
 |398|[Random Pick Index](/order/Random_Pick_Index.md)|2018.7.8|Reservoir Sampling|
+|399|[Evaluate Division](/order/Evaluate_Division.md)|2018.7.23|Depth-first Search, Union Find|
 |402|[Remove K Digits](/order/Remove_K_Digits.md)|2018.6.17|Stack, Greedy|
 |406|[Queue Reconstruction by Height](/order/Queue_Reconstruction_by_Height.md)|2018.5.7|Greedy|
+|418|[Sentence Screen Fitting](/order/Sentence_Screen_Fitting.md)|2018.7.23|Dynamic Programming|
 |461|[Hamming Distance](/order/Hamming_Distance.md)|2018.4.4|Bit Manipulation|
 |477|[Total Hamming Distance](/order/Total_Hamming_Distance.md)|2018.4.4|Bit Manipulation|
+|490|[The Maze](/order/The_Maze.md)|2018.7.23|Breadth-first Search, Depth-first Search|
+|499|[The Maze III](/order/The_Maze_III.md)|2018.7.23|Breadth-first Search, Depth-first Search|
+|505|[The Maze II](/order/The_Maze_II.md)|2018.7.23|Breadth-first Search, Depth-first Search|
 |719|[Find K-th Smallest Pair Distance](/order/Find_K-th_Smallest_Pair_Distance.md)|2018.2.18|Binary Search, Heap|
 |763|[Partition Labels](/order/Partition_Labels.md)|2018.5.7|Two Pointers, Greedy|
 |864|[Random Pick with Blacklist](/order/Random_Pick_with_Blacklist.md)|2018.7.8|Hash Table, Random|
