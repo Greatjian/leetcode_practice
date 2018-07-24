@@ -28,7 +28,8 @@ Note:
 - If the scores of both players are equal, then player 1 is still the winner.
 
 ## Method:
-minimax + 记忆化搜索
+
+minimax: recursion with memorization:
 
     class Solution(object):
         def PredictTheWinner(self, nums):
@@ -37,28 +38,34 @@ minimax + 记忆化搜索
             :rtype: bool
             """
             d={}
-            return self.solve(nums,d)>=0        
             
-        def solve(self, nums, d):
-            num=tuple(nums)
-            if len(nums)==1:
-                return nums[0]
-            if num in d:
-                return d[num]
-            d[num]= max(nums[0] - self.solve(nums[1:],d), nums[-1] - self.solve(nums[:-1],d))
-            return d[num] 
+            def helper(lo, hi):
+                if (lo, hi) in d:
+                    return d[lo, hi]
+                if lo==hi:
+                    d[lo, hi]=nums[lo]
+                else:
+                    d[lo, hi]=max(nums[lo]-helper(lo+1, hi), nums[hi]-helper(lo, hi-1))
+                return d[lo, hi]
+        
+            return helper(0, len(nums)-1)>=0
             
 ## Solution:
 
+dp[lo][hi], smaller range first:
 
     class Solution(object):
         def PredictTheWinner(self, nums):
+            """
+            :type nums: List[int]
+            :rtype: bool
+            """
             N=len(nums)
-            dp=[0]*N
-            for i in range(N-1,-1,-1):
-                for j in range(i,N):
+            dp=[[0]*N for _ in range(N)]
+            for j in range(N):
+                for i in range(j, -1, -1):
                     if i==j:
-                        dp[i]=nums[i]
+                        dp[i][j]=nums[i]
                     else:
-                        dp[j]=max(nums[i]-dp[j],nums[j]-dp[j-1])
-            return dp[-1]>=0
+                        dp[i][j]=max(nums[i]-dp[i+1][j],nums[j]-dp[i][j-1])
+            return dp[0][N-1]>=0

@@ -110,7 +110,7 @@ with multiply queries, union find is faster:
                 r1=find(p)
                 r2=find(q)
                 r2.parent=r1
-                r2.val=p.val * val / q.val
+                r2.val=evaluate(p) * val / evaluate(q)
     
             def evaluate(node):
                 if node.parent==node:

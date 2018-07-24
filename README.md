@@ -185,7 +185,8 @@ return lo
 |464|[Can I Win](/DynamicProgramming/Can_I_Win.md)|2017.9.14|
 |467|[Unique Substrings in Wraparound String](/DynamicProgramming/Unique_Substrings_in_Wraparound_String.md)|2017.9.15|
 |474|[Ones and Zeroes](/DynamicProgramming/Ones_and_Zeroes.md)|2017.9.16|
-|474|[Target Sum](/DynamicProgramming/Target_Sum.md)|2017.9.17|
+|486|[Predict the Winner](/DynamicProgramming/Predict_the_Winner.md)|2018.7.23|
+|494|[Target Sum](/DynamicProgramming/Target_Sum.md)|2017.9.17|
 |516|[Longest Palindromic Subsequence](/DynamicProgramming/Longest_Palindromic_Subsequence.md)|2017.9.18|
 |523|[Continuous Subarray Sum](/DynamicProgramming/Continuous_Subarray_Sum.md)|2017.9.19|
 |576|[Out of Boundary Paths](/DynamicProgramming/Out_of_Boundary_Paths.md)|2017.9.20|
@@ -584,9 +585,13 @@ n&=n-1
 |461|[Hamming Distance](/order/Hamming_Distance.md)|2018.4.4|Bit Manipulation|
 |477|[Total Hamming Distance](/order/Total_Hamming_Distance.md)|2018.4.4|Bit Manipulation|
 |490|[The Maze](/order/The_Maze.md)|2018.7.23|Breadth-first Search, Depth-first Search|
+|496|[Next Greater Element I](/order/Next_Greater_Element_I.md)|2018.7.23|Stack|
 |499|[The Maze III](/order/The_Maze_III.md)|2018.7.23|Breadth-first Search, Depth-first Search|
+|503|[Next Greater Element II](/order/Next_Greater_Element_II.md)|2018.7.23|Stack|
 |505|[The Maze II](/order/The_Maze_II.md)|2018.7.23|Breadth-first Search, Depth-first Search|
+|684|[Redundant Connection](/order/Redundant_Connection.md)|2018.7.23|Union Find|
 |719|[Find K-th Smallest Pair Distance](/order/Find_K-th_Smallest_Pair_Distance.md)|2018.2.18|Binary Search, Heap|
+|753|[Cracking the Safe](/order/Cracking_the_Safe.md)|2018.7.23|Depth-first Search|
 |763|[Partition Labels](/order/Partition_Labels.md)|2018.5.7|Two Pointers, Greedy|
 |864|[Random Pick with Blacklist](/order/Random_Pick_with_Blacklist.md)|2018.7.8|Hash Table, Random|
 
