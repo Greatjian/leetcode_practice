@@ -538,7 +538,7 @@ n&=n-1
 |186|[Reverse Words in a String II](/order/Reverse_Words_in_a_String_II.md)|2018.1.24|String|
 |190|[Reverse Bits](order/Reverse_Bits.md)|2018.1.25|Bit Manipulation|
 |191|[Number of 1 Bits](/order/Number_of_1_Bits.md)|2018.1.25|Bit Manipulation|
-|200|[Number of Islands](/order/Number_of_Islands.md)|2018.1.25|Breadth-first Search, Depth-first Search|
+|200|[Number of Islands](/order/Number_of_Islands.md)|2018.1.25|Breadth-first Search, Depth-first Search, Union Find|
 |201|[Bitwise AND of Numbers Range](/order/Bitwise_AND_of_Numbers_Range.md)|2018.1.25|Bit Manipulation|
 |203|[Remove Linked List Elements](/order/Remove_Linked_List_Elements.md)|2018.1.25|Linked List|
 |206|[Reverse Linked List](/order/Remove_Duplicates_from_Sorted_List.md)|2018.1.22|Linked List|
@@ -568,6 +568,7 @@ n&=n-1
 |270|[Closest Binary Search Tree Value](/order/Closest_Binary_Search_Tree_Value.md)|2018.2.8|Binary Search, Tree|
 |272|[Closest Binary Search Tree Value II](/order/Closest_Binary_Search_Tree_Value_II.md)|2018.2.8|Stack, Tree|
 |292|[Nim Game](/order/Nim_Game.md)|2018.4.4|Brainteaser|
+|305|[Number of Islands II](/order/Number_of_Islands_II.md)|2018.7.24|Union Find|
 |307|[Range Sum Query - Mutable](/order/Range_Sum_Query-Mutable.md)|2018.2.26|Binary Indexed Tree|
 |308|[Range Sum Query 2D - Mutable](/order/Range_Sum_Query_2D-Mutable.md)|2018.2.27|Binary Indexed Tree|
 |316|[Remove Duplicate Letters](/order/Remove_Duplicate_Letters.md)|2018.5.7|Stack, Greedy|
@@ -592,6 +593,7 @@ n&=n-1
 |684|[Redundant Connection](/order/Redundant_Connection.md)|2018.7.23|Union Find|
 |685|[Redundant Connection II](/order/Redundant_Connection_II.md)|2018.7.23|Union Find|
 |719|[Find K-th Smallest Pair Distance](/order/Find_K-th_Smallest_Pair_Distance.md)|2018.2.18|Binary Search, Heap|
+[737. Sentence Similarity II](/order/Sentence_Similarity_II.md)|2018.7.28|Union Find, Depth-first Search|
 |753|[Cracking the Safe](/order/Cracking_the_Safe.md)|2018.7.23|Depth-first Search|
 |763|[Partition Labels](/order/Partition_Labels.md)|2018.5.7|Two Pointers, Greedy|
 |864|[Random Pick with Blacklist](/order/Random_Pick_with_Blacklist.md)|2018.7.8|Hash Table, Random|
@@ -707,3 +709,7 @@ n&=n-1
 |-|[874. Walking Robot Simulation](/contest/Walking_Robot_Simulation.md)|2018.7.22|
 |-|[875. Koko Eating Bananas](/contest/Koko_Eating_Bananas.md)|2018.7.22|
 |-|[873. Length of Longest Fibonacci Subsequence](/contest/Length_of_Longest_Fibonacci_Subsequence.md)|2018.7.22|
+|Weekly Contest 95|[876. Middle of the Linked List](/contest/Middle_of_the_Linked_List.md)|2018.7.28|Linked List|
+|-|[877. Stone Game](/contest/Stone_Game.md)|2018.7.28|Math, Dynamic Programming|
+|-|[878. Nth Magical Number](/contest/Nth_Magical_Number.md)|2018.7.28|Math, Binary Search|
+|-|[879. Profitable Schemes](/contest/Profitable_Schemes.md)|2018.7.28|Dynamic Programming|

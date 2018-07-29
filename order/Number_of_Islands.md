@@ -105,5 +105,49 @@ recursion:
                         dfs(i, j)                         
             return count
             
+union find:
+ 
+    class UF:
+        def __init__(self, val):
+            self.parent=[0]*val
+            self.cnt=0
+            
+        def find(self, node):
+            if self.parent[node]!=node:
+                self.parent[node]=self.find(self.parent[node])
+            return self.parent[node]
+        
+        def union(self, p, q):
+            r1, r2=self.find(p), self.find(q)
+            if r1!=r2:
+                self.parent[r1]=r2
+                self.cnt-=1
+    
+    
+    class Solution(object):
+        def numIslands(self, grid):
+            """
+            :type grid: List[List[str]]
+            :rtype: int
+            """
+            if not grid:
+                return 0
+                        
+            m, n=len(grid), len(grid[0])
+            uf=UF(m*n)
+            for i in range(m):
+                for j in range(n):
+                    if grid[i][j]=='1':
+                        uf.parent[i*n+j]=i*n+j
+                        uf.cnt+=1
+                        
+            for i in range(m):
+                for j in range(n):
+                    if grid[i][j]=='1':
+                        for di, dj in [[0,-1],[0,1],[1,0],[-1,0]]:
+                            if 0<=i+di<m and 0<=j+dj<n and grid[i+di][j+dj]=='1':
+                                uf.union(i*n+j, (i+di)*n+(j+dj))
+            return uf.cnt
+                        
             
 
