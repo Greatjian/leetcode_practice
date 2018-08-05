@@ -34,6 +34,12 @@ My harvests for each practice are summarized [here](/summary.md).
 - [Order](#order)
 - [Leetcode Contest](#leetcode-contest)
 
+## Useful Summary
+
+- [Tree traversal](/summary/Tree_traversal.md) (pre/in/post/level order)
+- [sliding window](/summary/Sliding_window.md) (dict/counter + two pointers)
+
+
 ## Array
 
 ```
@@ -200,8 +206,6 @@ return lo
 |746|[Min Cost Climbing Stairs](/DynamicProgramming/Min_Cost_Climbing_Stairs.md)|2018.5.7|
 
 ## Tree
-
-[Tree traversal summary (preorder, inorder, postorder, level order)](/tree/Tree_traversal.md)
 
 |Number|Name|Date|
 |:---:|:---:|:---:|
@@ -593,7 +597,7 @@ n&=n-1
 |684|[Redundant Connection](/order/Redundant_Connection.md)|2018.7.23|Union Find|
 |685|[Redundant Connection II](/order/Redundant_Connection_II.md)|2018.7.23|Union Find|
 |719|[Find K-th Smallest Pair Distance](/order/Find_K-th_Smallest_Pair_Distance.md)|2018.2.18|Binary Search, Heap|
-[737. Sentence Similarity II](/order/Sentence_Similarity_II.md)|2018.7.28|Union Find, Depth-first Search|
+|737|[Sentence Similarity II](/order/Sentence_Similarity_II.md)|2018.7.28|Union Find, Depth-first Search|
 |753|[Cracking the Safe](/order/Cracking_the_Safe.md)|2018.7.23|Depth-first Search|
 |763|[Partition Labels](/order/Partition_Labels.md)|2018.5.7|Two Pointers, Greedy|
 |864|[Random Pick with Blacklist](/order/Random_Pick_with_Blacklist.md)|2018.7.8|Hash Table, Random|
@@ -713,3 +717,7 @@ n&=n-1
 |-|[877. Stone Game](/contest/Stone_Game.md)|2018.7.28|Math, Dynamic Programming|
 |-|[878. Nth Magical Number](/contest/Nth_Magical_Number.md)|2018.7.28|Math, Binary Search|
 |-|[879. Profitable Schemes](/contest/Profitable_Schemes.md)|2018.7.28|Dynamic Programming|
+|Weekly Contest 96|[887. Projection Area of 3D Shapes](/contest/Projection_Area_of_3D_Shapes.md)|2018.8.5|Math|
+|-|[885. Boats to Save People](/contest/Boats_to_Save_People.md)|2018.8.5|Two Pointers, Greedy|
+|-|[884. Decoded String at Index](/contest/Decoded_String_at_Index.md)|2018.7.28|Stack|
+|-|[886. Reachable Nodes In Subdivided Graph](/contest/Reachable_Nodes_In_Subdivided_Graph.md)|2018.7.28|Heap|
